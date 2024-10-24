@@ -1,0 +1,21 @@
+{
+	"food": 0,
+	"wood": 10,
+	"stone": 10,
+	"machineParts": 0,
+	"knowledge": 20,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"buttonBack": "spr_sportpark_buttonbg",
+	"__name__": "buildings.SportPark",
+	"__super__": "buildings_Park",
+	"spriteName": "spr_botanicalgardens",
+	"saveDefinition": "",
+	"name": "Fitness Park",
+	"description": "Your citizens can do some exercises here, which makes them live longer. This effect is increased if there are parks next to it.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

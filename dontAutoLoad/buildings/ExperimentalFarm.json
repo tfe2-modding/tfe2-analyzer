@@ -1,0 +1,31 @@
+{
+	"food": 0,
+	"wood": 60,
+	"stone": 30,
+	"machineParts": 5,
+	"refinedMetal": 0,
+	"computerChips": 0,
+	"knowledge": 50,
+	"category": "Unique Buildings",
+	"unlockedByDefault": true,
+	"specialInfo": [
+		"unique",
+		"notUniqueIfGalacticLibrary"
+	],
+	"jobs": 3,
+	"buttonBack": "spr_experimentalfarm_buttonback",
+	"__name__": "buildings.ExperimentalFarm",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_experimentalfarm",
+	"indoorFarmSpeedIncrease": 0.1,
+	"knowledgePerStep": 0.025,
+	"saveDefinition": "totalKnowledgeGenerated$Float",
+	"name": "Experimental Farm",
+	"description": "Food is produced here. Also slightly increases the growth speed of crops in indoor farms.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [
+		"cityUpgrades.EcoFarmUpgrade"
+	],
+	"policies": []
+}

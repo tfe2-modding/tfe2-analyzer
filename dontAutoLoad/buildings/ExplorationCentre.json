@@ -1,0 +1,23 @@
+{
+	"food": 0,
+	"wood": 8,
+	"stone": 4,
+	"machineParts": 0,
+	"knowledge": 0,
+	"category": "Production",
+	"unlockedByDefault": true,
+	"specialInfo": [],
+	"jobs": 3,
+	"__name__": "buildings.ExplorationCentre",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_explorationcentre",
+	"explorePerAction": 0.25,
+	"knowledgePerExploreAction": 0.25,
+	"knowledgePerStep": 0.001,
+	"name": "Exploration Center",
+	"description": "Explore alien ruins to gain knowledge, resources and special bonuses. When all ruins have been explored, workers will investigate their findings to gain more knowledge.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

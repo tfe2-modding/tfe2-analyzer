@@ -1,0 +1,37 @@
+{
+	"food": 0,
+	"wood": 0,
+	"stone": 0,
+	"computerChips": 0,
+	"machineParts": 100,
+	"refinedMetal": 3,
+	"knowledge": 250,
+	"category": "Production",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"jobs": 2,
+	"tooltipBottomIconInfo": [
+		{
+			"texture": "spr_bonusrange_plus"
+		}
+	],
+	"__name__": "buildings.SuperheatedRefinery",
+	"__super__": "buildings_MaterialConvertingFactory",
+	"spriteName": "spr_superheatedrefinery",
+	"originalEfficiency": 5,
+	"origMaterialsMadePerStepPerWorker": 0.00075,
+	"saveDefinition": "",
+	"tooltipBottomIconInfo_0": "Boost from machine parts factories",
+	"name": "Superheated Refinery",
+	"description": "Produces refined metals from stone. If surrounded by machine parts factories, this production is faster than a refined metals factory. Otherwise, it is slower.",
+	"upgrades": [
+		"buildingUpgrades.RefinedMetalFactoryEfficiency"
+	],
+	"modes": [
+		"buildingUpgrades.FactoryWorking",
+		"buildingUpgrades.RefinedMetalsFactoryHack",
+		"buildingUpgrades.StoneUsingFactoryDisabled"
+	],
+	"cityUpgrades": [],
+	"policies": []
+}

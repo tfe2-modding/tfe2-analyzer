@@ -1,0 +1,22 @@
+{
+	"food": 5,
+	"wood": 5,
+	"stone": 2,
+	"knowledge": 50,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"notUnlockedWithAll": true,
+	"specialInfo": [
+		"halloween"
+	],
+	"residents": 5,
+	"quality": 50,
+	"__name__": "buildings.HauntedHovel",
+	"__super__": "buildings_House",
+	"spriteName": "spr_hauntedhovel",
+	"name": "Haunted Hovel",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

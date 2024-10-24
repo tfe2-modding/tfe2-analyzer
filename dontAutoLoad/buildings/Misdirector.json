@@ -1,0 +1,30 @@
+{
+	"food": 0,
+	"wood": 400,
+	"stone": 10000,
+	"machineParts": 500,
+	"computerChips": 500,
+	"knowledge": 30000,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique"
+	],
+	"__name__": "buildings.Misdirector",
+	"__super__": "Building",
+	"spriteName": "spr_misdirector",
+	"normalKnowledgeProduction": 0.5,
+	"reducedKnowledgeProduction": 0.05,
+	"saveDefinition": "knowledgeGenerated$Float|timesUsedTo$Int",
+	"name": "Misdirector",
+	"description": "Whenever someone uses a teleporter, there is a small chance they will be brought here instead. This will confuse them for a short while. This invention is not completely useless though: you will gain some knowledge each time. Also, the Misdirector halves the operating cost of teleporters.",
+	"upgrades": [],
+	"modes": [
+		"buildingUpgrades.MisdirectorNormal",
+		"buildingUpgrades.MisdirectorAlways",
+		"buildingUpgrades.MisdirectorMostlyDisabled",
+		"buildingUpgrades.MisdirectorDisabled"
+	],
+	"cityUpgrades": [],
+	"policies": []
+}

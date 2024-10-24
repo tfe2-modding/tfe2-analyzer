@@ -1,0 +1,9 @@
+{
+	"__name__": "buildings.OutpostHouse",
+	"__super__": "buildings_House",
+	"spriteName": "spr_outposthouse",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

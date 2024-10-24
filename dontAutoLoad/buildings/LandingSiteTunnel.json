@@ -1,0 +1,22 @@
+{
+	"food": 0,
+	"wood": 15,
+	"stone": 20,
+	"machineParts": 20,
+	"knowledge": 325,
+	"category": "Transportation",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"premium"
+	],
+	"buttonBack": "spr_landingpadtunnel_buttonback",
+	"__name__": "buildings.LandingSiteTunnel",
+	"__super__": "buildings_LandingSite",
+	"spriteName": "spr_landingpad_tunnel",
+	"name": "Indoor Landing Pad ",
+	"description": "A landing pad that can be integrated into a building. It can also be connected to space ship tunnels.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

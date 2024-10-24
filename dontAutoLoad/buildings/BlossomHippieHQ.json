@@ -1,0 +1,30 @@
+{
+	"food": 5000,
+	"wood": 5000,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 50,
+	"computerChips": 0,
+	"knowledge": 5000,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique"
+	],
+	"residents": 6,
+	"quality": 100,
+	"jobs": 6,
+	"additionalNoteForPeopleReadingThis": "You also need 750 citizens.",
+	"__name__": "buildings.BlossomHippieHQ",
+	"__super__": "buildings_WorkWithHome",
+	"spriteName": "spr_blossomhippiehq",
+	"lastMission": 8,
+	"saveDefinition": "lastEventDoneOnDay$Int|doingEvent$Int|eventPhase$Int|currentMission$Int",
+	"name": "Blossom Hippies Center",
+	"description": "These hippies love flowers, peace and music. They have a few tasks for you, if you don't mind.",
+	"showUnlockHint": "Build a stack of Botanical Gardens at least twenty buildings high to unlock!",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

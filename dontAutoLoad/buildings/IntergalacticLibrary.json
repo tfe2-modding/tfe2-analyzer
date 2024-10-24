@@ -1,0 +1,36 @@
+{
+	"food": 100000,
+	"wood": 200000,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"computerChips": 15000,
+	"graphene": 2000,
+	"rocketFuel": 0,
+	"knowledge": 200000,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique",
+		"premium"
+	],
+	"jobs": 3,
+	"__name__": "buildings.IntergalacticLibrary",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_intergalacticlibrary",
+	"closeTime": 23,
+	"educationPerDay": 0.033,
+	"educationCap": 1.81,
+	"knowledgePerPerson": 0.05,
+	"saveDefinition": "knowledgeSoFar$Float",
+	"name": "Intergalactic Library",
+	"description": "This grand library greatly educates visitors. Workers produce knowledge based on the total number of citizens in associated cities. Also allows you to research city upgrades.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [
+		"cityUpgrades.GeneEditing",
+		"cityUpgrades.LibraryAllowDuplicates",
+		"cityUpgrades.ConnectedMachines"
+	],
+	"policies": []
+}

@@ -1,0 +1,26 @@
+{
+	"food": 0,
+	"wood": 50000,
+	"stone": 0,
+	"refinedMetal": 0,
+	"machineParts": 1000,
+	"knowledge": 50000,
+	"computerChips": 750,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"notUnlockedWithAll": true,
+	"specialInfo": [
+		"unique",
+		"premium"
+	],
+	"jobs": 2,
+	"__name__": "buildings.HackerSchool",
+	"__super__": "buildings_School",
+	"spriteName": "spr_hackersschool",
+	"name": "Hacker School",
+	"description": "This school provides a great education. Graduates will occasionally create minor inventions.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

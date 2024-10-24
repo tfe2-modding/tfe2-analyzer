@@ -1,0 +1,26 @@
+{
+	"food": 1000,
+	"wood": 500,
+	"stone": 0,
+	"machineParts": 0,
+	"knowledge": 12500,
+	"graphene": 10,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"rooftop",
+		"premium"
+	],
+	"jobs": 1,
+	"__name__": "buildings.WizardHatCafe",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_wizardhatcafe",
+	"closeTime": 0.5,
+	"saveDefinition": "mirrored$Bool",
+	"name": "Wizard Hat Cafe",
+	"description": "A possibly magical rooftop cafe. Seems to occasionally spawn giant frogs.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

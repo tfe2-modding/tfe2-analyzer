@@ -1,0 +1,27 @@
+{
+	"food": 0,
+	"wood": 50,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"computerChips": 0,
+	"knowledge": 300,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"premium"
+	],
+	"residents": 1,
+	"quality": 100,
+	"buttonBack": "spr_pondpod_buttonback",
+	"__name__": "buildings.PondPod",
+	"__super__": "buildings_ParkPod",
+	"spriteName": "spr_botanicalgardens",
+	"saveDefinition": "",
+	"name": "Pond Pod",
+	"description": "A house above a shallow pond.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

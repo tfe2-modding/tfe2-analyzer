@@ -1,0 +1,30 @@
+{
+	"food": 0,
+	"wood": 1000,
+	"stone": 2000,
+	"machineParts": 0,
+	"refinedMetal": 30,
+	"computerChips": 20,
+	"graphene": 3,
+	"knowledge": 150000,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"premium"
+	],
+	"residents": 4,
+	"quality": 75,
+	"teleporterOperatingCost": 2,
+	"__name__": "buildings.Mansion",
+	"__super__": "buildings_House",
+	"spriteName": "spr_mansion",
+	"educationPerDay": 0.01,
+	"educationCap": 1.25,
+	"saveDefinition": "timesUsed$Int|timesUsedTo$Int",
+	"name": "Mansion",
+	"description": "A large, luxurious house with a private teleporter. It improves education of residents, and makes them live slightly longer. The housing quality is increased by 25 if connected to another mansion.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

@@ -1,0 +1,8 @@
+{
+	"__name__": "buildings.Work",
+	"__super__": "Building",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

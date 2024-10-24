@@ -1,0 +1,24 @@
+{
+	"food": 500,
+	"wood": 400,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 10,
+	"knowledge": 100000,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"premium"
+	],
+	"buttonBack": "spr_otherworldlyGardens_buttonback",
+	"__name__": "buildings.OtherworldlyGardens",
+	"__super__": "buildings_BotanicalGardens",
+	"spriteName": "spr_botanicalgardens",
+	"saveDefinition": "hiddenAnimalHere$Bool",
+	"name": "Otherworldly Gardens",
+	"description": "An otherworldly zoo with plants that can grow as high as you desire.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

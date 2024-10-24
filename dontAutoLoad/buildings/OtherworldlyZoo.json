@@ -1,0 +1,24 @@
+{
+	"food": 500,
+	"wood": 250,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 10,
+	"knowledge": 25000,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"premium"
+	],
+	"buttonBack": "spr_otherworldlyZoo_buttonback",
+	"__name__": "buildings.OtherworldlyZoo",
+	"__super__": "buildings_Park",
+	"spriteName": "spr_botanicalgardens",
+	"saveDefinition": "",
+	"name": "Otherworldly Zoo",
+	"description": "A zoo with otherworldly plants and animals.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

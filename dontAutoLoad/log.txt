@@ -1,0 +1,14 @@
+[ANALYZER WARN] OutpostHouse referenced missing sprite spr_outposthouse :
+	 Cannot destructure property 'frame' of 'sprites.frames[(info.spriteName + ".png")]' as it is undefined.
+[ANALYZER WARN] error writing sprite :
+	 ENOENT: no such file or directory, open 'dontAutoLoad\sprites\src\potential_hacker_symbol.png'
+[ANALYZER WARN] could not create building sprite for Work
+[ANALYZER WARN] could not create building sprite for House
+[ANALYZER WARN] could not create building sprite for WorkWithHome
+[ANALYZER WARN] could not create building sprite for BlueCollarWork
+[ANALYZER WARN] could not create building sprite for Factory
+[ANALYZER WARN] could not create building sprite for MaterialConvertingFactory
+[ANALYZER WARN] could not create building sprite for CustomHouseProperties
+[ANALYZER WARN] could not create building sprite for FarmGrowArea
+[ANALYZER WARN] could not create building sprite for OutpostHouse
+[ANALYZER WARN] could not create building sprite for ThievesDen

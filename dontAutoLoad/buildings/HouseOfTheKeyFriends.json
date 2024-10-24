@@ -1,0 +1,23 @@
+{
+	"food": 0,
+	"wood": 0,
+	"stone": 0,
+	"knowledge": 0,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique"
+	],
+	"residents": 8,
+	"quality": 100,
+	"notUnlockedWithAll": true,
+	"__name__": "buildings.HouseOfTheKeyFriends",
+	"__super__": "buildings_House",
+	"spriteName": "spr_houseofthekeyfriends",
+	"name": "Friends of the Key",
+	"description": "A house for friends of the Secret Society of the Key. As long as The Machine exists, people in this house live forever.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

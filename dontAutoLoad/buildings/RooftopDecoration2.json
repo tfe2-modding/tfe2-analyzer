@@ -1,0 +1,24 @@
+{
+	"food": 0,
+	"wood": 1,
+	"stone": 1,
+	"machineParts": 0,
+	"knowledge": 0,
+	"category": "Decoration & Nature_slantedrooftops",
+	"unlockedByDefault": true,
+	"specialInfo": [
+		"rooftop",
+		"as_multi_decor",
+		"as_multi_decor_anycolor"
+	],
+	"__name__": "buildings.RooftopDecoration2",
+	"__super__": "Building",
+	"spriteName": "spr_slantedrooftop",
+	"saveDefinition": "mirrored$Bool|currentTexture$Int|currentRecolor$Int",
+	"name": "Slanted Rooftop",
+	"description": "The top of a slanted roof.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

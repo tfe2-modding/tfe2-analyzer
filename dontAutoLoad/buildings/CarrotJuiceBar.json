@@ -1,0 +1,23 @@
+{
+	"food": 20,
+	"wood": 20,
+	"stone": 0,
+	"machineParts": 0,
+	"knowledge": 20,
+	"category": "Hidden",
+	"unlockedByDefault": false,
+	"notUnlockedWithAll": true,
+	"specialInfo": [
+		"disableCopy"
+	],
+	"jobs": 3,
+	"__name__": "buildings.CarrotJuiceBar",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_carrotjuicebar",
+	"closeTime": 4.5,
+	"name": "Carrot Juice Bar",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

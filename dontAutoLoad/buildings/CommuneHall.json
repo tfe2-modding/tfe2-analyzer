@@ -1,0 +1,31 @@
+{
+	"food": 0,
+	"wood": 2000,
+	"stone": 2000,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"computerChips": 25,
+	"knowledge": 2000,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique"
+	],
+	"jobs": 3,
+	"__name__": "buildings.CommuneHall",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_communehall",
+	"closeTime": 23,
+	"knowledgePerStep": 0.00121,
+	"knowledgePerStepIfFed": 0.00321,
+	"saveDefinition": "totalFoodConsumed$Float|totalKnowledgeGenerated$Float",
+	"name": "Commune Hall",
+	"description": "A place for people to socialize, eat and discuss matters related to this commune. Provides Pub entertainment and generates knowledge.",
+	"upgrades": [],
+	"modes": [
+		"buildingUpgrades.FreeThinkers",
+		"buildingUpgrades.WellFedThinkers"
+	],
+	"cityUpgrades": [],
+	"policies": []
+}

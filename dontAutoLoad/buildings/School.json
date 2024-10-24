@@ -1,0 +1,20 @@
+{
+	"food": 0,
+	"wood": 20,
+	"stone": 10,
+	"machineParts": 0,
+	"knowledge": 0,
+	"category": "Services",
+	"unlockedByDefault": true,
+	"specialInfo": [],
+	"jobs": 1,
+	"__name__": "buildings.School",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_school",
+	"name": "School",
+	"description": "Educates children, improving how effective they'll be at some jobs later.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

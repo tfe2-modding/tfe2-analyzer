@@ -1,0 +1,27 @@
+{
+	"food": 0,
+	"wood": 0,
+	"stone": 200,
+	"machineParts": 100,
+	"refinedMetal": 20,
+	"knowledge": 300,
+	"category": "Production",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"jobs": 3,
+	"__name__": "buildings.ComputerChipFactory",
+	"__super__": "buildings_MaterialConvertingFactory",
+	"spriteName": "spr_computerchipfactory",
+	"saveDefinition": "",
+	"name": "Computer Chip Factory",
+	"description": "Produces computer chips from refined metals. Seven units of refined metals are needed to make one computer chip.!unlocks",
+	"upgrades": [
+		"buildingUpgrades.DieShrink"
+	],
+	"modes": [
+		"buildingUpgrades.FactoryWorking",
+		"buildingUpgrades.RefinedStoneUsingFactoryDisabled"
+	],
+	"cityUpgrades": [],
+	"policies": []
+}

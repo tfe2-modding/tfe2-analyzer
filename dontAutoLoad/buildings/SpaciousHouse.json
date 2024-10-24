@@ -1,0 +1,26 @@
+{
+	"food": 0,
+	"wood": 4,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 10,
+	"computerChips": 0,
+	"knowledge": 100,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"residents": 6,
+	"quality": 60,
+	"__name__": "buildings.SpaciousHouse",
+	"__super__": "buildings_House",
+	"spriteName": "spr_spacioushouse",
+	"name": "Spacious House",
+	"description": "A modern house with lots of space.",
+	"upgrades": [
+		"buildingUpgrades.SmartLights",
+		"buildingUpgrades.SofterBeds"
+	],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

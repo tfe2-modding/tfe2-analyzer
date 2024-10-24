@@ -1,0 +1,22 @@
+{
+	"food": 10,
+	"wood": 30,
+	"stone": 10,
+	"machineParts": 0,
+	"knowledge": 10,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"jobs": 2,
+	"__name__": "buildings.Restaurant",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_restaurant",
+	"closeTime": 0.5,
+	"name": "Restaurant",
+	"description": "A cozy place with nice food.",
+	"showUnlockHint": "Build at least five Pubs to unlock!",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

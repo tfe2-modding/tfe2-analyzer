@@ -1,0 +1,27 @@
+{
+	"food": 100,
+	"wood": 100,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"computerChips": 0,
+	"knowledge": 5000,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique"
+	],
+	"buttonBack": "spr_treehuggerbase",
+	"residents": 3,
+	"quality": 100,
+	"notUnlockedWithAll": true,
+	"__name__": "buildings.TreeHuggerBase",
+	"__super__": "buildings_House",
+	"spriteName": "spr_bloomrestaurant",
+	"name": "Tree Hugger Base",
+	"description": "Who wouldn't hug this tree?",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

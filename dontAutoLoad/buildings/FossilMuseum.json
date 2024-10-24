@@ -1,0 +1,30 @@
+{
+	"food": 0,
+	"wood": 1000,
+	"stone": 1000,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"computerChips": 1,
+	"knowledge": 25000,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique"
+	],
+	"jobs": 3,
+	"notUnlockedWithAll": true,
+	"__name__": "buildings.FossilMuseum",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_fossilmuseum",
+	"knowledgePerStepPerFossil": 0.001,
+	"closeTime": 23,
+	"educationPerDay": 0.035,
+	"educationCap": 1.61,
+	"saveDefinition": "totalKnowledgeGenerated$Float",
+	"name": "Museum of Space Fossils",
+	"description": "Fossils found by the Fossil Detector are displayed here. Improves the education of visitors. Workers produce knowledge based on the number of fossils you found.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

@@ -1,0 +1,4 @@
+{
+	"__name__": "buildings.CustomHouseProperties",
+	"saveDefinition": "mainType$String|mainColor$Int|windowColor$Int|interiorSprite1$String|interiorOption1$Int|interiorOption1Mirror$Bool|interiorSprite2$String|interiorOption2$Int|interiorOption2Mirror$Bool|customAttractiveness$Int|customCapacity$Int|costModifiers$ds|bonuses$ds|mergeWithSimilar$Bool"
+}

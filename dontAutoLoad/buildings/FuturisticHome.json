@@ -1,0 +1,29 @@
+{
+	"food": 0,
+	"wood": 0,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 35,
+	"computerChips": 5,
+	"graphene": 5,
+	"knowledge": 20000,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"premium"
+	],
+	"residents": 6,
+	"quality": 100,
+	"__name__": "buildings.FuturisticHome",
+	"__super__": "buildings_House",
+	"spriteName": "spr_futuristichome",
+	"educationPerDay": 0.005,
+	"educationCap": 1.2,
+	"saveDefinition": "mirrored$Bool|interior$Int",
+	"name": "Futuristic Home",
+	"description": "Residents automatically gain healthcare and some education.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

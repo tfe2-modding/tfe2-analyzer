@@ -1,0 +1,28 @@
+{
+	"food": 0,
+	"wood": 2,
+	"stone": 0,
+	"machineParts": 2,
+	"refinedMetal": 4,
+	"computerChips": 1,
+	"knowledge": 500,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"residents": 4,
+	"quality": 75,
+	"__name__": "buildings.CuttingEdgeHome",
+	"__super__": "buildings_House",
+	"spriteName": "spr_cuttingedgehome",
+	"name": "Cutting-Edge House",
+	"description": "A hypermodern home filled with technology.",
+	"showUnlockHint": "Build the Living Research Center to unlock!",
+	"upgrades": [
+		"buildingUpgrades.BiggerTV",
+		"buildingUpgrades.ModernHomePlant",
+		"buildingUpgrades.SmartChairs"
+	],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

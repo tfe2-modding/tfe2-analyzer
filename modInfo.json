@@ -1,0 +1,5 @@
+{
+	"name": "TFE2 Analyzer",
+	"description": "A small utility mod for picking certain pieces of data out of the code and files of the game and exporting them to a folder.",
+	"loadPriority": 1e309
+}

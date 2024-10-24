@@ -1,0 +1,32 @@
+{
+	"food": 0,
+	"wood": 0,
+	"refinedMetal": 50,
+	"machineParts": 100,
+	"computerChips": 25,
+	"knowledge": 0,
+	"category": "Production",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"premium"
+	],
+	"jobs": 2,
+	"__name__": "buildings.RocketFuelFactory",
+	"__super__": "buildings_MaterialConvertingFactory",
+	"spriteName": "spr_rocketfuelfactory",
+	"originalEfficiency": 1,
+	"origMaterialsMadePerStepPerWorker": 0.001,
+	"saveDefinition": "currentMaterialUsed$Int",
+	"name": "Rocket Fuel Factory",
+	"description": "Makes rocket fuel from wood or food. One resource is used to make one unit of rocket fuel.",
+	"upgrades": [
+		"buildingUpgrades.RocketFuelFactoryEfficiency"
+	],
+	"modes": [
+		"buildingUpgrades.FactoryUsingFood",
+		"buildingUpgrades.FactoryUsingWood",
+		"buildingUpgrades.FactoryDisabled"
+	],
+	"cityUpgrades": [],
+	"policies": []
+}

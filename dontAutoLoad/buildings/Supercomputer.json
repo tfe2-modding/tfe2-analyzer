@@ -1,0 +1,30 @@
+{
+	"food": 0,
+	"wood": 0,
+	"stone": 10000,
+	"machineParts": 1000,
+	"refinedMetal": 2000,
+	"computerChips": 1000,
+	"knowledge": 20000,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique",
+		"notUniqueIfGalacticLibrary"
+	],
+	"__name__": "buildings.Supercomputer",
+	"__super__": "Building",
+	"spriteName": "spr_supercomputer",
+	"knowledgePerDayPerEmployee": 2,
+	"saveDefinition": "knowledgeSoFar$Float",
+	"name": "Supercomputer",
+	"description": "Produces knowledge based on the amount of lab employees in your city. Also allows you to research some city upgrades.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [
+		"cityUpgrades.UniverseMapping",
+		"cityUpgrades.OptimizedChipLayouts",
+		"cityUpgrades.MedicalMachineLearning"
+	],
+	"policies": []
+}

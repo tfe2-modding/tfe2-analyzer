@@ -1,0 +1,31 @@
+{
+	"food": 0,
+	"wood": 50,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"computerChips": 0,
+	"knowledge": 300,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"residents": 1,
+	"quality": 100,
+	"buttonBack": "spr_parkpod_buttonback",
+	"__name__": "buildings.ParkPod",
+	"__super__": "buildings_House",
+	"spriteName": "spr_botanicalgardens",
+	"mainTextures": [
+		"spr_botanicalgardens",
+		"spr_indoorpark",
+		"spr_indoorpark_alt1",
+		"spr_indoorpark_dark"
+	],
+	"saveDefinition": "currentTexture$Int|currentMainTexture$Int",
+	"name": "Park Pod",
+	"description": "A home in the middle of a park.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

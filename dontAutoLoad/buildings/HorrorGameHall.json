@@ -1,0 +1,27 @@
+{
+	"food": 50,
+	"wood": 100,
+	"stone": 50,
+	"machineParts": 10,
+	"refinedMetal": 0,
+	"computerChips": 5,
+	"knowledge": 200,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"notUnlockedWithAll": true,
+	"specialInfo": [
+		"halloween"
+	],
+	"jobs": 1,
+	"__name__": "buildings.HorrorGameHall",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_horrorgamehall",
+	"closeTime": 3,
+	"saveDefinition": "",
+	"name": "Horror Game Hall",
+	"description": "A possibly haunted arcade that only offers horror games.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

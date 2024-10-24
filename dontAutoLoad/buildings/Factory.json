@@ -1,0 +1,9 @@
+{
+	"__name__": "buildings.Factory",
+	"__super__": "buildings_Work",
+	"timePerFrame": 4,
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

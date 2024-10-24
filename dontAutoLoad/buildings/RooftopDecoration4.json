@@ -1,0 +1,24 @@
+{
+	"food": 0,
+	"wood": 3,
+	"stone": 3,
+	"machineParts": 0,
+	"knowledge": 0,
+	"category": "Decoration & Nature_roofbottom",
+	"unlockedByDefault": true,
+	"specialInfo": [
+		"rooftop",
+		"as_multi_decor",
+		"as_multi_decor_anycolor"
+	],
+	"__name__": "buildings.RooftopDecoration4",
+	"__super__": "Building",
+	"spriteName": "spr_roofbottom",
+	"saveDefinition": "mirrored$Bool|currentTexture$Int|currentRecolor$Int",
+	"name": "Slanted Roof Base",
+	"description": "A bottom piece for two slanted roofs.",
+	"upgrades": [],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}

@@ -1,0 +1,32 @@
+{
+	"food": 0,
+	"wood": 20,
+	"stone": 0,
+	"machineParts": 20,
+	"refinedMetal": 10,
+	"computerChips": 0,
+	"knowledge": 200,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"residents": 5,
+	"jobs": 1,
+	"quality": 65,
+	"__name__": "buildings.PartyHouse",
+	"__super__": "buildings_WorkWithHome",
+	"spriteName": "spr_partyhouse",
+	"laserMaxX": 17,
+	"closeTime": 6,
+	"laserMinXWithLeft": 1,
+	"laserMinX": 6,
+	"saveDefinition": "",
+	"name": "Party House",
+	"description": "This house with its integrated night club never sleeps.",
+	"upgrades": [
+		"buildingUpgrades.BetterCouches",
+		"buildingUpgrades.EnhancedAudio"
+	],
+	"modes": [],
+	"cityUpgrades": [],
+	"policies": []
+}
