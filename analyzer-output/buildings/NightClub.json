@@ -1,0 +1,23 @@
+{
+	"food": 0,
+	"wood": 20,
+	"stone": 60,
+	"machineParts": 20,
+	"knowledge": 50,
+	"category": "Entertainment",
+	"unlockedByDefault": true,
+	"specialInfo": [],
+	"jobs": 1,
+	"__name__": "buildings.NightClub",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_nightclub",
+	"laserMinXWithLeft": 1,
+	"laserMinX": 6,
+	"laserMaxX": 18,
+	"laserMaxY": 18,
+	"closeTime": 6,
+	"nightClubColorOptions": 5,
+	"saveDefinition": "nightClubColor$Int",
+	"name": "Nightclub",
+	"description": "Some people will have a lot of fun in this nightclub."
+}

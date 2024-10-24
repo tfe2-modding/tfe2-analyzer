@@ -1,0 +1,23 @@
+{
+	"food": 0,
+	"wood": 0,
+	"stone": 0,
+	"machineParts": 2500,
+	"refinedMetal": 2500,
+	"computerChips": 100,
+	"knowledge": 50000,
+	"graphene": 100,
+	"category": "Services",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"limited",
+		"limitedToCitizens:1000",
+		"premium"
+	],
+	"jobs": 2,
+	"__name__": "buildings.SpecializedMedicalClinic",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_advancedmedicalclinic",
+	"name": "Specialized Medical Clinic",
+	"description": "Specialized in treating complicated diseases. It improves medical happiness and makes citizens live longer."
+}

@@ -1,0 +1,18 @@
+{
+	"food": 0,
+	"wood": 10,
+	"stone": 50,
+	"machineParts": 5,
+	"refinedMetal": 20,
+	"knowledge": 200,
+	"category": "Services",
+	"unlockedByDefault": true,
+	"specialInfo": [],
+	"jobs": 2,
+	"__name__": "buildings.MedicalClinic",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_medicalclinic",
+	"name": "Medical Clinic",
+	"description": "Helps people live longer and better.",
+	"showUnlockHint": "Build a Refined Metals Factory to unlock!"
+}

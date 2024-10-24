@@ -1,0 +1,21 @@
+{
+	"food": 0,
+	"wood": 20,
+	"stone": 100,
+	"machineParts": 10,
+	"refinedMetal": 20,
+	"computerChips": 5,
+	"knowledge": 300,
+	"category": "Entertainment",
+	"unlockedByDefault": true,
+	"specialInfo": [],
+	"jobs": 1,
+	"__name__": "buildings.Arcade",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_arcade",
+	"closeTime": 23,
+	"saveDefinition": "",
+	"name": "Arcade",
+	"description": "Fun games for the whole family.",
+	"showUnlockHint": "Build a Computer Chip Factory to unlock!"
+}

@@ -1,0 +1,24 @@
+{
+	"food": 0,
+	"wood": 0,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"computerChips": 0,
+	"knowledge": 0,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique"
+	],
+	"buttonBack": "spr_statueofhappiness_bg",
+	"notUnlockedWithAll": true,
+	"__name__": "buildings.StatueOfHappiness",
+	"__super__": "buildings_Park",
+	"spriteName": "spr_botanicalgardens",
+	"openTime": 0,
+	"closeTime": 23.5,
+	"saveDefinition": "",
+	"name": "Statue of Happiness",
+	"description": "Your citizens' reward for reaching 100 happiness!"
+}

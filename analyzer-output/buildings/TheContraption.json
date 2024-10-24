@@ -1,0 +1,21 @@
+{
+	"food": 0,
+	"wood": 20000,
+	"stone": 20000,
+	"machineParts": 5000,
+	"refinedMetal": 100,
+	"computerChips": 125,
+	"knowledge": 12500,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique"
+	],
+	"additionalNoteForPeopleReadingThis": "Cancelled building.",
+	"notUnlockedWithAll": true,
+	"__name__": "buildings.TheContraption",
+	"__super__": "Building",
+	"spriteName": "spr_contraption",
+	"name": "The Contraption",
+	"description": "."
+}

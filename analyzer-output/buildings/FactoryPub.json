@@ -1,0 +1,19 @@
+{
+	"food": 0,
+	"wood": 200,
+	"stone": 50,
+	"machineParts": 50,
+	"knowledge": 1000,
+	"computerChips": 5,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"jobs": 2,
+	"__name__": "buildings.FactoryPub",
+	"__super__": "buildings_RefinedMetalFactory",
+	"spriteName": "spr_refinedmetalfactorypub",
+	"closeTime": 4.5,
+	"saveDefinition": "",
+	"name": "Factory Pub",
+	"description": "A charming little pub that doubles up as a refined metals factory.\\nIt can't be boosted by Experimentation Labs, though."
+}

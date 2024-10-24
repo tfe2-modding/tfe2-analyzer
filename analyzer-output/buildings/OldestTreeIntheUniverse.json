@@ -1,0 +1,25 @@
+{
+	"food": 0,
+	"wood": 10,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"computerChips": 0,
+	"knowledge": 30000,
+	"graphene": 0,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique",
+		"premium"
+	],
+	"buttonBack": "spr_oldesttreeintheuniverse",
+	"__name__": "buildings.OldestTreeIntheUniverse",
+	"__super__": "buildings_Park",
+	"spriteName": "spr_botanicalgardens",
+	"openTime": 0,
+	"closeTime": 23.5,
+	"saveDefinition": "totalExtraYears$Float",
+	"name": "Oldest Tree in the Universe",
+	"description": "Makes citizens who visit it live longer."
+}

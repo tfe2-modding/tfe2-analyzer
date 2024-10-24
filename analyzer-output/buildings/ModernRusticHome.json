@@ -1,0 +1,22 @@
+{
+	"food": 7,
+	"wood": 10,
+	"stone": 4,
+	"knowledge": 10,
+	"category": "Houses",
+	"unlockedByDefault": true,
+	"specialInfo": [],
+	"residents": 2,
+	"quality": 70,
+	"tooltipBottomIconInfo": [
+		{
+			"texture": "spr_bonusrange_plus"
+		}
+	],
+	"__name__": "buildings.ModernRusticHome",
+	"__super__": "buildings_House",
+	"spriteName": "spr_modernrustichome",
+	"name": "Modern Rustic Home",
+	"description": "This rustic-looking house makes people think of Earth. The housing quality is increased by 15 if there are at least three other modern rustic homes or parks next to it.",
+	"tooltipBottomIconInfo_0": "Range for quality increase check"
+}

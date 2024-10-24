@@ -1,0 +1,21 @@
+{
+	"food": 100,
+	"wood": 200,
+	"stone": 100,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"computerChips": 0,
+	"knowledge": 150,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique"
+	],
+	"jobs": 4,
+	"__name__": "buildings.CityHall",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_cityhall",
+	"saveDefinition": "totalKnowledgeGenerated$Float",
+	"name": "City Hall",
+	"description": "Allows you to implement city policies and to change the name of your city."
+}

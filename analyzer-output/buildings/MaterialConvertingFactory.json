@@ -1,0 +1,5 @@
+{
+	"__name__": "buildings.MaterialConvertingFactory",
+	"__super__": "buildings_Factory",
+	"saveDefinition": "totalMaterialUsed$Float|materialMade$Float"
+}

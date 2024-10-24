@@ -1,0 +1,19 @@
+{
+	"food": 0,
+	"wood": 30,
+	"stone": 20,
+	"machineParts": 150,
+	"knowledge": 600,
+	"category": "Production",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"jobs": 2,
+	"notUnlockedWithAll": true,
+	"__name__": "buildings.ChocolateFactory",
+	"__super__": "buildings_MaterialConvertingFactory",
+	"spriteName": "spr_chocolatefactory",
+	"saveDefinition": "",
+	"name": "Chocolate Factory",
+	"description": "This factory uses cacao to make chocolate.",
+	"showUnlockHint": "(this building has been scrapped earlier in development)"
+}

@@ -1,0 +1,22 @@
+{
+	"food": 10,
+	"wood": 15,
+	"stone": 0,
+	"machineParts": 0,
+	"knowledge": 5,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"notUnlockedWithAll": true,
+	"specialInfo": [
+		"halloween"
+	],
+	"buttonBack": "spr_ghostlygarden_buttonbg",
+	"__name__": "buildings.GhostlyPark",
+	"__super__": "buildings_Park",
+	"spriteName": "spr_indoorpark_dark",
+	"openTime": 20,
+	"closeTime": 8,
+	"saveDefinition": "",
+	"name": "Ghostly Garden",
+	"description": "Creepy, but also quite decorative."
+}

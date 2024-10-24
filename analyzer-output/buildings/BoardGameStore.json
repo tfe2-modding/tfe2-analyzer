@@ -1,0 +1,26 @@
+{
+	"food": 0,
+	"wood": 15,
+	"stone": 5,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"computerChips": 0,
+	"knowledge": 50,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"jobs": 1,
+	"notUnlockedWithAll": true,
+	"__name__": "buildings.BoardGameStore",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_boardgamestore",
+	"closeTime": 23,
+	"firstFloorChairs": [
+		4,
+		12
+	],
+	"saveDefinition": "",
+	"name": "Board Game Store",
+	"description": "People love to play board games together.",
+	"showUnlockHint": "(this building has been scrapped earlier in development)"
+}

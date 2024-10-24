@@ -1,0 +1,24 @@
+{
+	"food": 0,
+	"wood": 1000,
+	"stone": 0,
+	"computerChips": 100,
+	"machineParts": 1000,
+	"refinedMetal": 500,
+	"knowledge": 25000,
+	"category": "Production",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"premium"
+	],
+	"jobs": 4,
+	"__name__": "buildings.GrapheneLab",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_grapheneresearchcenter",
+	"stoneUsePerGrapheneSheet": 2,
+	"grapheneSheetsPerAction": 0.0015,
+	"knowledgePerAction": 0.0375,
+	"saveDefinition": "totalKnowledgeGenerated$Float|totalStoneUsed$Float|totalGrapheneProduced$Float",
+	"name": "Graphene Lab",
+	"description": "This lab researches the production and applications of graphene. Workers gather knowledge. They also slowly produce graphene for two stone per sheet."
+}

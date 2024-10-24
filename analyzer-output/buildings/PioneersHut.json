@@ -1,0 +1,22 @@
+{
+	"food": 0,
+	"wood": 4,
+	"stone": 6,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"computerChips": 0,
+	"knowledge": 0,
+	"category": "Unique Buildings",
+	"unlockedByDefault": true,
+	"specialInfo": [
+		"unique"
+	],
+	"residents": 4,
+	"quality": 60,
+	"__name__": "buildings.PioneersHut",
+	"__super__": "buildings_House",
+	"spriteName": "spr_pioneershut",
+	"saveDefinition": "lastUpgradeTime$Float|lastMeditationDay$Int",
+	"name": "Pioneers' Hut",
+	"description": "Houses four citizens, and gives you bonuses that help with the early development of your city."
+}

@@ -1,0 +1,27 @@
+{
+	"food": 0,
+	"wood": 10,
+	"stone": 2,
+	"machineParts": 2,
+	"refinedMetal": 0,
+	"computerChips": 0,
+	"knowledge": 35,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"residents": 4,
+	"quality": 30,
+	"tooltipBottomIconInfo": [
+		{
+			"texture": "spr_bonusrange_plus"
+		}
+	],
+	"__name__": "buildings.MechanicalHouse",
+	"__super__": "buildings_House",
+	"spriteName": "spr_mechanicalhouse",
+	"ifMachinePartsFactoryBonus": 50,
+	"name": "Mechanical House",
+	"description": "The mechanics and heating of this house need a Machine Parts Factory to function. The housing quality is increased by 50 if there is one next to it.",
+	"showUnlockHint": "Build at least three Machine Parts Factories to unlock!",
+	"tooltipBottomIconInfo_0": "Range for quality increase check"
+}

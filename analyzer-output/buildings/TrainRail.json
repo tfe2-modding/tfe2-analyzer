@@ -1,0 +1,21 @@
+{
+	"food": 0,
+	"wood": 0,
+	"stone": 0,
+	"refinedMetal": 6,
+	"machineParts": 0,
+	"computerChips": 0,
+	"knowledge": 2000,
+	"category": "Transportation",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"premium"
+	],
+	"__name__": "buildings.TrainRail",
+	"__super__": "Building",
+	"spriteName": "spr_trainrail",
+	"saveDefinition": "",
+	"name": "High-Speed Rail",
+	"description": "Trains can go extra fast here.",
+	"showUnlockHint": "Build ten train stations to unlock!"
+}

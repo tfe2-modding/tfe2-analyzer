@@ -1,0 +1,21 @@
+{
+	"food": 0,
+	"wood": 500,
+	"stone": 0,
+	"machineParts": 250,
+	"computerChips": 10,
+	"refinedMetal": 50,
+	"knowledge": 2000,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"jobs": 1,
+	"buttonBack": "spr_synightclub_bg",
+	"__name__": "buildings.ScrapyardNightClub",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_scrapyardnightclub",
+	"closeTime": 6,
+	"saveDefinition": "mainTextureLeft$Int|mainTextureOther$Int",
+	"name": "Scrapyard Nightclub",
+	"description": "A nightclub full of strange luminous machines."
+}

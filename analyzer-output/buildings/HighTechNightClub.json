@@ -1,0 +1,7 @@
+{
+	"__name__": "buildings.HighTechNightClub",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_tech_nightclub",
+	"closeTime": 6,
+	"saveDefinition": ""
+}

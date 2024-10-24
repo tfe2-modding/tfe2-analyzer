@@ -1,0 +1,20 @@
+{
+	"food": 0,
+	"wood": 25,
+	"stone": 0,
+	"machineParts": 0,
+	"knowledge": 100,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"buttonBack": "spr_botanicalgardens_buttonback",
+	"__name__": "buildings.BotanicalGardens",
+	"__super__": "Building",
+	"spriteName": "spr_botanicalgardens",
+	"openTime": 6,
+	"closeTime": 22,
+	"saveDefinition": "currentMainTexture$Int|currentTexture$Int",
+	"name": "Botanical Gardens",
+	"description": "A nice garden full of exotic plants.",
+	"showUnlockHint": "Build at least ten Parks and five Labs to unlock!"
+}

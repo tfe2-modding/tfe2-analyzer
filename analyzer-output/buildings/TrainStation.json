@@ -1,0 +1,30 @@
+{
+	"food": 0,
+	"wood": 0,
+	"stone": 0,
+	"refinedMetal": 5,
+	"machineParts": 30,
+	"computerChips": 1,
+	"knowledge": 1000,
+	"category": "Transportation",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"premium"
+	],
+	"buttonBack": "spr_trainstation_buttonbg",
+	"__name__": "buildings.TrainStation",
+	"__super__": "Building",
+	"spriteName": "spr_trainstation",
+	"decorationOptionsInBackground": [
+		0,
+		2,
+		3,
+		4,
+		5,
+		6,
+		7
+	],
+	"saveDefinition": "decorationOptionTop$Int|decorationOptionBottom$Int|minimumWaitBetweenTrains$Int|currentWaitBetweenTrainsLeft$Float|currentWaitBetweenTrainsRight$Float|timesUsed$Int|timesUsedTo$Int|trainSprite$Int",
+	"name": "Train Station",
+	"description": "Allows citizens to travel horizontally to other train stations. There may be other buildings in between them. Each train station comes with one train."
+}

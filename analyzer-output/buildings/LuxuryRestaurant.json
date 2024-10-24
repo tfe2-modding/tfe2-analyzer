@@ -1,0 +1,19 @@
+{
+	"food": 100,
+	"wood": 10,
+	"stone": 0,
+	"machineParts": 0,
+	"knowledge": 2500,
+	"refinedMetal": 100,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"jobs": 2,
+	"notUnlockedWithAll": true,
+	"__name__": "buildings.LuxuryRestaurant",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_luxuryrestaurant",
+	"closeTime": 0.5,
+	"name": "Upscale Restaurant",
+	"description": "A highly rated restaurant with exclusive meals and a stylish atmosphere."
+}

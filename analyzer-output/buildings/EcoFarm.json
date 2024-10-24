@@ -1,0 +1,32 @@
+{
+	"food": 0,
+	"wood": 10,
+	"stone": 2,
+	"machineParts": 0,
+	"knowledge": 250,
+	"category": "Production",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"jobs": 3,
+	"buttonBack": "spr_ecofarm_buttonback",
+	"__name__": "buildings.EcoFarm",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_ecofarm",
+	"openTime": 12,
+	"closeTime": 20.5,
+	"crop2Sprites": [
+		"spr_ecofarm_crop2",
+		"spr_ecofarm_crop2_alt",
+		"spr_ecofarm_crop2_alt2"
+	],
+	"crop3Sprites": [
+		"spr_ecofarm_crop3",
+		"spr_ecofarm_crop3_alt"
+	],
+	"harvestAmountWood": 0.025,
+	"area1GrowSpeedMult": 0.7,
+	"saveDefinition": "openDay$Int|crop2Sprite$Int|crop3Sprite$Int|woodMade$Float",
+	"name": "Eco Farm",
+	"description": "Produces food sustainably. Also generates a small amount of nature entertainment happiness.",
+	"showUnlockHint": "Build an Experimental Farm and ten Botanical Gardens to unlock!"
+}

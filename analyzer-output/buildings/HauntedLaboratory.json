@@ -1,0 +1,25 @@
+{
+	"food": 100,
+	"wood": 100,
+	"stone": 100,
+	"machineParts": 50,
+	"computerChips": 2,
+	"knowledge": 1000,
+	"category": "Production",
+	"unlockedByDefault": false,
+	"notUnlockedWithAll": true,
+	"specialInfo": [
+		"halloween"
+	],
+	"jobs": 2,
+	"__name__": "buildings.HauntedLaboratory",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_hauntedlaboratory",
+	"knowledgePerStep": 0.001,
+	"firstScientistX": 3,
+	"secondScientistX": 11,
+	"scientistY": 9,
+	"saveDefinition": "totalKnowledgeGenerated$Float",
+	"name": "Haunted Laboratory",
+	"description": "A strange, eerie laboratory. The more Haunted Laboratories there are, the more knowledge each one produces. However, each one also increases the chance they all malfunction and have a negative effect on your city."
+}

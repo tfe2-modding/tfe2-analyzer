@@ -1,0 +1,19 @@
+{
+	"food": 0,
+	"wood": 20,
+	"stone": 15,
+	"machineParts": 0,
+	"knowledge": 10,
+	"category": "Services",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"jobs": 2,
+	"buttonBack": "spr_herbgarden_buttonback",
+	"__name__": "buildings.HerbGarden",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_herbgarden",
+	"saveDefinition": "currentTexture$Int",
+	"name": "Herb Garden",
+	"description": "Herbs and spices are grown here. They make food taste better, reducing the amount of food people need. Also has an extra effect depending on the herb type.",
+	"showUnlockHint": "Build two restaurants to unlock!"
+}

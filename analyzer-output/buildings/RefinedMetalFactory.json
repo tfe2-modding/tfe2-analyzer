@@ -1,0 +1,19 @@
+{
+	"food": 0,
+	"wood": 30,
+	"stone": 90,
+	"machineParts": 40,
+	"knowledge": 150,
+	"category": "Production",
+	"unlockedByDefault": true,
+	"specialInfo": [],
+	"jobs": 2,
+	"__name__": "buildings.RefinedMetalFactory",
+	"__super__": "buildings_MaterialConvertingFactory",
+	"spriteName": "spr_refinedmetalfactory",
+	"originalEfficiency": 5,
+	"origMaterialsMadePerStepPerWorker": 0.001,
+	"saveDefinition": "",
+	"name": "Refined Metals Factory",
+	"description": "Produces refined metals from stone. Five stone is needed to make one unit of refined metal."
+}

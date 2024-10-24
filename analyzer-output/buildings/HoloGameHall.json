@@ -1,0 +1,21 @@
+{
+	"food": 0,
+	"wood": 100,
+	"stone": 500,
+	"machineParts": 50,
+	"refinedMetal": 0,
+	"computerChips": 40,
+	"knowledge": 10000,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"__name__": "buildings.HoloGameHall",
+	"__super__": "Building",
+	"spriteName": "spr_hologamehall",
+	"openTime": 12,
+	"closeTime": 2,
+	"monsterSize": 14,
+	"boosterSpriteSize": 9,
+	"name": "Holo Game Hall",
+	"description": "Bring gaming into the future!"
+}

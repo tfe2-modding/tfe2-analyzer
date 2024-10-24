@@ -1,0 +1,22 @@
+{
+	"food": 0,
+	"wood": 100,
+	"stone": 10,
+	"machineParts": 20,
+	"refinedMetal": 0,
+	"computerChips": 2,
+	"knowledge": 2000,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"residents": 4,
+	"quality": 80,
+	"__name__": "buildings.TinkerersHome",
+	"__super__": "buildings_House",
+	"spriteName": "spr_tinkerershouse",
+	"educationPerDay": 0.01,
+	"educationCap": 1.25,
+	"saveDefinition": "frontTextureUsed$Int|backTextureUsed$Int",
+	"name": "Tinkerers' House",
+	"description": "This house is designed for makers and inventors. Residents earn extra education."
+}

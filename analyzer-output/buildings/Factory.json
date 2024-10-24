@@ -1,0 +1,5 @@
+{
+	"__name__": "buildings.Factory",
+	"__super__": "buildings_Work",
+	"timePerFrame": 4
+}

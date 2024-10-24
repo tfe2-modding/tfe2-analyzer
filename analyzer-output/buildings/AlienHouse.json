@@ -1,0 +1,17 @@
+{
+	"food": 10,
+	"wood": 5,
+	"stone": 0,
+	"machineParts": 0,
+	"knowledge": 0,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"residents": 5,
+	"quality": 55,
+	"__name__": "buildings.AlienHouse",
+	"__super__": "buildings_House",
+	"spriteName": "spr_alienhouse",
+	"name": "Alien House",
+	"description": "Five people can live in this strange home full of otherworldly technology."
+}

@@ -1,0 +1,20 @@
+{
+	"food": 0,
+	"wood": 30,
+	"stone": 0,
+	"machineParts": 30,
+	"knowledge": 75,
+	"refinedMetal": 0,
+	"category": "Production",
+	"unlockedByDefault": true,
+	"specialInfo": [],
+	"jobs": 1,
+	"__name__": "buildings.StoneTeleporter",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_stoneteleporter",
+	"bigStoneInitialMaterials": 150,
+	"fossilChancePerIM": 0.00001,
+	"saveDefinition": "regrowProgress$Float|materialsLeft$Float|hasBigStone$Bool",
+	"name": "Rock Teleporter",
+	"description": "Teleports meteoroids to your city. Doesn't produce stone by itself; miners from Stone Mines can gather stone from the meteroids."
+}

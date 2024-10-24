@@ -1,0 +1,25 @@
+{
+	"food": 0,
+	"wood": 25,
+	"stone": 0,
+	"refinedMetal": 1,
+	"machineParts": 0,
+	"knowledge": 2500,
+	"category": "Entertainment",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"rooftop"
+	],
+	"buttonBack": "spr_botanicalgarden_dome_buttonback",
+	"__name__": "buildings.BotanicalGardensDome",
+	"__super__": "buildings_BotanicalGardens",
+	"mainTexturesNonDome": [
+		"spr_botanicalgardens",
+		"spr_indoorpark",
+		"spr_indoorpark_alt1"
+	],
+	"spriteName": "spr_dome_botanicalgarden",
+	"saveDefinition": "currentDomeVersion$Int",
+	"name": "Dome Botanical Gardens",
+	"description": "A stylish roof for your botanical gardens."
+}

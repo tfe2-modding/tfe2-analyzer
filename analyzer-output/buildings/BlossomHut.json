@@ -1,0 +1,20 @@
+{
+	"food": 100,
+	"wood": 200,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 0,
+	"knowledge": 1500,
+	"category": "Houses",
+	"unlockedByDefault": false,
+	"specialInfo": [],
+	"residents": 2,
+	"quality": 100,
+	"buttonBack": "spr_bloomhut_buttonback",
+	"__name__": "buildings.BlossomHut",
+	"__super__": "buildings_House",
+	"spriteName": "spr_bloomrestaurant",
+	"name": "Blossom Hut",
+	"description": "Residents of this hut will really flourish!",
+	"showUnlockHint": "Build ten blossom restaurants to unlock!"
+}

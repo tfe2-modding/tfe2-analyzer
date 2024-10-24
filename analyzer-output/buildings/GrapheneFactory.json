@@ -1,0 +1,28 @@
+{
+	"food": 0,
+	"wood": 0,
+	"stone": 0,
+	"machineParts": 2500,
+	"refinedMetal": 100,
+	"knowledge": 30000,
+	"computerChips": 200,
+	"graphene": 10,
+	"category": "Production",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"premium"
+	],
+	"jobs": 4,
+	"tooltipBottomIconInfo": [
+		{
+			"texture": "spr_boostrange_onright"
+		}
+	],
+	"__name__": "buildings.GrapheneFactory",
+	"__super__": "buildings_Factory",
+	"spriteName": "spr_graphenefactory",
+	"saveDefinition": "totalStoneUsed$Float|totalKnowledgeUsed$Float|materialMade$Float",
+	"name": "Graphene Factory",
+	"description": "This factory makes graphene. To make one sheet of graphene, 10 knowledge and one stone is used. If the building is placed to the right of a rock teleporter, no stone is used.",
+	"tooltipBottomIconInfo_0": "Rock teleporter usage"
+}

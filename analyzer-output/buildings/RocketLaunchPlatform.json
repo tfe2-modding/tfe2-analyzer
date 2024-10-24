@@ -1,0 +1,24 @@
+{
+	"food": 0,
+	"wood": 0,
+	"stone": 0,
+	"machineParts": 0,
+	"refinedMetal": 5000,
+	"computerChips": 1500,
+	"knowledge": 40000,
+	"graphene": 200,
+	"category": "Unique Buildings",
+	"unlockedByDefault": false,
+	"specialInfo": [
+		"unique",
+		"rooftop",
+		"cityTop",
+		"premium"
+	],
+	"__name__": "buildings.RocketLaunchPlatform",
+	"__super__": "Building",
+	"spriteName": "spr_rocketlaunchplatform_whilebuilding",
+	"saveDefinition": "hasRocketType$Int",
+	"name": "Rocket Launch Platform",
+	"description": "Build rockets to explore space."
+}
