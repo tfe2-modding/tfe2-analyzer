@@ -1,6 +1,0 @@
-{
-	"__name__": "buildings.PollardWillowPlantation",
-	"__super__": "buildings_TreePlantation",
-	"spriteName": "spr_treeplantation",
-	"saveDefinition": ""
-}

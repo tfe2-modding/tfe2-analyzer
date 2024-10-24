@@ -1,4 +1,0 @@
-{
-	"__name__": "buildings.FarmGrowArea",
-	"saveDefinition": "farmStage$Int|percentGrown$Float|foodLeft$Float|originalFoodLeft$Float|percentCleaned$Float"
-}

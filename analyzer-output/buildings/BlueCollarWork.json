@@ -1,6 +1,0 @@
-{
-	"__name__": "buildings.BlueCollarWork",
-	"__super__": "buildings_Work",
-	"workToolsX": 4,
-	"workToolsTime": 20
-}
