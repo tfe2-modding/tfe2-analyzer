@@ -1,5 +1,8 @@
 {{Building
-|image=HackerSchool.png
+|image=<gallery>
+HackerSchool.png|With door
+HackerSchool_doorless.png|Without door
+</gallery>
 |description=''"This school provides a great education. Graduates will occasionally create minor inventions."''
 |build_cost=[[File:Wood.png]] 50000 Wood<br>
 [[File:Machineparts.png]] 1000 Machine Parts<br>

@@ -1,5 +1,8 @@
 {{Building
-|image=Arcade.png
+|image=<gallery>
+Arcade.png|With door
+Arcade_doorless.png|Without door
+</gallery>
 |description=''"Fun games for the whole family."''
 |build_cost=[[File:Wood.png]] 20 Wood<br>
 [[File:Stone.png]] 100 Stone<br>

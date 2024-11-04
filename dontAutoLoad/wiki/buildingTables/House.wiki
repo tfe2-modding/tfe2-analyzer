@@ -1,4 +1,7 @@
 {{Building
-|image=House.png
+|image=<gallery>
+House.png|With door
+House_doorless.png|Without door
+</gallery>
 |build_cost=
 }}

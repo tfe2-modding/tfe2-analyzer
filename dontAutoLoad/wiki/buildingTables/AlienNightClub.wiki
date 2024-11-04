@@ -1,5 +1,8 @@
 {{Building
-|image=AlienNightClub.png
+|image=<gallery>
+AlienNightClub.png|With door
+AlienNightClub_doorless.png|Without door
+</gallery>
 |description=''"People love dancing with an alien atmosphere."''
 |build_cost=[[File:Food.png]] 500 Food<br>
 [[File:Wood.png]] 500 Wood<br>

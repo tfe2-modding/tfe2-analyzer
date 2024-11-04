@@ -1,5 +1,8 @@
 {{Building
-|image=FlowerPenthouse.png
+|image=<gallery>
+FlowerPenthouse.png|With door
+FlowerPenthouse_doorless.png|Without door
+</gallery>
 |description=''"A lavish rooftop house. It makes residents live longer. It also comes with a private teleporter."''
 |build_cost=[[File:Food.png]] 2000 Food<br>
 [[File:Wood.png]] 3000 Wood<br>

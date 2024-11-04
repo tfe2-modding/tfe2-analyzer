@@ -1,5 +1,8 @@
 {{Building
-|image=HorrorGameHall.png
+|image=<gallery>
+HorrorGameHall.png|With door
+HorrorGameHall_doorless.png|Without door
+</gallery>
 |description=''"A possibly haunted arcade that only offers horror games."''
 |build_cost=[[File:Food.png]] 50 Food<br>
 [[File:Wood.png]] 100 Wood<br>

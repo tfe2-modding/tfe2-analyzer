@@ -1,5 +1,8 @@
 {{Building
-|image=ResearchBot.png
+|image=<gallery>
+ResearchBot.png|With door
+ResearchBot_doorless.png|Without door
+</gallery>
 |description=''"A researcher can gather knowledge from this little spacecraft. There can be no building or world directly above this."''
 |build_cost=[[File:Stone.png]] 10 Stone<br>
 [[File:Machineparts.png]] 1 Machine Parts<br>

@@ -1,5 +1,8 @@
 {{Building
-|image=ComputerChipFactory.png
+|image=<gallery>
+ComputerChipFactory.png|With door
+ComputerChipFactory_doorless.png|Without door
+</gallery>
 |description=''"Produces computer chips from refined metals. Seven units of refined metals are needed to make one computer chip. Also unlocks new buildings."''
 |build_cost=[[File:Stone.png]] 200 Stone<br>
 [[File:Machineparts.png]] 100 Machine Parts<br>

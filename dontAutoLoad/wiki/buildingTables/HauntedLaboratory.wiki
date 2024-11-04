@@ -1,5 +1,8 @@
 {{Building
-|image=HauntedLaboratory.png
+|image=<gallery>
+HauntedLaboratory.png|With door
+HauntedLaboratory_doorless.png|Without door
+</gallery>
 |description=''"A strange, eerie laboratory. The more Haunted Laboratories there are, the more knowledge each one produces. However, each one also increases the chance they all malfunction and have a negative effect on your city."''
 |build_cost=[[File:Food.png]] 100 Food<br>
 [[File:Wood.png]] 100 Wood<br>

@@ -1,5 +1,8 @@
 {{Building
-|image=FestivalHQ.png
+|image=<gallery>
+FestivalHQ.png|With door
+FestivalHQ_doorless.png|Without door
+</gallery>
 |description=''"Organize awesome festivals to entertain your citizens!"''
 |build_cost=[[File:Wood.png]] 100000 Wood<br>
 |jobs=5

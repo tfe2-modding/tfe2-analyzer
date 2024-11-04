@@ -1,5 +1,8 @@
 {{Building
-|image=ScrapyardNightClub.png
+|image=<gallery>
+ScrapyardNightClub.png|With door
+ScrapyardNightClub_doorless.png|Without door
+</gallery>
 |description=''"A nightclub full of strange luminous machines."''
 |build_cost=[[File:Wood.png]] 500 Wood<br>
 [[File:Machineparts.png]] 250 Machine Parts<br>

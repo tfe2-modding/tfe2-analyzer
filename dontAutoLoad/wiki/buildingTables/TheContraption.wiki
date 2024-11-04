@@ -1,5 +1,8 @@
 {{Building
-|image=TheContraption.png
+|image=<gallery>
+TheContraption.png|With door
+TheContraption_doorless.png|Without door
+</gallery>
 |description=''"."''
 |build_cost=[[File:Wood.png]] 20000 Wood<br>
 [[File:Stone.png]] 20000 Stone<br>

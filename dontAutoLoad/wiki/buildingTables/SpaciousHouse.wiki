@@ -1,5 +1,8 @@
 {{Building
-|image=SpaciousHouse.png
+|image=<gallery>
+SpaciousHouse.png|With door
+SpaciousHouse_doorless.png|Without door
+</gallery>
 |description=''"A modern house with lots of space."''
 |build_cost=[[File:Wood.png]] 4 Wood<br>
 [[File:Refinedmetal.png]] 10 Refined Metals<br>

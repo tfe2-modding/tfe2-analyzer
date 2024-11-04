@@ -1,5 +1,8 @@
 {{Building
-|image=Supercomputer.png
+|image=<gallery>
+Supercomputer.png|With door
+Supercomputer_doorless.png|Without door
+</gallery>
 |description=''"Produces knowledge based on the amount of lab employees in your city. Also allows you to research some city upgrades."''
 |build_cost=[[File:Stone.png]] 10000 Stone<br>
 [[File:Machineparts.png]] 1000 Machine Parts<br>

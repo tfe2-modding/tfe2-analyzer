@@ -1,5 +1,8 @@
 {{Building
-|image=FeatherAlliance.png
+|image=<gallery>
+FeatherAlliance.png|With door
+FeatherAlliance_doorless.png|Without door
+</gallery>
 |description=''"The Feather Alliance has one simple goal: discover everything they can about the universe. They'd appreciate your help."''
 |build_cost=[[File:Wood.png]] 100000 Wood<br>
 [[File:Computerchips.png]] 2000 Computer Chips<br>

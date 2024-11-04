@@ -1,5 +1,8 @@
 {{Building
-|image=HackerHQ.png
+|image=<gallery>
+HackerHQ.png|With door
+HackerHQ_doorless.png|Without door
+</gallery>
 |description=''"These hardware hackers are actually really nice and helpful.\nThey spend most of their days tinkering around with computers and electronics. Some of their inventions are more useful than others."''
 |build_cost=[[File:Wood.png]] 1000 Wood<br>
 [[File:Machineparts.png]] 25 Machine Parts<br>

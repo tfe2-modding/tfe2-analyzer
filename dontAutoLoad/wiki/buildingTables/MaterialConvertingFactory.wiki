@@ -1,4 +1,7 @@
 {{Building
-|image=MaterialConvertingFactory.png
+|image=<gallery>
+MaterialConvertingFactory.png|With door
+MaterialConvertingFactory_doorless.png|Without door
+</gallery>
 |build_cost=
 }}

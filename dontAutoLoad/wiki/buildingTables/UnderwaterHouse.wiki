@@ -1,5 +1,8 @@
 {{Building
-|image=UnderwaterHouse.png
+|image=<gallery>
+UnderwaterHouse.png|With door
+UnderwaterHouse_doorless.png|Without door
+</gallery>
 |description=''"Live among the fishes!"''
 |build_cost=[[File:Food.png]] 25 Food<br>
 [[File:Refinedmetal.png]] 20 Refined Metals<br>

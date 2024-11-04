@@ -1,5 +1,8 @@
 {{Building
-|image=IndoorFarm.png
+|image=<gallery>
+IndoorFarm.png|With door
+IndoorFarm_doorless.png|Without door
+</gallery>
 |description=''"Crops can be grown here to produce food."''
 |build_cost=[[File:Wood.png]] 5 Wood<br>
 [[File:Stone.png]] 3 Stone<br>

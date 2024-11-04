@@ -1,5 +1,8 @@
 {{Building
-|image=OtherworldlyZoo.png
+|image=<gallery>
+OtherworldlyZoo.png|With door
+OtherworldlyZoo_doorless.png|Without door
+</gallery>
 |description=''"A zoo with otherworldly plants and animals."''
 |build_cost=[[File:Food.png]] 500 Food<br>
 [[File:Wood.png]] 250 Wood<br>

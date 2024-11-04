@@ -1,5 +1,8 @@
 {{Building
-|image=IntergalacticLibrary.png
+|image=<gallery>
+IntergalacticLibrary.png|With door
+IntergalacticLibrary_doorless.png|Without door
+</gallery>
 |description=''"This grand library greatly educates visitors. Workers produce knowledge based on the total number of citizens in associated cities. Also allows you to research city upgrades."''
 |build_cost=[[File:Food.png]] 100000 Food<br>
 [[File:Wood.png]] 200000 Wood<br>

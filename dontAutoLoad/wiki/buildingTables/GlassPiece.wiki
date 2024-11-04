@@ -1,5 +1,8 @@
 {{Building
-|image=GlassPiece.png
+|image=<gallery>
+GlassPiece.png|With door
+GlassPiece_doorless.png|Without door
+</gallery>
 |description=''"A window for decorative purposes, or as a placeholder."''
 |build_cost=[[File:Wood.png]] 4 Wood<br>
 [[File:Stone.png]] 4 Stone<br>

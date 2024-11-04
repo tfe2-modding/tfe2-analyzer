@@ -1,5 +1,8 @@
 {{Building
-|image=LivingResearchCenter.png
+|image=<gallery>
+LivingResearchCenter.png|With door
+LivingResearchCenter_doorless.png|Without door
+</gallery>
 |description=''"Upgrades for homes can be researched here. Also houses two people and produces knowledge."''
 |build_cost=[[File:Wood.png]] 100 Wood<br>
 [[File:Stone.png]] 100 Stone<br>

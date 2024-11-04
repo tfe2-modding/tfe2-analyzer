@@ -1,5 +1,8 @@
 {{Building
-|image=WizardHatCafe.png
+|image=<gallery>
+WizardHatCafe.png|With door
+WizardHatCafe_doorless.png|Without door
+</gallery>
 |description=''"A possibly magical rooftop cafe. Seems to occasionally spawn giant frogs."''
 |build_cost=[[File:Food.png]] 1000 Food<br>
 [[File:Wood.png]] 500 Wood<br>

@@ -1,5 +1,8 @@
 {{Building
-|image=OtherworldlyGardens.png
+|image=<gallery>
+OtherworldlyGardens.png|With door
+OtherworldlyGardens_doorless.png|Without door
+</gallery>
 |description=''"An otherworldly zoo with plants that can grow as high as you desire."''
 |build_cost=[[File:Food.png]] 500 Food<br>
 [[File:Wood.png]] 400 Wood<br>

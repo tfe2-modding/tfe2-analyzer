@@ -1,5 +1,8 @@
 {{Building
-|image=Villa.png
+|image=<gallery>
+Villa.png|With door
+Villa_doorless.png|Without door
+</gallery>
 |description=''"A luxurious, modern villa complete with a private teleporter."''
 |build_cost=[[File:Food.png]] 1000 Food<br>
 [[File:Wood.png]] 1000 Wood<br>

@@ -1,5 +1,8 @@
 {{Building
-|image=CacaoFarm.png
+|image=<gallery>
+CacaoFarm.png|With door
+CacaoFarm_doorless.png|Without door
+</gallery>
 |description=''"Cacao is grown here. It can be used directly as food or to make chocolate."''
 |build_cost=[[File:Wood.png]] 20 Wood<br>
 [[File:Stone.png]] 5 Stone<br>

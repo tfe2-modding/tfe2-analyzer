@@ -1,5 +1,8 @@
 {{Building
-|image=TrainRail.png
+|image=<gallery>
+TrainRail.png|With door
+TrainRail_doorless.png|Without door
+</gallery>
 |description=''"Trains can go extra fast here."''
 |build_cost=[[File:Refinedmetal.png]] 6 Refined Metals<br>
 |research_cost=[[File:Knowledge.png]] 2000

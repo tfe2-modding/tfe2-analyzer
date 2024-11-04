@@ -1,5 +1,8 @@
 {{Building
-|image=CarrotJuiceBar.png
+|image=<gallery>
+CarrotJuiceBar.png|With door
+CarrotJuiceBar_doorless.png|Without door
+</gallery>
 |description=''"!!! missing text !!!"''
 |build_cost=[[File:Food.png]] 20 Food<br>
 [[File:Wood.png]] 20 Wood<br>

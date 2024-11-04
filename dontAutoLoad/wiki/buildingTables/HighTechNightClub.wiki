@@ -1,4 +1,7 @@
 {{Building
-|image=HighTechNightClub.png
+|image=<gallery>
+HighTechNightClub.png|With door
+HighTechNightClub_doorless.png|Without door
+</gallery>
 |build_cost=
 }}

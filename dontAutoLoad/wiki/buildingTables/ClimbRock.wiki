@@ -1,5 +1,8 @@
 {{Building
-|image=ClimbRock.png
+|image=<gallery>
+ClimbRock.png|With door
+ClimbRock_doorless.png|Without door
+</gallery>
 |description=''"!!! missing text !!!"''
 |build_cost=[[File:Stone.png]] 500 Stone<br>
 |research_cost=[[File:Knowledge.png]] 200

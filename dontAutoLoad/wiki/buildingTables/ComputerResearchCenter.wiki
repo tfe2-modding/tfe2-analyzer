@@ -1,5 +1,8 @@
 {{Building
-|image=ComputerResearchCenter.png
+|image=<gallery>
+ComputerResearchCenter.png|With door
+ComputerResearchCenter_doorless.png|Without door
+</gallery>
 |description=''"Produces knowledge and allows you to research and build Computer Chip Factories."''
 |build_cost=[[File:Stone.png]] 100 Stone<br>
 [[File:Machineparts.png]] 40 Machine Parts<br>

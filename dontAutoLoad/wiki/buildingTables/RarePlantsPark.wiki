@@ -1,5 +1,8 @@
 {{Building
-|image=RarePlantsPark.png
+|image=<gallery>
+RarePlantsPark.png|With door
+RarePlantsPark_doorless.png|Without door
+</gallery>
 |description=''"!!! missing text !!!"''
 |build_cost=[[File:Wood.png]] 5000 Wood<br>
 |research_cost=[[File:Knowledge.png]] 2500

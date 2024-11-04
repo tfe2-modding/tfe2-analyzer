@@ -1,4 +1,7 @@
 {{Building
-|image=BlueCollarWork.png
+|image=<gallery>
+BlueCollarWork.png|With door
+BlueCollarWork_doorless.png|Without door
+</gallery>
 |build_cost=
 }}

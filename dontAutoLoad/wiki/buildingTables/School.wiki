@@ -1,5 +1,8 @@
 {{Building
-|image=School.png
+|image=<gallery>
+School.png|With door
+School_doorless.png|Without door
+</gallery>
 |description=''"Educates children, improving how effective they'll be at some jobs later."''
 |build_cost=[[File:Wood.png]] 20 Wood<br>
 [[File:Stone.png]] 10 Stone<br>

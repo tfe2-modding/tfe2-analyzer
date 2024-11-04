@@ -1,5 +1,8 @@
 {{Building
-|image=StatueOfHappiness.png
+|image=<gallery>
+StatueOfHappiness.png|With door
+StatueOfHappiness_doorless.png|Without door
+</gallery>
 |description=''"Your citizens' reward for reaching 100 happiness!"''
 |build_cost=
 }}

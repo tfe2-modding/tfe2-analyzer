@@ -1,5 +1,8 @@
 {{Building
-|image=Restaurant.png
+|image=<gallery>
+Restaurant.png|With door
+Restaurant_doorless.png|Without door
+</gallery>
 |description=''"A cozy place with nice food."''
 |build_cost=[[File:Food.png]] 10 Food<br>
 [[File:Wood.png]] 30 Wood<br>

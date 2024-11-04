@@ -1,5 +1,8 @@
 {{Building
-|image=Misdirector.png
+|image=<gallery>
+Misdirector.png|With door
+Misdirector_doorless.png|Without door
+</gallery>
 |description=''"Whenever someone uses a teleporter, there is a small chance they will be brought here instead. This will confuse them for a short while. This invention is not completely useless though: you will gain some knowledge each time. Also, the Misdirector halves the operating cost of teleporters."''
 |build_cost=[[File:Wood.png]] 400 Wood<br>
 [[File:Stone.png]] 10000 Stone<br>

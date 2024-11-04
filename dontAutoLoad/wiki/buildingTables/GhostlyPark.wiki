@@ -1,5 +1,8 @@
 {{Building
-|image=GhostlyPark.png
+|image=<gallery>
+GhostlyPark.png|With door
+GhostlyPark_doorless.png|Without door
+</gallery>
 |description=''"Creepy, but also quite decorative."''
 |build_cost=[[File:Food.png]] 10 Food<br>
 [[File:Wood.png]] 15 Wood<br>

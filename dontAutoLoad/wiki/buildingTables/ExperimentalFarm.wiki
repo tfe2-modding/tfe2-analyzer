@@ -1,5 +1,8 @@
 {{Building
-|image=ExperimentalFarm.png
+|image=<gallery>
+ExperimentalFarm.png|With door
+ExperimentalFarm_doorless.png|Without door
+</gallery>
 |description=''"Food is produced here. Also slightly increases the growth speed of crops in indoor farms."''
 |build_cost=[[File:Wood.png]] 60 Wood<br>
 [[File:Stone.png]] 30 Stone<br>

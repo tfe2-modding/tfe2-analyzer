@@ -1,5 +1,8 @@
 {{Building
-|image=HoloGameHall.png
+|image=<gallery>
+HoloGameHall.png|With door
+HoloGameHall_doorless.png|Without door
+</gallery>
 |description=''"Bring gaming into the future!"''
 |build_cost=[[File:Wood.png]] 100 Wood<br>
 [[File:Stone.png]] 500 Stone<br>

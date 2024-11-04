@@ -1,5 +1,8 @@
 {{Building
-|image=StatueGarden.png
+|image=<gallery>
+StatueGarden.png|With door
+StatueGarden_doorless.png|Without door
+</gallery>
 |description=''"A garden filled with art."''
 |build_cost=[[File:Wood.png]] 60 Wood<br>
 [[File:Stone.png]] 40 Stone<br>

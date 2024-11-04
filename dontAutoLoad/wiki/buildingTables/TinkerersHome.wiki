@@ -1,5 +1,8 @@
 {{Building
-|image=TinkerersHome.png
+|image=<gallery>
+TinkerersHome.png|With door
+TinkerersHome_doorless.png|Without door
+</gallery>
 |description=''"This house is designed for makers and inventors. Residents earn extra education."''
 |build_cost=[[File:Wood.png]] 100 Wood<br>
 [[File:Stone.png]] 10 Stone<br>

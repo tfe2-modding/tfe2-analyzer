@@ -1,5 +1,8 @@
 {{Building
-|image=TreePlantationDome.png
+|image=<gallery>
+TreePlantationDome.png|With door
+TreePlantationDome_doorless.png|Without door
+</gallery>
 |description=''"Because of the optimal light conditions, these trees regrow even faster than those in a tree plantation."''
 |build_cost=[[File:Stone.png]] 10 Stone<br>
 |jobs=2

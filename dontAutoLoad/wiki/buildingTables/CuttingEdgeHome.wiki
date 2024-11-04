@@ -1,5 +1,8 @@
 {{Building
-|image=CuttingEdgeHome.png
+|image=<gallery>
+CuttingEdgeHome.png|With door
+CuttingEdgeHome_doorless.png|Without door
+</gallery>
 |description=''"A hypermodern home filled with technology."''
 |build_cost=[[File:Wood.png]] 2 Wood<br>
 [[File:Machineparts.png]] 2 Machine Parts<br>

@@ -1,5 +1,8 @@
 {{Building
-|image=Observatory.png
+|image=<gallery>
+Observatory.png|With door
+Observatory_doorless.png|Without door
+</gallery>
 |description=''"Produces knowledge. Can only be placed on the ground or on a rooftop."''
 |build_cost=[[File:Wood.png]] 30 Wood<br>
 [[File:Stone.png]] 40 Stone<br>

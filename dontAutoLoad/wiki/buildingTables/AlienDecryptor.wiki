@@ -1,5 +1,8 @@
 {{Building
-|image=AlienDecryptor.png
+|image=<gallery>
+AlienDecryptor.png|With door
+AlienDecryptor_doorless.png|Without door
+</gallery>
 |description=''"A specialized computer built to decrypt alien secrets."''
 |build_cost=[[File:Stone.png]] 1000 Stone<br>
 [[File:Machineparts.png]] 900 Machine Parts<br>

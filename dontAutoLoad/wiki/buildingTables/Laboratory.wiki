@@ -1,5 +1,8 @@
 {{Building
-|image=Laboratory.png
+|image=<gallery>
+Laboratory.png|With door
+Laboratory_doorless.png|Without door
+</gallery>
 |description=''"Scientists gather knowledge here. Also has upgrades boosting adjacent farms and tree plantations."''
 |build_cost=[[File:Wood.png]] 10 Wood<br>
 [[File:Stone.png]] 10 Stone<br>

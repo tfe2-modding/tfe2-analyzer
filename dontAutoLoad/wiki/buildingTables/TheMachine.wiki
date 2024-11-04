@@ -1,5 +1,8 @@
 {{Building
-|image=TheMachine.png
+|image=<gallery>
+TheMachine.png|With door
+TheMachine_doorless.png|Without door
+</gallery>
 |description=''"Makes Secret Society of the Key members live forever. Also produces random resources every day."''
 |build_cost=[[File:Food.png]] 20000 Food<br>
 [[File:Wood.png]] 10000 Wood<br>

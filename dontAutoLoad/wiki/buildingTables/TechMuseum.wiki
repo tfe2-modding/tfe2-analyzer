@@ -1,5 +1,8 @@
 {{Building
-|image=TechMuseum.png
+|image=<gallery>
+TechMuseum.png|With door
+TechMuseum_doorless.png|Without door
+</gallery>
 |description=''"A museum for science and technology. It improves art happiness and also educates visitors."''
 |build_cost=[[File:Machineparts.png]] 1500 Machine Parts<br>
 [[File:Refinedmetal.png]] 1000 Refined Metals<br>

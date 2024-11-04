@@ -1,5 +1,8 @@
 {{Building
-|image=Workshop.png
+|image=<gallery>
+Workshop.png|With door
+Workshop_doorless.png|Without door
+</gallery>
 |description=''"Makes all machine parts factories in your city work faster. Also, workers can gather knowledge or produce machine parts from wood."''
 |build_cost=[[File:Wood.png]] 60 Wood<br>
 |jobs=2

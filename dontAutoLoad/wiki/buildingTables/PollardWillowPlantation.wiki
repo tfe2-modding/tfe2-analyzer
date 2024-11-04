@@ -1,5 +1,8 @@
 {{Building
-|image=PollardWillowPlantation.png
+|image=<gallery>
+PollardWillowPlantation.png|With door
+PollardWillowPlantation_doorless.png|Without door
+</gallery>
 |build_cost=
 |upgrade1='''Automatic Water Management''': "''The passive growth speed of these trees is tripled.''"
 * [[File:Machineparts.png]] 5 Machine Parts<br>

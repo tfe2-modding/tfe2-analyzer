@@ -1,5 +1,8 @@
 {{Building
-|image=CommuneHall.png
+|image=<gallery>
+CommuneHall.png|With door
+CommuneHall_doorless.png|Without door
+</gallery>
 |description=''"A place for people to socialize, eat and discuss matters related to this commune. Provides Pub entertainment and generates knowledge."''
 |build_cost=[[File:Wood.png]] 2000 Wood<br>
 [[File:Stone.png]] 2000 Stone<br>

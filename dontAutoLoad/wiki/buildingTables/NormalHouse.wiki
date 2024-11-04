@@ -1,5 +1,8 @@
 {{Building
-|image=NormalHouse.png
+|image=<gallery>
+NormalHouse.png|With door
+NormalHouse_doorless.png|Without door
+</gallery>
 |description=''"Your citizens will certainly appreciate a roof above their heads."''
 |build_cost=[[File:Wood.png]] 4 Wood<br>
 [[File:Stone.png]] 4 Stone<br>

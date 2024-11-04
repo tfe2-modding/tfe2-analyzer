@@ -1,4 +1,7 @@
 {{Building
-|image=OutpostHouse.png
+|image=<gallery>
+OutpostHouse.png|With door
+OutpostHouse_doorless.png|Without door
+</gallery>
 |build_cost=
 }}

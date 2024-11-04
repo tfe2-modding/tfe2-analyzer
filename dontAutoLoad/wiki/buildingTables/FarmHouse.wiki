@@ -1,5 +1,8 @@
 {{Building
-|image=FarmHouse.png
+|image=<gallery>
+FarmHouse.png|With door
+FarmHouse_doorless.png|Without door
+</gallery>
 |description=''"This house gives a strong sense of community. Produces a small amount of food, wood or stone for each resident. Most upgrades don't apply to this production."''
 |build_cost=[[File:Food.png]] 100 Food<br>
 [[File:Wood.png]] 100 Wood<br>

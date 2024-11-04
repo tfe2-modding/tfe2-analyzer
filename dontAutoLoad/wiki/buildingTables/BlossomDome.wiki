@@ -1,5 +1,8 @@
 {{Building
-|image=BlossomDome.png
+|image=<gallery>
+BlossomDome.png|With door
+BlossomDome_doorless.png|Without door
+</gallery>
 |description=''"The flowery crown on your blossom buildings!"''
 |build_cost=[[File:Food.png]] 500 Food<br>
 [[File:Wood.png]] 500 Wood<br>

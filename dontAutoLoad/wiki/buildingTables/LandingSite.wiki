@@ -1,5 +1,8 @@
 {{Building
-|image=LandingSite.png
+|image=<gallery>
+LandingSite.png|With door
+LandingSite_doorless.png|Without door
+</gallery>
 |description=''"The landing pad works like a bus stop in space. People can take a space ship from here to other landing pads. Can only be placed on the ground or on a rooftop."''
 |build_cost=[[File:Wood.png]] 5 Wood<br>
 [[File:Stone.png]] 10 Stone<br>

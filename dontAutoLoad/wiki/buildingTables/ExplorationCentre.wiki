@@ -1,5 +1,8 @@
 {{Building
-|image=ExplorationCentre.png
+|image=<gallery>
+ExplorationCentre.png|With door
+ExplorationCentre_doorless.png|Without door
+</gallery>
 |description=''"Explore alien ruins to gain knowledge, resources and special bonuses. When all ruins have been explored, workers will investigate their findings to gain more knowledge."''
 |build_cost=[[File:Wood.png]] 8 Wood<br>
 [[File:Stone.png]] 4 Stone<br>

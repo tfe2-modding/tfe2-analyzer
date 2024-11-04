@@ -1,5 +1,8 @@
 {{Building
-|image=LandingSiteTunnel.png
+|image=<gallery>
+LandingSiteTunnel.png|With door
+LandingSiteTunnel_doorless.png|Without door
+</gallery>
 |description=''"A landing pad that can be integrated into a building. It can also be connected to space ship tunnels."''
 |build_cost=[[File:Wood.png]] 15 Wood<br>
 [[File:Stone.png]] 20 Stone<br>

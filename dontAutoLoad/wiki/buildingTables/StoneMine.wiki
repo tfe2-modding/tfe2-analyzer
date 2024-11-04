@@ -1,5 +1,8 @@
 {{Building
-|image=StoneMine.png
+|image=<gallery>
+StoneMine.png|With door
+StoneMine_doorless.png|Without door
+</gallery>
 |description=''"Stone miners retrieve their materials here, then go to the nearest rock to mine stone."''
 |build_cost=[[File:Wood.png]] 4 Wood<br>
 |jobs=6

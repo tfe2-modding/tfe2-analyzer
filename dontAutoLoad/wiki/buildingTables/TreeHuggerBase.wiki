@@ -1,5 +1,8 @@
 {{Building
-|image=TreeHuggerBase.png
+|image=<gallery>
+TreeHuggerBase.png|With door
+TreeHuggerBase_doorless.png|Without door
+</gallery>
 |description=''"Who wouldn't hug this tree?"''
 |build_cost=[[File:Food.png]] 100 Food<br>
 [[File:Wood.png]] 100 Wood<br>

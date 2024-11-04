@@ -1,5 +1,8 @@
 {{Building
-|image=BlossomHut.png
+|image=<gallery>
+BlossomHut.png|With door
+BlossomHut_doorless.png|Without door
+</gallery>
 |description=''"Residents of this hut will really flourish!"''
 |build_cost=[[File:Food.png]] 100 Food<br>
 [[File:Wood.png]] 200 Wood<br>

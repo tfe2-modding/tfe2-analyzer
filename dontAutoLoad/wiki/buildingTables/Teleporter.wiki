@@ -1,5 +1,8 @@
 {{Building
-|image=Teleporter.png
+|image=<gallery>
+Teleporter.png|With door
+Teleporter_doorless.png|Without door
+</gallery>
 |description=''"The very fastest form of transportation. Allows citizens to instantly go to other teleporters."''
 |build_cost=[[File:Wood.png]] 4 Wood<br>
 [[File:Stone.png]] 100 Stone<br>

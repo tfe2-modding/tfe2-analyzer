@@ -1,5 +1,8 @@
 {{Building
-|image=FarmGrowArea.png
+|image=<gallery>
+FarmGrowArea.png|With door
+FarmGrowArea_doorless.png|Without door
+</gallery>
 |build_cost=
 undefined
 undefined

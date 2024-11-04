@@ -1,5 +1,8 @@
 {{Building
-|image=RedwoodTreeHouse.png
+|image=<gallery>
+RedwoodTreeHouse.png|With door
+RedwoodTreeHouse_doorless.png|Without door
+</gallery>
 |description=''"!!! missing text !!!"''
 |build_cost=[[File:Food.png]] 50 Food<br>
 [[File:Wood.png]] 150 Wood<br>

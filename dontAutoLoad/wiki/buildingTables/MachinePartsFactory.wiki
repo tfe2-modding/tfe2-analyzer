@@ -1,5 +1,8 @@
 {{Building
-|image=MachinePartsFactory.png
+|image=<gallery>
+MachinePartsFactory.png|With door
+MachinePartsFactory_doorless.png|Without door
+</gallery>
 |description=''"Produces machine parts from stone. Three stone is needed to make one machine part."''
 |build_cost=[[File:Wood.png]] 10 Wood<br>
 [[File:Stone.png]] 35 Stone<br>

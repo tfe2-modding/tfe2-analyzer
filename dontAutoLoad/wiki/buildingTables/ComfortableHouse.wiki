@@ -1,5 +1,8 @@
 {{Building
-|image=ComfortableHouse.png
+|image=<gallery>
+ComfortableHouse.png|With door
+ComfortableHouse_doorless.png|Without door
+</gallery>
 |description=''"It's not exactly luxurious, but still quite comfortable."''
 |build_cost=[[File:Wood.png]] 15 Wood<br>
 |residents=4

@@ -1,5 +1,8 @@
 {{Building
-|image=FuturisticHome.png
+|image=<gallery>
+FuturisticHome.png|With door
+FuturisticHome_doorless.png|Without door
+</gallery>
 |description=''"Residents automatically gain healthcare and some education."''
 |build_cost=[[File:Refinedmetal.png]] 35 Refined Metals<br>
 [[File:Computerchips.png]] 5 Computer Chips<br>

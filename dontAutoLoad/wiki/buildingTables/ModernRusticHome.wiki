@@ -1,5 +1,8 @@
 {{Building
-|image=ModernRusticHome.png
+|image=<gallery>
+ModernRusticHome.png|With door
+ModernRusticHome_doorless.png|Without door
+</gallery>
 |description=''"This rustic-looking house makes people think of Earth. The housing quality is increased by 15 if there are at least three other modern rustic homes or parks next to it."''
 |build_cost=[[File:Food.png]] 7 Food<br>
 [[File:Wood.png]] 10 Wood<br>

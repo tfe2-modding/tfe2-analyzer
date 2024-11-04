@@ -1,5 +1,8 @@
 {{Building
-|image=SpaceBallCourt.png
+|image=<gallery>
+SpaceBallCourt.png|With door
+SpaceBallCourt_doorless.png|Without door
+</gallery>
 |description=''"!!! missing text !!!"''
 |build_cost=[[File:Refinedmetal.png]] 10 Refined Metals<br>
 |research_cost=[[File:Knowledge.png]] 10

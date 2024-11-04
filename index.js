@@ -106,6 +106,7 @@ if (confirm("Run the analyzer?")) try {
 			const {frame} = sprites.frames[info.spriteName+".png"]
 			c.width = 20
 			c.height = 20
+			// with door
 			ctx.clearRect(0, 0, c.width, c.height)
 			if (info.buttonBack) {
 				if (info.buttonBack != "none") {
@@ -122,6 +123,23 @@ if (confirm("Run the analyzer?")) try {
 			tempCtx.drawImage(c, 0, 0, c.width * 15, c.height * 15)
 			fs.writeFileSync(path.join("dontAutoLoad/wiki/buildings", className+".png"), toBuffer(tempC))
 			fs.writeFileSync(path.join("dontAutoLoad/wiki/buildingIcons", "icon_"+className+".png"), toBuffer(c))
+			// without door
+			ctx.clearRect(0, 0, c.width, c.height)
+			if (info.buttonBack) {
+				if (info.buttonBack != "none") {
+					const {frame} = sprites.frames[info.buttonBack+".png"]
+					ctx.drawImage(texture, -frame.x, -frame.y)
+				}
+			} else {
+				ctx.drawImage(texture, -frame.x - 44, -frame.y)
+			}
+			ctx.drawImage(texture, -frame.x, -frame.y)
+			tempC.width = c.width * 15
+			tempC.height = c.height * 15
+			tempCtx.imageSmoothingEnabled = false
+			tempCtx.drawImage(c, 0, 0, c.width * 15, c.height * 15)
+			fs.writeFileSync(path.join("dontAutoLoad/wiki/buildings", className+"_doorless.png"), toBuffer(tempC))
+			fs.writeFileSync(path.join("dontAutoLoad/wiki/buildingIcons", "icon_"+className+"_doorless.png"), toBuffer(c))
 			Object.defineProperty(buildings[className], "hasValidWikiSprite", {
 				enumerable: false,
 				writable: true,
@@ -157,7 +175,10 @@ if (confirm("Run the analyzer?")) try {
 			}).filter(e=>e!=null).join("\n")
 		}
 		fs.writeFileSync(path.join("dontAutoLoad/wiki/buildingTables", className+".wiki"), `{{Building
-|image=${className}.png
+|image=<gallery>
+${className}.png|With door
+${className}_doorless.png|Without door
+</gallery>
 ${info.description ? `|description=''"${info.description.replace("!unlocks", " Also unlocks new buildings.")}"''` : ""}
 |build_cost=${getWikiCost(info)}
 ${info.residents ? "|residents="+info.residents : ""}

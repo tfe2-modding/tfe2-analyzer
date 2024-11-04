@@ -1,4 +1,7 @@
 {{Building
-|image=WorkWithHome.png
+|image=<gallery>
+WorkWithHome.png|With door
+WorkWithHome_doorless.png|Without door
+</gallery>
 |build_cost=
 }}

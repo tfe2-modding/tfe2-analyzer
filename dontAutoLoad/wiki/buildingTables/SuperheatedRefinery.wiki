@@ -1,5 +1,8 @@
 {{Building
-|image=SuperheatedRefinery.png
+|image=<gallery>
+SuperheatedRefinery.png|With door
+SuperheatedRefinery_doorless.png|Without door
+</gallery>
 |description=''"Produces refined metals from stone. If surrounded by machine parts factories, this production is faster than a refined metals factory. Otherwise, it is slower."''
 |build_cost=[[File:Machineparts.png]] 100 Machine Parts<br>
 [[File:Refinedmetal.png]] 3 Refined Metals<br>

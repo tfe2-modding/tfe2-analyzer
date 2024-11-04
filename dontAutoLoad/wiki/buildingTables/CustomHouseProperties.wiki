@@ -1,5 +1,8 @@
 {{Building
-|image=CustomHouseProperties.png
+|image=<gallery>
+CustomHouseProperties.png|With door
+CustomHouseProperties_doorless.png|Without door
+</gallery>
 |build_cost=
 undefined
 undefined

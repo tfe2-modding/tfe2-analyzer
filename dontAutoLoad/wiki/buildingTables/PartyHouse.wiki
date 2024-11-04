@@ -1,5 +1,8 @@
 {{Building
-|image=PartyHouse.png
+|image=<gallery>
+PartyHouse.png|With door
+PartyHouse_doorless.png|Without door
+</gallery>
 |description=''"This house with its integrated night club never sleeps."''
 |build_cost=[[File:Wood.png]] 20 Wood<br>
 [[File:Machineparts.png]] 20 Machine Parts<br>

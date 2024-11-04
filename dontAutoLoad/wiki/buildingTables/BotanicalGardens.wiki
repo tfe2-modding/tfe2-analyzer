@@ -1,5 +1,8 @@
 {{Building
-|image=BotanicalGardens.png
+|image=<gallery>
+BotanicalGardens.png|With door
+BotanicalGardens_doorless.png|Without door
+</gallery>
 |description=''"A nice garden full of exotic plants."''
 |build_cost=[[File:Wood.png]] 25 Wood<br>
 |research_cost=[[File:Knowledge.png]] 100

@@ -1,5 +1,8 @@
 {{Building
-|image=AlienHouse.png
+|image=<gallery>
+AlienHouse.png|With door
+AlienHouse_doorless.png|Without door
+</gallery>
 |description=''"Five people can live in this strange home full of otherworldly technology."''
 |build_cost=[[File:Food.png]] 10 Food<br>
 [[File:Wood.png]] 5 Wood<br>

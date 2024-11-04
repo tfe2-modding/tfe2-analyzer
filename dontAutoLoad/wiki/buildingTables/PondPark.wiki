@@ -1,5 +1,8 @@
 {{Building
-|image=PondPark.png
+|image=<gallery>
+PondPark.png|With door
+PondPark_doorless.png|Without door
+</gallery>
 |description=''"A shallow pond with plants."''
 |build_cost=[[File:Wood.png]] 25 Wood<br>
 |research_cost=[[File:Knowledge.png]] 100

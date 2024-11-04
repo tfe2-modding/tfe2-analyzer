@@ -1,5 +1,8 @@
 {{Building
-|image=OtherworldlyGardensDome.png
+|image=<gallery>
+OtherworldlyGardensDome.png|With door
+OtherworldlyGardensDome_doorless.png|Without door
+</gallery>
 |description=''"A stylish roof for your otherworldly gardens."''
 |build_cost=[[File:Food.png]] 500 Food<br>
 [[File:Wood.png]] 400 Wood<br>

@@ -1,5 +1,8 @@
 {{Building
-|image=PioneersHut.png
+|image=<gallery>
+PioneersHut.png|With door
+PioneersHut_doorless.png|Without door
+</gallery>
 |description=''"Houses four citizens, and gives you bonuses that help with the early development of your city."''
 |build_cost=[[File:Wood.png]] 4 Wood<br>
 [[File:Stone.png]] 6 Stone<br>

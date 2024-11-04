@@ -1,5 +1,8 @@
 {{Building
-|image=NightClub.png
+|image=<gallery>
+NightClub.png|With door
+NightClub_doorless.png|Without door
+</gallery>
 |description=''"Some people will have a lot of fun in this nightclub."''
 |build_cost=[[File:Wood.png]] 20 Wood<br>
 [[File:Stone.png]] 60 Stone<br>

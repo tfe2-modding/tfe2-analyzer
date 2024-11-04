@@ -1,5 +1,8 @@
 {{Building
-|image=SpecializedMedicalClinic.png
+|image=<gallery>
+SpecializedMedicalClinic.png|With door
+SpecializedMedicalClinic_doorless.png|Without door
+</gallery>
 |description=''"Specialized in treating complicated diseases. It improves medical happiness and makes citizens live longer."''
 |build_cost=[[File:Machineparts.png]] 2500 Machine Parts<br>
 [[File:Refinedmetal.png]] 2500 Refined Metals<br>

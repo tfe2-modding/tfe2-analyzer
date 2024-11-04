@@ -1,5 +1,8 @@
 {{Building
-|image=StoneTeleporter.png
+|image=<gallery>
+StoneTeleporter.png|With door
+StoneTeleporter_doorless.png|Without door
+</gallery>
 |description=''"Teleports meteoroids to your city. Doesn't produce stone by itself; miners from Stone Mines can gather stone from the meteroids."''
 |build_cost=[[File:Wood.png]] 30 Wood<br>
 [[File:Machineparts.png]] 30 Machine Parts<br>

@@ -1,5 +1,8 @@
 {{Building
-|image=FactoryPub.png
+|image=<gallery>
+FactoryPub.png|With door
+FactoryPub_doorless.png|Without door
+</gallery>
 |description=''"A charming little pub that doubles up as a refined metals factory.\nIt can't be boosted by Experimentation Labs, though."''
 |build_cost=[[File:Wood.png]] 200 Wood<br>
 [[File:Stone.png]] 50 Stone<br>

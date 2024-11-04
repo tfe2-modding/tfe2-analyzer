@@ -1,5 +1,8 @@
 {{Building
-|image=StatueOfTheKey.png
+|image=<gallery>
+StatueOfTheKey.png|With door
+StatueOfTheKey_doorless.png|Without door
+</gallery>
 |description=''"The birthday gift of a Secret Society of the Key member who reached the respectable age of 500!"''
 |build_cost=
 }}

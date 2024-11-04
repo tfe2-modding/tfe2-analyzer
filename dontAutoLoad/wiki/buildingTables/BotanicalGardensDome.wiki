@@ -1,5 +1,8 @@
 {{Building
-|image=BotanicalGardensDome.png
+|image=<gallery>
+BotanicalGardensDome.png|With door
+BotanicalGardensDome_doorless.png|Without door
+</gallery>
 |description=''"A stylish roof for your botanical gardens."''
 |build_cost=[[File:Wood.png]] 25 Wood<br>
 [[File:Refinedmetal.png]] 1 Refined Metals<br>

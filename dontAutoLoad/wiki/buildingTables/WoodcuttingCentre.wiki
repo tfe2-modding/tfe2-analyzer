@@ -1,5 +1,8 @@
 {{Building
-|image=WoodcuttingCentre.png
+|image=<gallery>
+WoodcuttingCentre.png|With door
+WoodcuttingCentre_doorless.png|Without door
+</gallery>
 |description=''"Woodcutters retrieve their materials here, then go to the nearest forest to cut wood."''
 |build_cost=[[File:Stone.png]] 4 Stone<br>
 |jobs=4

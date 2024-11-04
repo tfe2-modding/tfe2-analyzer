@@ -1,5 +1,8 @@
 {{Building
-|image=HippieSchool.png
+|image=<gallery>
+HippieSchool.png|With door
+HippieSchool_doorless.png|Without door
+</gallery>
 |description=''"Educates children and generates some nature entertainment."''
 |build_cost=[[File:Food.png]] 10 Food<br>
 [[File:Wood.png]] 25 Wood<br>

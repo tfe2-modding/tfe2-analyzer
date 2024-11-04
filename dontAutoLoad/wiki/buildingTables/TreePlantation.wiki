@@ -1,5 +1,8 @@
 {{Building
-|image=TreePlantation.png
+|image=<gallery>
+TreePlantation.png|With door
+TreePlantation_doorless.png|Without door
+</gallery>
 |description=''"These trees are kept in an optimal environment and regrow faster than trees on the world surface. Woodcutters from a Woodcutting Center can help cut them down."''
 |build_cost=[[File:Stone.png]] 10 Stone<br>
 |jobs=2

@@ -1,5 +1,8 @@
 {{Building
-|image=CityHall.png
+|image=<gallery>
+CityHall.png|With door
+CityHall_doorless.png|Without door
+</gallery>
 |description=''"Allows you to implement city policies and to change the name of your city."''
 |build_cost=[[File:Food.png]] 100 Food<br>
 [[File:Wood.png]] 200 Wood<br>

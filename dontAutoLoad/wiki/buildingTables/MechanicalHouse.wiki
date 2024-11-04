@@ -1,5 +1,8 @@
 {{Building
-|image=MechanicalHouse.png
+|image=<gallery>
+MechanicalHouse.png|With door
+MechanicalHouse_doorless.png|Without door
+</gallery>
 |description=''"The mechanics and heating of this house need a Machine Parts Factory to function. The housing quality is increased by 50 if there is one next to it."''
 |build_cost=[[File:Wood.png]] 10 Wood<br>
 [[File:Stone.png]] 2 Stone<br>

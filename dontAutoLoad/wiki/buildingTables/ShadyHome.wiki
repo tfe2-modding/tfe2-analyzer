@@ -1,5 +1,8 @@
 {{Building
-|image=ShadyHome.png
+|image=<gallery>
+ShadyHome.png|With door
+ShadyHome_doorless.png|Without door
+</gallery>
 |build_cost=[[File:Food.png]] 10 Food<br>
 [[File:Stone.png]] 100 Stone<br>
 |residents=8

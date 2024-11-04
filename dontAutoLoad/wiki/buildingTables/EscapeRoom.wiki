@@ -1,5 +1,8 @@
 {{Building
-|image=EscapeRoom.png
+|image=<gallery>
+EscapeRoom.png|With door
+EscapeRoom_doorless.png|Without door
+</gallery>
 |description=''"A challenging lab-themed escape room, which generates gaming entertainment happiness. It also has lasers!"''
 |build_cost=[[File:Wood.png]] 1000 Wood<br>
 [[File:Machineparts.png]] 100 Machine Parts<br>

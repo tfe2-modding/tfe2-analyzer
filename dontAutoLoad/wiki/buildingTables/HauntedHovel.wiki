@@ -1,5 +1,8 @@
 {{Building
-|image=HauntedHovel.png
+|image=<gallery>
+HauntedHovel.png|With door
+HauntedHovel_doorless.png|Without door
+</gallery>
 |description=''"!!! missing text !!!"''
 |build_cost=[[File:Food.png]] 5 Food<br>
 [[File:Wood.png]] 5 Wood<br>

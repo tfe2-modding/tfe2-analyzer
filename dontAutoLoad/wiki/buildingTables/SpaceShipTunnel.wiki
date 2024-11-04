@@ -1,5 +1,8 @@
 {{Building
-|image=SpaceShipTunnel.png
+|image=<gallery>
+SpaceShipTunnel.png|With door
+SpaceShipTunnel_doorless.png|Without door
+</gallery>
 |description=''"Space ships can pass through this tunnel."''
 |build_cost=[[File:Wood.png]] 10 Wood<br>
 [[File:Stone.png]] 10 Stone<br>

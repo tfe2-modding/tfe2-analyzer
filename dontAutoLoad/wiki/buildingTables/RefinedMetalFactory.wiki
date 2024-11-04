@@ -1,5 +1,8 @@
 {{Building
-|image=RefinedMetalFactory.png
+|image=<gallery>
+RefinedMetalFactory.png|With door
+RefinedMetalFactory_doorless.png|Without door
+</gallery>
 |description=''"Produces refined metals from stone. Five stone is needed to make one unit of refined metal."''
 |build_cost=[[File:Wood.png]] 30 Wood<br>
 [[File:Stone.png]] 90 Stone<br>

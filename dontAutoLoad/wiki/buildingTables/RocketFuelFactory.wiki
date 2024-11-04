@@ -1,5 +1,8 @@
 {{Building
-|image=RocketFuelFactory.png
+|image=<gallery>
+RocketFuelFactory.png|With door
+RocketFuelFactory_doorless.png|Without door
+</gallery>
 |description=''"Makes rocket fuel from wood or food. One resource is used to make one unit of rocket fuel."''
 |build_cost=[[File:Refinedmetal.png]] 50 Refined Metals<br>
 [[File:Machineparts.png]] 100 Machine Parts<br>

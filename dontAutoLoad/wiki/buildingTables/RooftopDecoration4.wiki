@@ -1,5 +1,8 @@
 {{Building
-|image=RooftopDecoration4.png
+|image=<gallery>
+RooftopDecoration4.png|With door
+RooftopDecoration4_doorless.png|Without door
+</gallery>
 |description=''"A bottom piece for two slanted roofs."''
 |build_cost=[[File:Wood.png]] 3 Wood<br>
 [[File:Stone.png]] 3 Stone<br>

@@ -1,5 +1,8 @@
 {{Building
-|image=ColoredBlock.png
+|image=<gallery>
+ColoredBlock.png|With door
+ColoredBlock_doorless.png|Without door
+</gallery>
 |description=''"A building painted in a single color for decoration purposes, or as a placeholder."''
 |build_cost=[[File:Wood.png]] 4 Wood<br>
 [[File:Stone.png]] 4 Stone<br>

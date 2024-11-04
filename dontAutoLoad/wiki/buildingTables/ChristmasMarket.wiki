@@ -1,5 +1,8 @@
 {{Building
-|image=ChristmasMarket.png
+|image=<gallery>
+ChristmasMarket.png|With door
+ChristmasMarket_doorless.png|Without door
+</gallery>
 |description=''"A festive market with delicious and warming food and drinks."''
 |build_cost=[[File:Food.png]] 25 Food<br>
 [[File:Wood.png]] 20 Wood<br>

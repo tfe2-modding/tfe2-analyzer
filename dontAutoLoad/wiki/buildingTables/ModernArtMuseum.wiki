@@ -1,5 +1,8 @@
 {{Building
-|image=ModernArtMuseum.png
+|image=<gallery>
+ModernArtMuseum.png|With door
+ModernArtMuseum_doorless.png|Without door
+</gallery>
 |description=''"Abstract art by upcoming artists."''
 |build_cost=[[File:Wood.png]] 40 Wood<br>
 [[File:Stone.png]] 40 Stone<br>

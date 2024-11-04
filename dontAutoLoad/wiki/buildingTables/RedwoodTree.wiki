@@ -1,5 +1,8 @@
 {{Building
-|image=RedwoodTree.png
+|image=<gallery>
+RedwoodTree.png|With door
+RedwoodTree_doorless.png|Without door
+</gallery>
 |description=''"A tree that can grow really tall. It can only be built on the ground. You can make it grow once every 24 hours."''
 |build_cost=[[File:Food.png]] 50 Food<br>
 [[File:Wood.png]] 100 Wood<br>

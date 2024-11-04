@@ -1,5 +1,8 @@
 {{Building
-|image=StoneResearchCenter.png
+|image=<gallery>
+StoneResearchCenter.png|With door
+StoneResearchCenter_doorless.png|Without door
+</gallery>
 |description=''"Boosts stone production based on your knowledge production and the number of workers."''
 |build_cost=[[File:Wood.png]] 500 Wood<br>
 [[File:Machineparts.png]] 30 Machine Parts<br>

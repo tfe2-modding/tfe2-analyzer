@@ -1,5 +1,8 @@
 {{Building
-|image=CozyHouse.png
+|image=<gallery>
+CozyHouse.png|With door
+CozyHouse_doorless.png|Without door
+</gallery>
 |description=''"A simple stone house with cozy interior."''
 |build_cost=[[File:Wood.png]] 1 Wood<br>
 [[File:Stone.png]] 8 Stone<br>

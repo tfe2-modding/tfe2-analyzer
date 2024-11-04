@@ -1,5 +1,8 @@
 {{Building
-|image=ChristmasTree.png
+|image=<gallery>
+ChristmasTree.png|With door
+ChristmasTree_doorless.png|Without door
+</gallery>
 |description=''"A big Christmas tree for the whole city to enjoy."''
 |build_cost=[[File:Wood.png]] 30 Wood<br>
 [[File:Stone.png]] 5 Stone<br>

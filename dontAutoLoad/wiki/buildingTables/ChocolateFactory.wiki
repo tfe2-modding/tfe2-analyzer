@@ -1,5 +1,8 @@
 {{Building
-|image=ChocolateFactory.png
+|image=<gallery>
+ChocolateFactory.png|With door
+ChocolateFactory_doorless.png|Without door
+</gallery>
 |description=''"This factory uses cacao to make chocolate."''
 |build_cost=[[File:Wood.png]] 30 Wood<br>
 [[File:Stone.png]] 20 Stone<br>

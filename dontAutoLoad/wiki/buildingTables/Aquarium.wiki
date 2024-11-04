@@ -1,5 +1,8 @@
 {{Building
-|image=Aquarium.png
+|image=<gallery>
+Aquarium.png|With door
+Aquarium_doorless.png|Without door
+</gallery>
 |description=''"Makes your city a bit more fishy and provides nature entertainment."''
 |build_cost=[[File:Food.png]] 50 Food<br>
 [[File:Wood.png]] 200 Wood<br>

@@ -1,5 +1,8 @@
 {{Building
-|image=ParkPod.png
+|image=<gallery>
+ParkPod.png|With door
+ParkPod_doorless.png|Without door
+</gallery>
 |description=''"A home in the middle of a park."''
 |build_cost=[[File:Wood.png]] 50 Wood<br>
 |residents=1

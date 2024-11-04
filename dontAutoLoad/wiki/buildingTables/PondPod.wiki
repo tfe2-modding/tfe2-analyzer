@@ -1,5 +1,8 @@
 {{Building
-|image=PondPod.png
+|image=<gallery>
+PondPod.png|With door
+PondPod_doorless.png|Without door
+</gallery>
 |description=''"A house above a shallow pond."''
 |build_cost=[[File:Wood.png]] 50 Wood<br>
 |residents=1

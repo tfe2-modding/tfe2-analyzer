@@ -1,5 +1,8 @@
 {{Building
-|image=EcoFarm.png
+|image=<gallery>
+EcoFarm.png|With door
+EcoFarm_doorless.png|Without door
+</gallery>
 |description=''"Produces food sustainably. Also generates a small amount of nature entertainment happiness."''
 |build_cost=[[File:Wood.png]] 10 Wood<br>
 [[File:Stone.png]] 2 Stone<br>

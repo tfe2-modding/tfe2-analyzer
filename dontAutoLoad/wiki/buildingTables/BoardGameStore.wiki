@@ -1,5 +1,8 @@
 {{Building
-|image=BoardGameStore.png
+|image=<gallery>
+BoardGameStore.png|With door
+BoardGameStore_doorless.png|Without door
+</gallery>
 |description=''"People love to play board games together."''
 |build_cost=[[File:Wood.png]] 15 Wood<br>
 [[File:Stone.png]] 5 Stone<br>

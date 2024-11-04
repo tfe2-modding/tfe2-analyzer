@@ -1,5 +1,8 @@
 {{Building
-|image=MedicalClinic.png
+|image=<gallery>
+MedicalClinic.png|With door
+MedicalClinic_doorless.png|Without door
+</gallery>
 |description=''"Helps people live longer and better."''
 |build_cost=[[File:Wood.png]] 10 Wood<br>
 [[File:Stone.png]] 50 Stone<br>

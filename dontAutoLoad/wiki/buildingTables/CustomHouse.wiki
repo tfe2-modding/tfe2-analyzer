@@ -1,5 +1,8 @@
 {{Building
-|image=CustomHouse.png
+|image=<gallery>
+CustomHouse.png|With door
+CustomHouse_doorless.png|Without door
+</gallery>
 |description=''"!!! missing text !!!"''
 |build_cost=[[File:Wood.png]] 4 Wood<br>
 [[File:Stone.png]] 4 Stone<br>

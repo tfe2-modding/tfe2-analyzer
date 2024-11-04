@@ -1,5 +1,8 @@
 {{Building
-|image=UnknownBuilding.png
+|image=<gallery>
+UnknownBuilding.png|With door
+UnknownBuilding_doorless.png|Without door
+</gallery>
 |description=''"???"''
 |build_cost=
 }}
