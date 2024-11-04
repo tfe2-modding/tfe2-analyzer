@@ -9,11 +9,11 @@
 	"specialInfo": [
 		"premium"
 	],
+	"name": "Space Ship Tunnel",
+	"description": "Space ships can pass through this tunnel.",
 	"__name__": "buildings.SpaceShipTunnel",
 	"__super__": "Building",
 	"spriteName": "spr_landingpad_tunnel",
-	"name": "Space Ship Tunnel",
-	"description": "Space ships can pass through this tunnel.",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [],

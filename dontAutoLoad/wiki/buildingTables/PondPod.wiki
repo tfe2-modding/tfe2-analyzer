@@ -1,0 +1,8 @@
+{{Building
+|image=PondPod.png
+|description=''"A house above a shallow pond."''
+|build_cost=[[File:Wood.png]] 50 Wood<br>
+|residents=1
+|quality=100
+|research_cost=[[File:Knowledge.png]] 300
+}}

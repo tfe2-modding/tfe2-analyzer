@@ -1,0 +1,10 @@
+{{Building
+|image=Restaurant.png
+|description=''"A cozy place with nice food."''
+|build_cost=[[File:Food.png]] 10 Food<br>
+[[File:Wood.png]] 30 Wood<br>
+[[File:Stone.png]] 10 Stone<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 10
+|requirements=Build at least five Pubs to unlock!
+}}

@@ -1,0 +1,9 @@
+{{Building
+|image=LuxuryRestaurant.png
+|description=''"A highly rated restaurant with exclusive meals and a stylish atmosphere."''
+|build_cost=[[File:Food.png]] 100 Food<br>
+[[File:Wood.png]] 10 Wood<br>
+[[File:Refinedmetal.png]] 100 Refined Metals<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 2500
+}}

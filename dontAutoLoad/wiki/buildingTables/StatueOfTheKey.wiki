@@ -1,0 +1,5 @@
+{{Building
+|image=StatueOfTheKey.png
+|description=''"The birthday gift of a Secret Society of the Key member who reached the respectable age of 500!"''
+|build_cost=
+}}

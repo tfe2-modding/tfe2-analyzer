@@ -1,5 +1,6 @@
 const olddirname = global.__dirname
 if (confirm("Run the analyzer?")) try {
+	common_Localize.translateFiles()
 	const fs = require("fs")
 	const path = require("path")
 	const process = require("process")
@@ -94,7 +95,8 @@ if (confirm("Run the analyzer?")) try {
 	fs.mkdirSync("dontAutoLoad/wiki")
 	fs.mkdirSync("dontAutoLoad/wiki/buildings")
 	fs.mkdirSync("dontAutoLoad/wiki/buildingIcons")
-
+	fs.mkdirSync("dontAutoLoad/wiki/buildingTables")
+	
 	for (const [className, info] of Object.entries(buildings)) {
 		if (info.__isInterface__) {
 			delete buildings[className]
@@ -130,12 +132,48 @@ if (confirm("Run the analyzer?")) try {
 		}
 		const bClass = $hxClasses["buildings."+className]
 		if (bClass) {
-			if (bClass.prototype.get_possibleUpgrades) info.upgrades = bClass.prototype.get_possibleUpgrades().map(e=>e.__name__)
-			if (bClass.prototype.get_possibleBuildingModes) info.modes = bClass.prototype.get_possibleBuildingModes().map(e=>e.__name__)
+			if (bClass.prototype.get_possibleUpgrades) info.upgrades = bClass.prototype.get_possibleUpgrades().map(e=>Resources.buildingUpgradesInfo.h[e.__name__])
+			if (bClass.prototype.get_possibleBuildingModes) info.modes = bClass.prototype.get_possibleBuildingModes().map(e=>Resources.buildingUpgradesInfo.h[e.__name__])
 			if (bClass.prototype.get_possibleCityUpgrades) info.cityUpgrades = bClass.prototype.get_possibleCityUpgrades().map(e=>e.__name__)
 			if (bClass.prototype.get_possiblePolicies) info.policies = bClass.prototype.get_possiblePolicies().map(e=>e.__name__)
 		}
 		fs.writeFileSync(path.join("dontAutoLoad/buildings", className+".json"), JSON.stringify(info, null, "\t"))
+		function getWikiCost(info, prefix="", includeknowledge) {
+			return Object.entries(info).map(([key, value])=>{
+				let filenames = {
+					food: "Food",
+					wood: "Wood",
+					stone: "Stone",
+					machineParts: "Machineparts",
+					refinedMetal: "Refinedmetal",
+					computerChips: "Computerchips",
+					graphene: "Graphene",
+					rocketFuel: "Rocketfuel",
+					knowledge: "Knowledge"
+				}
+				if ((includeknowledge || key != "knowledge") && MaterialsHelper.materialNames.includes(key) && value) {
+					return prefix+"[[File:"+filenames[key]+".png]] "+value+" "+(key == "refinedMetal" ? "Refined Metals" : MaterialsHelper.findMaterialDisplayName(MaterialsHelper.findMaterialIndex(key)))+"<br>"
+				}
+			}).filter(e=>e!=null).join("\n")
+		}
+		fs.writeFileSync(path.join("dontAutoLoad/wiki/buildingTables", className+".wiki"), `{{Building
+|image=${className}.png
+${info.description ? `|description=''"${info.description.replace("!unlocks", " Also unlocks new buildings.")}"''` : ""}
+|build_cost=${getWikiCost(info)}
+${info.residents ? "|residents="+info.residents : ""}
+${info.jobs ? "|jobs="+info.jobs : ""}
+${info.quality ? "|quality="+info.quality : ""}
+${info.knowledge ? "|research_cost=[[File:Knowledge.png]] "+info.knowledge : ""}
+${info.showUnlockHint ? "|requirements="+info.showUnlockHint : ""}
+${info.upgrades?.map((e,i)=>{
+return `|upgrade${i+1}='''${e.name}''': "''${e.description}''"
+${getWikiCost(e, "* ", true)}`
+}).join("\n")}
+${info.modes?.map((e,i)=>{
+return `|mode${i+1}='''${e.name}''': "''${e.description}''"
+${getWikiCost(e, "* ", true)}`
+}).join("\n")}
+}}`.replace(/[\n\r]+/gm, "\n"))
 	}
 
 	// all sprites

@@ -1,0 +1,9 @@
+{{Building
+|image=ExperimentalFarm.png
+|description=''"Food is produced here. Also slightly increases the growth speed of crops in indoor farms."''
+|build_cost=[[File:Wood.png]] 60 Wood<br>
+[[File:Stone.png]] 30 Stone<br>
+[[File:Machineparts.png]] 5 Machine Parts<br>
+|jobs=3
+|research_cost=[[File:Knowledge.png]] 50
+}}

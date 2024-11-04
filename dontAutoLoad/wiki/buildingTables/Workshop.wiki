@@ -1,0 +1,9 @@
+{{Building
+|image=Workshop.png
+|description=''"Makes all machine parts factories in your city work faster. Also, workers can gather knowledge or produce machine parts from wood."''
+|build_cost=[[File:Wood.png]] 60 Wood<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 30
+|mode1='''Craft Machine Parts''': "''Create machine parts from wood.''"
+|mode2='''Pet Projects''': "''Gather knowledge.''"
+}}

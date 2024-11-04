@@ -11,16 +11,27 @@
 	"specialInfo": [],
 	"residents": 4,
 	"quality": 80,
+	"name": "Tinkerers' House",
+	"description": "This house is designed for makers and inventors. Residents earn extra education.",
 	"__name__": "buildings.TinkerersHome",
 	"__super__": "buildings_House",
 	"spriteName": "spr_tinkerershouse",
 	"educationPerDay": 0.01,
 	"educationCap": 1.25,
 	"saveDefinition": "frontTextureUsed$Int|backTextureUsed$Int",
-	"name": "Tinkerers' House",
-	"description": "This house is designed for makers and inventors. Residents earn extra education.",
 	"upgrades": [
-		"buildingUpgrades.BetterTools"
+		{
+			"className": "BetterTools",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 10,
+			"computerChips": 2,
+			"refinedMetal": 6,
+			"knowledge": 3000,
+			"name": "Better Tools",
+			"description": "Improves housing quality by 20."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

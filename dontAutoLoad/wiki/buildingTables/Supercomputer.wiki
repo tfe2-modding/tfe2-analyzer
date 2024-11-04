@@ -1,0 +1,9 @@
+{{Building
+|image=Supercomputer.png
+|description=''"Produces knowledge based on the amount of lab employees in your city. Also allows you to research some city upgrades."''
+|build_cost=[[File:Stone.png]] 10000 Stone<br>
+[[File:Machineparts.png]] 1000 Machine Parts<br>
+[[File:Refinedmetal.png]] 2000 Refined Metals<br>
+[[File:Computerchips.png]] 1000 Computer Chips<br>
+|research_cost=[[File:Knowledge.png]] 20000
+}}

@@ -1,0 +1,13 @@
+{{Building
+|image=AlienHouse.png
+|description=''"Five people can live in this strange home full of otherworldly technology."''
+|build_cost=[[File:Food.png]] 10 Food<br>
+[[File:Wood.png]] 5 Wood<br>
+|residents=5
+|quality=55
+|upgrade1='''Living Computer''': "''Improves housing quality by 20.''"
+* [[File:Food.png]] 25 Food<br>
+* [[File:Wood.png]] 50 Wood<br>
+* [[File:Computerchips.png]] 1 Computer Chips<br>
+* [[File:Knowledge.png]] 2000 Knowledge<br>
+}}

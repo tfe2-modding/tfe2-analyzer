@@ -10,11 +10,11 @@
 		"premium"
 	],
 	"buttonBack": "spr_landingpadtunnel_buttonback",
+	"name": "Indoor Landing Pad ",
+	"description": "A landing pad that can be integrated into a building. It can also be connected to space ship tunnels.",
 	"__name__": "buildings.LandingSiteTunnel",
 	"__super__": "buildings_LandingSite",
 	"spriteName": "spr_landingpad_tunnel",
-	"name": "Indoor Landing Pad ",
-	"description": "A landing pad that can be integrated into a building. It can also be connected to space ship tunnels.",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [],

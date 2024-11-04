@@ -1,0 +1,4 @@
+{{Building
+|image=Factory.png
+|build_cost=
+}}

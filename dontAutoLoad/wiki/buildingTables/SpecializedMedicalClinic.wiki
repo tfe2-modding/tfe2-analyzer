@@ -1,0 +1,10 @@
+{{Building
+|image=SpecializedMedicalClinic.png
+|description=''"Specialized in treating complicated diseases. It improves medical happiness and makes citizens live longer."''
+|build_cost=[[File:Machineparts.png]] 2500 Machine Parts<br>
+[[File:Refinedmetal.png]] 2500 Refined Metals<br>
+[[File:Computerchips.png]] 100 Computer Chips<br>
+[[File:Graphene.png]] 100 Graphene<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 50000
+}}

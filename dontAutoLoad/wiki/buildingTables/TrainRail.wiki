@@ -1,0 +1,7 @@
+{{Building
+|image=TrainRail.png
+|description=''"Trains can go extra fast here."''
+|build_cost=[[File:Refinedmetal.png]] 6 Refined Metals<br>
+|research_cost=[[File:Knowledge.png]] 2000
+|requirements=Build ten train stations to unlock!
+}}

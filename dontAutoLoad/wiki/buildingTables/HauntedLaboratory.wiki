@@ -1,0 +1,11 @@
+{{Building
+|image=HauntedLaboratory.png
+|description=''"A strange, eerie laboratory. The more Haunted Laboratories there are, the more knowledge each one produces. However, each one also increases the chance they all malfunction and have a negative effect on your city."''
+|build_cost=[[File:Food.png]] 100 Food<br>
+[[File:Wood.png]] 100 Wood<br>
+[[File:Stone.png]] 100 Stone<br>
+[[File:Machineparts.png]] 50 Machine Parts<br>
+[[File:Computerchips.png]] 2 Computer Chips<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 1000
+}}

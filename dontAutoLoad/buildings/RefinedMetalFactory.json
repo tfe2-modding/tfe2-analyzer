@@ -8,21 +8,61 @@
 	"unlockedByDefault": true,
 	"specialInfo": [],
 	"jobs": 2,
+	"name": "Refined Metals Factory",
+	"description": "Produces refined metals from stone. Five stone is needed to make one unit of refined metal.",
 	"__name__": "buildings.RefinedMetalFactory",
 	"__super__": "buildings_MaterialConvertingFactory",
 	"spriteName": "spr_refinedmetalfactory",
 	"originalEfficiency": 5,
 	"origMaterialsMadePerStepPerWorker": 0.001,
 	"saveDefinition": "",
-	"name": "Refined Metals Factory",
-	"description": "Produces refined metals from stone. Five stone is needed to make one unit of refined metal.",
 	"upgrades": [
-		"buildingUpgrades.RefinedMetalFactoryEfficiency"
+		{
+			"className": "RefinedMetalFactoryEfficiency",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 20,
+			"computerChips": 3,
+			"knowledge": 10000,
+			"unlockedByDefault": false,
+			"name": "Optimized Temperature Curve",
+			"description": "The factory works faster and uses one less stone per unit of refined metal produced."
+		}
 	],
 	"modes": [
-		"buildingUpgrades.FactoryWorking",
-		"buildingUpgrades.RefinedMetalsFactoryHack",
-		"buildingUpgrades.StoneUsingFactoryDisabled"
+		{
+			"className": "FactoryWorking",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Enable Factory",
+			"description": "The factory will work normally."
+		},
+		{
+			"className": "RefinedMetalsFactoryHack",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"computerChips": 0,
+			"knowledge": 1337,
+			"unlockedByDefault": false,
+			"name": "Firmware Modding",
+			"description": "The factory will work 50% faster, but also use one more stone per unit of refined metal produced."
+		},
+		{
+			"className": "StoneUsingFactoryDisabled",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Disable Factory",
+			"description": "The factory will fully halt production and not use any stone."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

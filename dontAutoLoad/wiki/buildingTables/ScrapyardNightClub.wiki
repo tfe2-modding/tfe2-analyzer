@@ -1,0 +1,10 @@
+{{Building
+|image=ScrapyardNightClub.png
+|description=''"A nightclub full of strange luminous machines."''
+|build_cost=[[File:Wood.png]] 500 Wood<br>
+[[File:Machineparts.png]] 250 Machine Parts<br>
+[[File:Computerchips.png]] 10 Computer Chips<br>
+[[File:Refinedmetal.png]] 50 Refined Metals<br>
+|jobs=1
+|research_cost=[[File:Knowledge.png]] 2000
+}}

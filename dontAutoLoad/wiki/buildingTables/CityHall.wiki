@@ -1,0 +1,11 @@
+{{Building
+|image=CityHall.png
+|description=''"Allows you to implement city policies and to change the name of your city."''
+|build_cost=[[File:Food.png]] 100 Food<br>
+[[File:Wood.png]] 200 Wood<br>
+[[File:Stone.png]] 100 Stone<br>
+|jobs=4
+|research_cost=[[File:Knowledge.png]] 150
+|mode1='''Census Data''': "''Workers produce a small amount of knowledge based on the number of citizens.''"
+|mode2='''Night Mayor''': "''Nightclubs have 2 more capacity per worker here.''"
+}}

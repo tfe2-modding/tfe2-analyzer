@@ -11,6 +11,8 @@
 		"rooftop"
 	],
 	"buttonBack": "spr_botanicalgarden_dome_buttonback",
+	"name": "Dome Botanical Gardens",
+	"description": "A stylish roof for your botanical gardens.",
 	"__name__": "buildings.BotanicalGardensDome",
 	"__super__": "buildings_BotanicalGardens",
 	"mainTexturesNonDome": [
@@ -20,8 +22,6 @@
 	],
 	"spriteName": "spr_dome_botanicalgarden",
 	"saveDefinition": "currentDomeVersion$Int",
-	"name": "Dome Botanical Gardens",
-	"description": "A stylish roof for your botanical gardens.",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [],

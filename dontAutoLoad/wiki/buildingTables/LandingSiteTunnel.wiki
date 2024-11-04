@@ -1,0 +1,8 @@
+{{Building
+|image=LandingSiteTunnel.png
+|description=''"A landing pad that can be integrated into a building. It can also be connected to space ship tunnels."''
+|build_cost=[[File:Wood.png]] 15 Wood<br>
+[[File:Stone.png]] 20 Stone<br>
+[[File:Machineparts.png]] 20 Machine Parts<br>
+|research_cost=[[File:Knowledge.png]] 325
+}}

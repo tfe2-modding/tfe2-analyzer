@@ -1,0 +1,7 @@
+{{Building
+|image=HouseOfTheKeyFriends.png
+|description=''"A house for friends of the Secret Society of the Key. As long as The Machine exists, people in this house live forever."''
+|build_cost=
+|residents=8
+|quality=100
+}}

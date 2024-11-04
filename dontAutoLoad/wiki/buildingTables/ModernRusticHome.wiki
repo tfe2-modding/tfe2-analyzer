@@ -1,0 +1,15 @@
+{{Building
+|image=ModernRusticHome.png
+|description=''"This rustic-looking house makes people think of Earth. The housing quality is increased by 15 if there are at least three other modern rustic homes or parks next to it."''
+|build_cost=[[File:Food.png]] 7 Food<br>
+[[File:Wood.png]] 10 Wood<br>
+[[File:Stone.png]] 4 Stone<br>
+|residents=2
+|quality=70
+|research_cost=[[File:Knowledge.png]] 10
+|upgrade1='''Modern Conveniences''': "''Improves housing quality by 15.''"
+* [[File:Wood.png]] 5 Wood<br>
+* [[File:Machineparts.png]] 5 Machine Parts<br>
+* [[File:Refinedmetal.png]] 2 Refined Metals<br>
+* [[File:Knowledge.png]] 100 Knowledge<br>
+}}

@@ -12,6 +12,8 @@
 		"premium"
 	],
 	"buttonBack": "spr_trainstation_buttonbg",
+	"name": "Train Station",
+	"description": "Allows citizens to travel horizontally to other train stations. There may be other buildings in between them. Each train station comes with one train.",
 	"__name__": "buildings.TrainStation",
 	"__super__": "Building",
 	"spriteName": "spr_trainstation",
@@ -25,8 +27,6 @@
 		7
 	],
 	"saveDefinition": "decorationOptionTop$Int|decorationOptionBottom$Int|minimumWaitBetweenTrains$Int|currentWaitBetweenTrainsLeft$Float|currentWaitBetweenTrainsRight$Float|timesUsed$Int|timesUsedTo$Int|trainSprite$Int",
-	"name": "Train Station",
-	"description": "Allows citizens to travel horizontally to other train stations. There may be other buildings in between them. Each train station comes with one train.",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [],

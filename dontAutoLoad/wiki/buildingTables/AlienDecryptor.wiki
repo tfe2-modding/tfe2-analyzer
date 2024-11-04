@@ -1,0 +1,9 @@
+{{Building
+|image=AlienDecryptor.png
+|description=''"A specialized computer built to decrypt alien secrets."''
+|build_cost=[[File:Stone.png]] 1000 Stone<br>
+[[File:Machineparts.png]] 900 Machine Parts<br>
+[[File:Refinedmetal.png]] 300 Refined Metals<br>
+[[File:Computerchips.png]] 100 Computer Chips<br>
+|research_cost=[[File:Knowledge.png]] 3000
+}}

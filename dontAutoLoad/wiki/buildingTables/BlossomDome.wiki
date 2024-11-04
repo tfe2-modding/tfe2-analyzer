@@ -1,0 +1,9 @@
+{{Building
+|image=BlossomDome.png
+|description=''"The flowery crown on your blossom buildings!"''
+|build_cost=[[File:Food.png]] 500 Food<br>
+[[File:Wood.png]] 500 Wood<br>
+|jobs=1
+|research_cost=[[File:Knowledge.png]] 4000
+|requirements=Build 25 blossom restaurants or blossom huts to unlock!
+}}

@@ -1,0 +1,7 @@
+{{Building
+|image=Pub.png
+|description=''"A great place for people to get together."''
+|build_cost=[[File:Wood.png]] 12 Wood<br>
+[[File:Stone.png]] 5 Stone<br>
+|jobs=1
+}}

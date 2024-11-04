@@ -1,0 +1,8 @@
+{{Building
+|image=ParkPod.png
+|description=''"A home in the middle of a park."''
+|build_cost=[[File:Wood.png]] 50 Wood<br>
+|residents=1
+|quality=100
+|research_cost=[[File:Knowledge.png]] 300
+}}

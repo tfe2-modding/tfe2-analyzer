@@ -1,0 +1,4 @@
+{{Building
+|image=OutpostHouse.png
+|build_cost=
+}}

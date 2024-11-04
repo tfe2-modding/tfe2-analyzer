@@ -1,0 +1,6 @@
+{{Building
+|image=RooftopPark.png
+|description=''"Green roofs can look really nice and give your citizens more space to experience nature."''
+|build_cost=[[File:Wood.png]] 25 Wood<br>
+|research_cost=[[File:Knowledge.png]] 10000
+}}

@@ -1,0 +1,10 @@
+{{Building
+|image=ComputerResearchCenter.png
+|description=''"Produces knowledge and allows you to research and build Computer Chip Factories."''
+|build_cost=[[File:Stone.png]] 100 Stone<br>
+[[File:Machineparts.png]] 40 Machine Parts<br>
+[[File:Refinedmetal.png]] 30 Refined Metals<br>
+|jobs=5
+|research_cost=[[File:Knowledge.png]] 300
+|requirements=Build at least five Labs and a Refined Metal Factory to unlock!
+}}

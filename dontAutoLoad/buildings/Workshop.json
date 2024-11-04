@@ -13,6 +13,8 @@
 		"notUniqueIfGalacticLibrary"
 	],
 	"jobs": 2,
+	"name": "Workshop",
+	"description": "Makes all machine parts factories in your city work faster. Also, workers can gather knowledge or produce machine parts from wood.",
 	"__name__": "buildings.Workshop",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_workshop",
@@ -21,12 +23,28 @@
 	"knowledgePerWalk": 0.15,
 	"machinePartsFactorySpeedIncrease": 1.25,
 	"saveDefinition": "materialMade$Float|totalMaterialUsed$Float|totalKnowledgeGenerated$Float",
-	"name": "Workshop",
-	"description": "Makes all machine parts factories in your city work faster. Also, workers can gather knowledge or produce machine parts from wood.",
 	"upgrades": [],
 	"modes": [
-		"buildingUpgrades.WorkshopMachineParts",
-		"buildingUpgrades.WorkshopKnowledge"
+		{
+			"className": "WorkshopMachineParts",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Craft Machine Parts",
+			"description": "Create machine parts from wood."
+		},
+		{
+			"className": "WorkshopKnowledge",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Pet Projects",
+			"description": "Gather knowledge."
+		}
 	],
 	"cityUpgrades": [
 		"cityUpgrades.BuildingRecycling",

@@ -9,17 +9,35 @@
 	"specialInfo": [],
 	"jobs": 2,
 	"notUnlockedWithAll": true,
+	"name": "Chocolate Factory",
+	"description": "This factory uses cacao to make chocolate.",
+	"showUnlockHint": "(this building has been scrapped earlier in development)",
 	"__name__": "buildings.ChocolateFactory",
 	"__super__": "buildings_MaterialConvertingFactory",
 	"spriteName": "spr_chocolatefactory",
 	"saveDefinition": "",
-	"name": "Chocolate Factory",
-	"description": "This factory uses cacao to make chocolate.",
-	"showUnlockHint": "(this building has been scrapped earlier in development)",
 	"upgrades": [],
 	"modes": [
-		"buildingUpgrades.FactoryWorking",
-		"buildingUpgrades.FactoryDisabled"
+		{
+			"className": "FactoryWorking",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Enable Factory",
+			"description": "The factory will work normally."
+		},
+		{
+			"className": "FactoryDisabled",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Disable Factory",
+			"description": "The factory will fully halt production."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

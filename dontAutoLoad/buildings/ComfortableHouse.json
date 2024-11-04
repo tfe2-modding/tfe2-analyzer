@@ -8,14 +8,35 @@
 	"specialInfo": [],
 	"residents": 4,
 	"quality": 65,
+	"name": "Wooden House",
+	"description": "It's not exactly luxurious, but still quite comfortable.",
 	"__name__": "buildings.ComfortableHouse",
 	"__super__": "buildings_House",
 	"spriteName": "spr_comfortablehouse",
-	"name": "Wooden House",
-	"description": "It's not exactly luxurious, but still quite comfortable.",
 	"upgrades": [
-		"buildingUpgrades.ComfortableCouch",
-		"buildingUpgrades.SmartSpeaker"
+		{
+			"className": "ComfortableCouch",
+			"food": 20,
+			"wood": 5,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 200,
+			"unlockedByDefault": false,
+			"name": "Comfortable Couch",
+			"description": "Improves housing quality by 15."
+		},
+		{
+			"className": "SmartSpeaker",
+			"food": 0,
+			"wood": 2,
+			"stone": 0,
+			"machineParts": 2,
+			"computerChips": 2,
+			"knowledge": 1000,
+			"unlockedByDefault": false,
+			"name": "Somewhat Smart Speaker",
+			"description": "Improves housing quality by 10."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

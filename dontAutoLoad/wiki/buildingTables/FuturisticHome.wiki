@@ -1,0 +1,10 @@
+{{Building
+|image=FuturisticHome.png
+|description=''"Residents automatically gain healthcare and some education."''
+|build_cost=[[File:Refinedmetal.png]] 35 Refined Metals<br>
+[[File:Computerchips.png]] 5 Computer Chips<br>
+[[File:Graphene.png]] 5 Graphene<br>
+|residents=6
+|quality=100
+|research_cost=[[File:Knowledge.png]] 20000
+}}

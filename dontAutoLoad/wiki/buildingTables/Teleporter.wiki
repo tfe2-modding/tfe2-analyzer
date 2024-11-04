@@ -1,0 +1,9 @@
+{{Building
+|image=Teleporter.png
+|description=''"The very fastest form of transportation. Allows citizens to instantly go to other teleporters."''
+|build_cost=[[File:Wood.png]] 4 Wood<br>
+[[File:Stone.png]] 100 Stone<br>
+[[File:Machineparts.png]] 150 Machine Parts<br>
+[[File:Computerchips.png]] 15 Computer Chips<br>
+|research_cost=[[File:Knowledge.png]] 5000
+}}

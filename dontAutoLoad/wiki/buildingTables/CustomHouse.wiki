@@ -1,0 +1,8 @@
+{{Building
+|image=CustomHouse.png
+|description=''"!!! missing text !!!"''
+|build_cost=[[File:Wood.png]] 4 Wood<br>
+[[File:Stone.png]] 4 Stone<br>
+|residents=1
+|quality=20
+}}

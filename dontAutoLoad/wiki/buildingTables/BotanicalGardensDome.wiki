@@ -1,0 +1,7 @@
+{{Building
+|image=BotanicalGardensDome.png
+|description=''"A stylish roof for your botanical gardens."''
+|build_cost=[[File:Wood.png]] 25 Wood<br>
+[[File:Refinedmetal.png]] 1 Refined Metals<br>
+|research_cost=[[File:Knowledge.png]] 2500
+}}

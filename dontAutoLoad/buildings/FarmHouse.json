@@ -11,19 +11,55 @@
 	"residents": 5,
 	"quality": 85,
 	"buttonBack": "spr_communityhouse_buttonback",
+	"name": "Community House",
+	"description": "This house gives a strong sense of community. Produces a small amount of food, wood or stone for each resident. Most upgrades don't apply to this production.",
 	"__name__": "buildings.FarmHouse",
 	"__super__": "buildings_House",
 	"spriteName": "spr_farmhouse",
 	"saveDefinition": "stageProgress$Float|materialPhase$Int|totalMaterialsProduced$Float",
-	"name": "Community House",
-	"description": "This house gives a strong sense of community. Produces a small amount of food, wood or stone for each resident. Most upgrades don't apply to this production.",
 	"upgrades": [
-		"buildingUpgrades.IndoorPond"
+		{
+			"className": "IndoorPond",
+			"food": 20,
+			"wood": 0,
+			"stone": 100,
+			"machineParts": 0,
+			"knowledge": 10000,
+			"name": "Indoor Pond",
+			"description": "Improves housing quality by 15."
+		}
 	],
 	"modes": [
-		"buildingUpgrades.CHProduceFood",
-		"buildingUpgrades.CHProduceStone",
-		"buildingUpgrades.CHProduceWood"
+		{
+			"className": "CHProduceFood",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Crops",
+			"description": "Produce food."
+		},
+		{
+			"className": "CHProduceStone",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Rock",
+			"description": "Produce stone."
+		},
+		{
+			"className": "CHProduceWood",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Tree",
+			"description": "Produce wood."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

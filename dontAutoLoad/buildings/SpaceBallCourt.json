@@ -9,6 +9,8 @@
 	"unlockedByDefault": false,
 	"specialInfo": [],
 	"notUnlockedWithAll": true,
+	"name": "!!! missing text !!!",
+	"description": "!!! missing text !!!",
 	"__name__": "buildings.SpaceBallCourt",
 	"__super__": "Building",
 	"spriteName": "spr_spaceballcourt",

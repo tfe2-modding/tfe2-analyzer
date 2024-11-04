@@ -1,0 +1,6 @@
+{{Building
+|image=CustomHouseProperties.png
+|build_cost=
+undefined
+undefined
+}}

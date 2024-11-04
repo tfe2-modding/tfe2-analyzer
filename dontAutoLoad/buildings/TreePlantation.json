@@ -9,6 +9,8 @@
 	"specialInfo": [],
 	"jobs": 2,
 	"buttonBack": "spr_treeplantation_buttonback",
+	"name": "Tree Plantation",
+	"description": "These trees are kept in an optimal environment and regrow faster than trees on the world surface. Woodcutters from a Woodcutting Center can help cut them down.",
 	"__name__": "buildings.TreePlantation",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_treeplantation",
@@ -16,10 +18,19 @@
 	"growWaitTimeMin": 120,
 	"growWaitTimeMax": 180,
 	"saveDefinition": "regrowProgress$Float|materialsLeft$Float",
-	"name": "Tree Plantation",
-	"description": "These trees are kept in an optimal environment and regrow faster than trees on the world surface. Woodcutters from a Woodcutting Center can help cut them down.",
 	"upgrades": [
-		"buildingUpgrades.AutomaticWaterManagement"
+		{
+			"className": "AutomaticWaterManagement",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 5,
+			"computerChips": 5,
+			"knowledge": 5000,
+			"unlockedByDefault": false,
+			"name": "Automatic Water Management",
+			"description": "The passive growth speed of these trees is tripled."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

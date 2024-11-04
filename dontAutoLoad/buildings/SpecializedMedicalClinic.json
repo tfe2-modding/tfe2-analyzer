@@ -15,11 +15,11 @@
 		"premium"
 	],
 	"jobs": 2,
+	"name": "Specialized Medical Clinic",
+	"description": "Specialized in treating complicated diseases. It improves medical happiness and makes citizens live longer.",
 	"__name__": "buildings.SpecializedMedicalClinic",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_advancedmedicalclinic",
-	"name": "Specialized Medical Clinic",
-	"description": "Specialized in treating complicated diseases. It improves medical happiness and makes citizens live longer.",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [],

@@ -1,0 +1,19 @@
+{{Building
+|image=FarmHouse.png
+|description=''"This house gives a strong sense of community. Produces a small amount of food, wood or stone for each resident. Most upgrades don't apply to this production."''
+|build_cost=[[File:Food.png]] 100 Food<br>
+[[File:Wood.png]] 100 Wood<br>
+[[File:Stone.png]] 100 Stone<br>
+[[File:Machineparts.png]] 30 Machine Parts<br>
+[[File:Refinedmetal.png]] 10 Refined Metals<br>
+|residents=5
+|quality=85
+|research_cost=[[File:Knowledge.png]] 7500
+|upgrade1='''Indoor Pond''': "''Improves housing quality by 15.''"
+* [[File:Food.png]] 20 Food<br>
+* [[File:Stone.png]] 100 Stone<br>
+* [[File:Knowledge.png]] 10000 Knowledge<br>
+|mode1='''Crops''': "''Produce food.''"
+|mode2='''Rock''': "''Produce stone.''"
+|mode3='''Tree''': "''Produce wood.''"
+}}

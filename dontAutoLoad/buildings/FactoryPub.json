@@ -9,20 +9,60 @@
 	"unlockedByDefault": false,
 	"specialInfo": [],
 	"jobs": 2,
+	"name": "Factory Pub",
+	"description": "A charming little pub that doubles up as a refined metals factory.\\nIt can't be boosted by Experimentation Labs, though.",
 	"__name__": "buildings.FactoryPub",
 	"__super__": "buildings_RefinedMetalFactory",
 	"spriteName": "spr_refinedmetalfactorypub",
 	"closeTime": 4.5,
 	"saveDefinition": "",
-	"name": "Factory Pub",
-	"description": "A charming little pub that doubles up as a refined metals factory.\\nIt can't be boosted by Experimentation Labs, though.",
 	"upgrades": [
-		"buildingUpgrades.RefinedMetalFactoryEfficiency"
+		{
+			"className": "RefinedMetalFactoryEfficiency",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 20,
+			"computerChips": 3,
+			"knowledge": 10000,
+			"unlockedByDefault": false,
+			"name": "Optimized Temperature Curve",
+			"description": "The factory works faster and uses one less stone per unit of refined metal produced."
+		}
 	],
 	"modes": [
-		"buildingUpgrades.FactoryWorking",
-		"buildingUpgrades.RefinedMetalsFactoryHack",
-		"buildingUpgrades.StoneUsingFactoryDisabled"
+		{
+			"className": "FactoryWorking",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Enable Factory",
+			"description": "The factory will work normally."
+		},
+		{
+			"className": "RefinedMetalsFactoryHack",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"computerChips": 0,
+			"knowledge": 1337,
+			"unlockedByDefault": false,
+			"name": "Firmware Modding",
+			"description": "The factory will work 50% faster, but also use one more stone per unit of refined metal produced."
+		},
+		{
+			"className": "StoneUsingFactoryDisabled",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Disable Factory",
+			"description": "The factory will fully halt production and not use any stone."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

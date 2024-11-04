@@ -1,0 +1,10 @@
+{{Building
+|image=ModernArtMuseum.png
+|description=''"Abstract art by upcoming artists."''
+|build_cost=[[File:Wood.png]] 40 Wood<br>
+[[File:Stone.png]] 40 Stone<br>
+[[File:Refinedmetal.png]] 10 Refined Metals<br>
+|jobs=1
+|research_cost=[[File:Knowledge.png]] 100
+|requirements=Build a Refined Metals Factory to unlock!
+}}

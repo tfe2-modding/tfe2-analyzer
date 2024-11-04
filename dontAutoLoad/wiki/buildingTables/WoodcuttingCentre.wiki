@@ -1,0 +1,6 @@
+{{Building
+|image=WoodcuttingCentre.png
+|description=''"Woodcutters retrieve their materials here, then go to the nearest forest to cut wood."''
+|build_cost=[[File:Stone.png]] 4 Stone<br>
+|jobs=4
+}}

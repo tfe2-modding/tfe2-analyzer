@@ -8,19 +8,55 @@
 	"unlockedByDefault": true,
 	"specialInfo": [],
 	"jobs": 2,
+	"name": "Machine Parts Factory",
+	"description": "Produces machine parts from stone. Three stone is needed to make one machine part.",
 	"__name__": "buildings.MachinePartsFactory",
 	"__super__": "buildings_MaterialConvertingFactory",
 	"spriteName": "spr_machinepartsfactory",
 	"saveDefinition": "",
-	"name": "Machine Parts Factory",
-	"description": "Produces machine parts from stone. Three stone is needed to make one machine part.",
 	"upgrades": [
-		"buildingUpgrades.MachinePartsFactoryEfficiency"
+		{
+			"className": "MachinePartsFactoryEfficiency",
+			"food": 0,
+			"wood": 0,
+			"stone": 5,
+			"machineParts": 10,
+			"knowledge": 20,
+			"name": "Scrap Metal Recycling",
+			"description": "Two stone is now used to make a machine part instead of three."
+		}
 	],
 	"modes": [
-		"buildingUpgrades.FactoryWorking",
-		"buildingUpgrades.MachinePartsFactoryTurbo",
-		"buildingUpgrades.StoneUsingFactoryDisabled"
+		{
+			"className": "FactoryWorking",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Enable Factory",
+			"description": "The factory will work normally."
+		},
+		{
+			"className": "MachinePartsFactoryTurbo",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 10,
+			"name": "Turbo Boost",
+			"description": "The factory will work twice as fast, but also use two more stone per machine part."
+		},
+		{
+			"className": "StoneUsingFactoryDisabled",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Disable Factory",
+			"description": "The factory will fully halt production and not use any stone."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

@@ -1,0 +1,7 @@
+{{Building
+|image=IndoorFarm.png
+|description=''"Crops can be grown here to produce food."''
+|build_cost=[[File:Wood.png]] 5 Wood<br>
+[[File:Stone.png]] 3 Stone<br>
+|jobs=2
+}}

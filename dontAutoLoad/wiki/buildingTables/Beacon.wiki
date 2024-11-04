@@ -1,0 +1,6 @@
+{{Building
+|image=Beacon.png
+|description=''"Your citizens' reward for keeping them really happy for a while!"''
+|build_cost=
+|requirements=Maintain :D or better happiness for at least fourteen days to unlock!
+}}

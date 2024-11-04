@@ -12,6 +12,8 @@
 		"rooftop"
 	],
 	"buttonBack": "spr_dome_otherworldlygarden_buttonback",
+	"name": "Dome Otherworldly Gardens",
+	"description": "A stylish roof for your otherworldly gardens.",
 	"__name__": "buildings.OtherworldlyGardensDome",
 	"__super__": "buildings_OtherworldlyGardens",
 	"mainTexturesNonDome": [
@@ -21,8 +23,6 @@
 	],
 	"spriteName": "spr_dome_botanicalgarden",
 	"saveDefinition": "currentDomeVersion$Int",
-	"name": "Dome Otherworldly Gardens",
-	"description": "A stylish roof for your otherworldly gardens.",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [],

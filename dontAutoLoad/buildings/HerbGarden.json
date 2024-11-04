@@ -9,17 +9,35 @@
 	"specialInfo": [],
 	"jobs": 2,
 	"buttonBack": "spr_herbgarden_buttonback",
+	"name": "Herb Garden",
+	"description": "Herbs and spices are grown here. They make food taste better, reducing the amount of food people need. Also has an extra effect depending on the herb type.",
+	"showUnlockHint": "Build two restaurants to unlock!",
 	"__name__": "buildings.HerbGarden",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_herbgarden",
 	"saveDefinition": "currentTexture$Int",
-	"name": "Herb Garden",
-	"description": "Herbs and spices are grown here. They make food taste better, reducing the amount of food people need. Also has an extra effect depending on the herb type.",
-	"showUnlockHint": "Build two restaurants to unlock!",
 	"upgrades": [],
 	"modes": [
-		"buildingUpgrades.CulinaryHerbs",
-		"buildingUpgrades.MedicalHerbs"
+		{
+			"className": "CulinaryHerbs",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Culinary Herbs",
+			"description": "Increases the capacity of restaurants to the left and right of the garden."
+		},
+		{
+			"className": "MedicalHerbs",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 25,
+			"name": "Medicinal Herbs",
+			"description": "Improves the medical happiness. Herb gardens can't provide more than 20% of the medical happiness in total."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

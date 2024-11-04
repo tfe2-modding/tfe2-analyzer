@@ -1,0 +1,18 @@
+{{Building
+|image=FactoryPub.png
+|description=''"A charming little pub that doubles up as a refined metals factory.\nIt can't be boosted by Experimentation Labs, though."''
+|build_cost=[[File:Wood.png]] 200 Wood<br>
+[[File:Stone.png]] 50 Stone<br>
+[[File:Machineparts.png]] 50 Machine Parts<br>
+[[File:Computerchips.png]] 5 Computer Chips<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 1000
+|upgrade1='''Optimized Temperature Curve''': "''The factory works faster and uses one less stone per unit of refined metal produced.''"
+* [[File:Machineparts.png]] 20 Machine Parts<br>
+* [[File:Computerchips.png]] 3 Computer Chips<br>
+* [[File:Knowledge.png]] 10000 Knowledge<br>
+|mode1='''Enable Factory''': "''The factory will work normally.''"
+|mode2='''Firmware Modding''': "''The factory will work 50% faster, but also use one more stone per unit of refined metal produced.''"
+* [[File:Knowledge.png]] 1337 Knowledge<br>
+|mode3='''Disable Factory''': "''The factory will fully halt production and not use any stone.''"
+}}

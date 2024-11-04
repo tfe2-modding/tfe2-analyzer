@@ -1,0 +1,12 @@
+{{Building
+|image=Arcade.png
+|description=''"Fun games for the whole family."''
+|build_cost=[[File:Wood.png]] 20 Wood<br>
+[[File:Stone.png]] 100 Stone<br>
+[[File:Machineparts.png]] 10 Machine Parts<br>
+[[File:Refinedmetal.png]] 20 Refined Metals<br>
+[[File:Computerchips.png]] 5 Computer Chips<br>
+|jobs=1
+|research_cost=[[File:Knowledge.png]] 300
+|requirements=Build a Computer Chip Factory to unlock!
+}}

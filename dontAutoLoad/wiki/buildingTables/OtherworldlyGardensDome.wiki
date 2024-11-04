@@ -1,0 +1,7 @@
+{{Building
+|image=OtherworldlyGardensDome.png
+|description=''"A stylish roof for your otherworldly gardens."''
+|build_cost=[[File:Food.png]] 500 Food<br>
+[[File:Wood.png]] 400 Wood<br>
+[[File:Refinedmetal.png]] 10 Refined Metals<br>
+}}

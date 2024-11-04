@@ -1,0 +1,10 @@
+{{Building
+|image=RedwoodTreeHouse.png
+|description=''"!!! missing text !!!"''
+|build_cost=[[File:Food.png]] 50 Food<br>
+[[File:Wood.png]] 150 Wood<br>
+[[File:Machineparts.png]] 20 Machine Parts<br>
+|residents=2
+|quality=100
+|research_cost=[[File:Knowledge.png]] 7500
+}}

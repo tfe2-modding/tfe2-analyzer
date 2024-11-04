@@ -10,20 +10,56 @@
 	"specialInfo": [
 		"unique"
 	],
+	"name": "Misdirector",
+	"description": "Whenever someone uses a teleporter, there is a small chance they will be brought here instead. This will confuse them for a short while. This invention is not completely useless though: you will gain some knowledge each time. Also, the Misdirector halves the operating cost of teleporters.",
 	"__name__": "buildings.Misdirector",
 	"__super__": "Building",
 	"spriteName": "spr_misdirector",
 	"normalKnowledgeProduction": 0.5,
 	"reducedKnowledgeProduction": 0.05,
 	"saveDefinition": "knowledgeGenerated$Float|timesUsedTo$Int",
-	"name": "Misdirector",
-	"description": "Whenever someone uses a teleporter, there is a small chance they will be brought here instead. This will confuse them for a short while. This invention is not completely useless though: you will gain some knowledge each time. Also, the Misdirector halves the operating cost of teleporters.",
 	"upgrades": [],
 	"modes": [
-		"buildingUpgrades.MisdirectorNormal",
-		"buildingUpgrades.MisdirectorAlways",
-		"buildingUpgrades.MisdirectorMostlyDisabled",
-		"buildingUpgrades.MisdirectorDisabled"
+		{
+			"className": "MisdirectorNormal",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Enable",
+			"description": "The Misdirector is predictably unpredictable."
+		},
+		{
+			"className": "MisdirectorAlways",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 5000,
+			"name": "Overclock",
+			"description": "Any attempt at teleportation will bring people here. Perfect to stop excess productivity.\nThe knowledge gain per misdirection is reduced by 90% because the device is overloaded."
+		},
+		{
+			"className": "MisdirectorMostlyDisabled",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Mostly Disable",
+			"description": "There's an OFF button. It mostly works."
+		},
+		{
+			"className": "MisdirectorDisabled",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 50000,
+			"name": "Disable",
+			"description": "With some effort, the Misdirector can be tamed."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

@@ -1,0 +1,6 @@
+{{Building
+|image=ThievesDen.png
+|build_cost=
+undefined
+undefined
+}}

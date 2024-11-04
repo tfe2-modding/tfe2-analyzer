@@ -1,0 +1,7 @@
+{{Building
+|image=ExplorationCentre.png
+|description=''"Explore alien ruins to gain knowledge, resources and special bonuses. When all ruins have been explored, workers will investigate their findings to gain more knowledge."''
+|build_cost=[[File:Wood.png]] 8 Wood<br>
+[[File:Stone.png]] 4 Stone<br>
+|jobs=3
+}}

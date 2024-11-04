@@ -1,0 +1,4 @@
+{{Building
+|image=HighTechNightClub.png
+|build_cost=
+}}

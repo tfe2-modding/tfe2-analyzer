@@ -13,6 +13,9 @@
 		"unique"
 	],
 	"additionalNoteForPeopleReadingThis": "You also need a Refined Metal Factory!",
+	"name": "Mining Research Center",
+	"description": "Boosts stone production based on your knowledge production and the number of workers.",
+	"showUnlockHint": "Build at least 15 Stone Mines and three Rock Teleporters to unlock!",
 	"__name__": "buildings.StoneResearchCenter",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_stoneresearchcentre",
@@ -25,12 +28,31 @@
 	"bonusLogFactorPT": 1.65,
 	"linearBonusFactorPT": 0.000025,
 	"saveDefinition": "totalKnowledgeGenerated$Float",
-	"name": "Mining Research Center",
-	"description": "Boosts stone production based on your knowledge production and the number of workers.",
-	"showUnlockHint": "Build at least 15 Stone Mines and three Rock Teleporters to unlock!",
 	"upgrades": [
-		"buildingUpgrades.PickaxeTech",
-		"buildingUpgrades.FossilScanner"
+		{
+			"className": "PickaxeTech",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"computerChips": 25,
+			"knowledge": 2500,
+			"unlockedByDefault": false,
+			"name": "Peer-Reviewed Pickaxe Part Papers",
+			"description": "The boost to stone production is increased and scales faster with knowledge production."
+		},
+		{
+			"className": "FossilScanner",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"computerChips": 2000,
+			"knowledge": 150000,
+			"unlockedByDefault": false,
+			"name": "Fossil Detector",
+			"description": "Whenever a rock teleporter teleports a meteoroid, there is a tiny chance that a fossil is detected in it. When this happens, you gain 10000 knowledge."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

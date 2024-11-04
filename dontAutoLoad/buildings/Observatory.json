@@ -14,6 +14,8 @@
 		"notUniqueIfGalacticLibrary"
 	],
 	"jobs": 3,
+	"name": "Observatory",
+	"description": "Produces knowledge. Can only be placed on the ground or on a rooftop.",
 	"__name__": "buildings.Observatory",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_observatory",
@@ -21,10 +23,18 @@
 	"starDatabaseUpgradeAmount": 1.5,
 	"starDatabaseAndUniverseDBUpgradeAmount": 6,
 	"saveDefinition": "totalKnowledgeGenerated$Float|mirrored$Bool",
-	"name": "Observatory",
-	"description": "Produces knowledge. Can only be placed on the ground or on a rooftop.",
 	"upgrades": [
-		"buildingUpgrades.StarDatabase"
+		{
+			"className": "StarDatabase",
+			"food": 0,
+			"wood": 0,
+			"stone": 5,
+			"machineParts": 0,
+			"computerChips": 5,
+			"knowledge": 100,
+			"name": "Star Database",
+			"description": "This building produces 50% more knowledge. If the Precise Universe Mapping upgrade from the Supercomputer has been researched, it produces 500% more knowledge instead."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

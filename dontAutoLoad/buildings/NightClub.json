@@ -8,6 +8,8 @@
 	"unlockedByDefault": true,
 	"specialInfo": [],
 	"jobs": 1,
+	"name": "Nightclub",
+	"description": "Some people will have a lot of fun in this nightclub.",
 	"__name__": "buildings.NightClub",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_nightclub",
@@ -18,10 +20,19 @@
 	"closeTime": 6,
 	"nightClubColorOptions": 5,
 	"saveDefinition": "nightClubColor$Int",
-	"name": "Nightclub",
-	"description": "Some people will have a lot of fun in this nightclub.",
 	"upgrades": [
-		"buildingUpgrades.BetterLightShow"
+		{
+			"className": "BetterLightShow",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 20,
+			"computerChips": 2,
+			"refinedMetal": 0,
+			"knowledge": 100,
+			"name": "Better Light Show",
+			"description": "The entertainment capacity of the building will be doubled."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

@@ -1,0 +1,8 @@
+{{Building
+|image=TrainStation.png
+|description=''"Allows citizens to travel horizontally to other train stations. There may be other buildings in between them. Each train station comes with one train."''
+|build_cost=[[File:Refinedmetal.png]] 5 Refined Metals<br>
+[[File:Machineparts.png]] 30 Machine Parts<br>
+[[File:Computerchips.png]] 1 Computer Chips<br>
+|research_cost=[[File:Knowledge.png]] 1000
+}}

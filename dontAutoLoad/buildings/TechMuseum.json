@@ -14,6 +14,8 @@
 	],
 	"jobs": 2,
 	"buttonBack": "spr_techmuseum_buttonback",
+	"name": "Science Museum",
+	"description": "A museum for science and technology. It improves art happiness and also educates visitors.",
 	"__name__": "buildings.TechMuseum",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_techmuseum",
@@ -25,8 +27,6 @@
 		"spr_techmuseum_majordisplay_2"
 	],
 	"saveDefinition": "mainTexture$Int|secondTexture$Int|thirdTexture$Int",
-	"name": "Science Museum",
-	"description": "A museum for science and technology. It improves art happiness and also educates visitors.",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [],

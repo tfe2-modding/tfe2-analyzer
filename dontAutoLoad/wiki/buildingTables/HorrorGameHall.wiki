@@ -1,0 +1,11 @@
+{{Building
+|image=HorrorGameHall.png
+|description=''"A possibly haunted arcade that only offers horror games."''
+|build_cost=[[File:Food.png]] 50 Food<br>
+[[File:Wood.png]] 100 Wood<br>
+[[File:Stone.png]] 50 Stone<br>
+[[File:Machineparts.png]] 10 Machine Parts<br>
+[[File:Computerchips.png]] 5 Computer Chips<br>
+|jobs=1
+|research_cost=[[File:Knowledge.png]] 200
+}}

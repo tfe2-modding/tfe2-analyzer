@@ -1,0 +1,8 @@
+{{Building
+|image=AlienNightClub.png
+|description=''"People love dancing with an alien atmosphere."''
+|build_cost=[[File:Food.png]] 500 Food<br>
+[[File:Wood.png]] 500 Wood<br>
+|jobs=1
+|research_cost=[[File:Knowledge.png]] 10000
+}}

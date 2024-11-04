@@ -1,0 +1,7 @@
+{{Building
+|image=BotanicalGardens.png
+|description=''"A nice garden full of exotic plants."''
+|build_cost=[[File:Wood.png]] 25 Wood<br>
+|research_cost=[[File:Knowledge.png]] 100
+|requirements=Build at least ten Parks and five Labs to unlock!
+}}

@@ -12,6 +12,8 @@
 		"unique"
 	],
 	"jobs": 3,
+	"name": "Commune Hall",
+	"description": "A place for people to socialize, eat and discuss matters related to this commune. Provides Pub entertainment and generates knowledge.",
 	"__name__": "buildings.CommuneHall",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_communehall",
@@ -19,12 +21,30 @@
 	"knowledgePerStep": 0.00121,
 	"knowledgePerStepIfFed": 0.00321,
 	"saveDefinition": "totalFoodConsumed$Float|totalKnowledgeGenerated$Float",
-	"name": "Commune Hall",
-	"description": "A place for people to socialize, eat and discuss matters related to this commune. Provides Pub entertainment and generates knowledge.",
 	"upgrades": [],
 	"modes": [
-		"buildingUpgrades.FreeThinkers",
-		"buildingUpgrades.WellFedThinkers"
+		{
+			"className": "FreeThinkers",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"unlockedByDefault": true,
+			"name": "Free Thinkers",
+			"description": "Produce knowledge."
+		},
+		{
+			"className": "WellFedThinkers",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"unlockedByDefault": true,
+			"name": "Well-Fed Thinkers",
+			"description": "Produce more knowledge, and consume some food."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

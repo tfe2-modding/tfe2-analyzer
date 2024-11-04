@@ -11,14 +11,27 @@
 	"specialInfo": [
 		"unique"
 	],
+	"name": "The Machine",
+	"description": "Makes Secret Society of the Key members live forever. Also produces random resources every day.",
 	"__name__": "buildings.TheMachine",
 	"__super__": "Building",
 	"spriteName": "spr_secretsocietymachine",
 	"saveDefinition": "animProgress$Float|lastDayReward$Int|thisDayMaterialReward$ds|totalMaterialReward$ds",
-	"name": "The Machine",
-	"description": "Makes Secret Society of the Key members live forever. Also produces random resources every day.",
 	"upgrades": [
-		"buildingUpgrades.TheMachineUpgrade"
+		{
+			"className": "TheMachineUpgrade",
+			"rocketFuel": 20000,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"refinedMetal": 0,
+			"computerChips": 5000,
+			"graphene": 1000,
+			"knowledge": 50000,
+			"unlockedByDefault": false,
+			"name": "Machine Tuning",
+			"description": "The Machine produces 50% more materials and it sometimes also produces graphene and rocket fuel. If it's ever destroyed, Secret Society of the Key members stay alive longer. Members of the Feather Alliance live longer."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

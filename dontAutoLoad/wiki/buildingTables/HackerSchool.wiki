@@ -1,0 +1,9 @@
+{{Building
+|image=HackerSchool.png
+|description=''"This school provides a great education. Graduates will occasionally create minor inventions."''
+|build_cost=[[File:Wood.png]] 50000 Wood<br>
+[[File:Machineparts.png]] 1000 Machine Parts<br>
+[[File:Computerchips.png]] 750 Computer Chips<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 50000
+}}

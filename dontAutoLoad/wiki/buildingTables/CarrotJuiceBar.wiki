@@ -1,0 +1,8 @@
+{{Building
+|image=CarrotJuiceBar.png
+|description=''"!!! missing text !!!"''
+|build_cost=[[File:Food.png]] 20 Food<br>
+[[File:Wood.png]] 20 Wood<br>
+|jobs=3
+|research_cost=[[File:Knowledge.png]] 20
+}}

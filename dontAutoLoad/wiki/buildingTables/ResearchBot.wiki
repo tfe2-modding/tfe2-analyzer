@@ -1,0 +1,8 @@
+{{Building
+|image=ResearchBot.png
+|description=''"A researcher can gather knowledge from this little spacecraft. There can be no building or world directly above this."''
+|build_cost=[[File:Stone.png]] 10 Stone<br>
+[[File:Machineparts.png]] 1 Machine Parts<br>
+|jobs=1
+|research_cost=[[File:Knowledge.png]] 20
+}}

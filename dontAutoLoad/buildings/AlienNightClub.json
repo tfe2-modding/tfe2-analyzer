@@ -12,6 +12,8 @@
 		"premium"
 	],
 	"jobs": 1,
+	"name": "Alien Nightclub",
+	"description": "People love dancing with an alien atmosphere.",
 	"__name__": "buildings.AlienNightClub",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_aliennightclub",
@@ -21,8 +23,6 @@
 	"laserMaxY": 18,
 	"closeTime": 6,
 	"saveDefinition": "",
-	"name": "Alien Nightclub",
-	"description": "People love dancing with an alien atmosphere.",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [],

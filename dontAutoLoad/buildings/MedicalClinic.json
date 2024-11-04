@@ -9,15 +9,37 @@
 	"unlockedByDefault": true,
 	"specialInfo": [],
 	"jobs": 2,
-	"__name__": "buildings.MedicalClinic",
-	"__super__": "buildings_Work",
-	"spriteName": "spr_medicalclinic",
 	"name": "Medical Clinic",
 	"description": "Helps people live longer and better.",
 	"showUnlockHint": "Build a Refined Metals Factory to unlock!",
+	"__name__": "buildings.MedicalClinic",
+	"__super__": "buildings_Work",
+	"spriteName": "spr_medicalclinic",
 	"upgrades": [
-		"buildingUpgrades.MedicalEducation",
-		"buildingUpgrades.AIAssistedDiagnosis"
+		{
+			"className": "MedicalEducation",
+			"food": 100,
+			"wood": 10,
+			"stone": 0,
+			"machineParts": 0,
+			"computerChips": 0,
+			"refinedMetal": 0,
+			"knowledge": 100,
+			"name": "Improved Medical Education",
+			"description": "The quality of this building will be increased by 25% of the education happiness."
+		},
+		{
+			"className": "AIAssistedDiagnosis",
+			"food": 0,
+			"wood": 0,
+			"stone": 20,
+			"machineParts": 50,
+			"computerChips": 25,
+			"refinedMetal": 0,
+			"knowledge": 1000,
+			"name": "Computer-Aided Diagnosis",
+			"description": "The quality of this building will be increased by 25 and its capacity will be doubled."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [

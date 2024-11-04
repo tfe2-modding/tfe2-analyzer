@@ -1,0 +1,16 @@
+{{Building
+|image=MachinePartsFactory.png
+|description=''"Produces machine parts from stone. Three stone is needed to make one machine part."''
+|build_cost=[[File:Wood.png]] 10 Wood<br>
+[[File:Stone.png]] 35 Stone<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 25
+|upgrade1='''Scrap Metal Recycling''': "''Two stone is now used to make a machine part instead of three.''"
+* [[File:Stone.png]] 5 Stone<br>
+* [[File:Machineparts.png]] 10 Machine Parts<br>
+* [[File:Knowledge.png]] 20 Knowledge<br>
+|mode1='''Enable Factory''': "''The factory will work normally.''"
+|mode2='''Turbo Boost''': "''The factory will work twice as fast, but also use two more stone per machine part.''"
+* [[File:Knowledge.png]] 10 Knowledge<br>
+|mode3='''Disable Factory''': "''The factory will fully halt production and not use any stone.''"
+}}

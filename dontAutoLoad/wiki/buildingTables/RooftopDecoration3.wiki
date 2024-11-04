@@ -1,0 +1,6 @@
+{{Building
+|image=RooftopDecoration3.png
+|description=''"A dome that can be placed on a roof."''
+|build_cost=[[File:Wood.png]] 2 Wood<br>
+[[File:Stone.png]] 2 Stone<br>
+}}

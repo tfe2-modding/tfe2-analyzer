@@ -1,0 +1,8 @@
+{{Building
+|image=BlossomRestaurant.png
+|description=''"Dine under the beautiful tree blossom! If you build multiple restaurants on top of each other, people can sit on tree branches."''
+|build_cost=[[File:Food.png]] 500 Food<br>
+[[File:Wood.png]] 500 Wood<br>
+|jobs=1
+|research_cost=[[File:Knowledge.png]] 2500
+}}

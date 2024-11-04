@@ -1,0 +1,7 @@
+{{Building
+|image=FestivalHQ.png
+|description=''"Organize awesome festivals to entertain your citizens!"''
+|build_cost=[[File:Wood.png]] 100000 Wood<br>
+|jobs=5
+|research_cost=[[File:Knowledge.png]] 25000
+}}

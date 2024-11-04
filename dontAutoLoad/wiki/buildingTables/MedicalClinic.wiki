@@ -1,0 +1,20 @@
+{{Building
+|image=MedicalClinic.png
+|description=''"Helps people live longer and better."''
+|build_cost=[[File:Wood.png]] 10 Wood<br>
+[[File:Stone.png]] 50 Stone<br>
+[[File:Machineparts.png]] 5 Machine Parts<br>
+[[File:Refinedmetal.png]] 20 Refined Metals<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 200
+|requirements=Build a Refined Metals Factory to unlock!
+|upgrade1='''Improved Medical Education''': "''The quality of this building will be increased by 25% of the education happiness.''"
+* [[File:Food.png]] 100 Food<br>
+* [[File:Wood.png]] 10 Wood<br>
+* [[File:Knowledge.png]] 100 Knowledge<br>
+|upgrade2='''Computer-Aided Diagnosis''': "''The quality of this building will be increased by 25 and its capacity will be doubled.''"
+* [[File:Stone.png]] 20 Stone<br>
+* [[File:Machineparts.png]] 50 Machine Parts<br>
+* [[File:Computerchips.png]] 25 Computer Chips<br>
+* [[File:Knowledge.png]] 1000 Knowledge<br>
+}}

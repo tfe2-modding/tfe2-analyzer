@@ -9,6 +9,8 @@
 	"specialInfo": [],
 	"buttonBack": "spr_climbrock_buttonbg",
 	"notUnlockedWithAll": true,
+	"name": "!!! missing text !!!",
+	"description": "!!! missing text !!!",
 	"__name__": "buildings.ClimbRock",
 	"__super__": "Building",
 	"spriteName": "spr_botanicalgardens",

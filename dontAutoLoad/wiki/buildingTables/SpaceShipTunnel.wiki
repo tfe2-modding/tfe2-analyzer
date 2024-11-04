@@ -1,0 +1,7 @@
+{{Building
+|image=SpaceShipTunnel.png
+|description=''"Space ships can pass through this tunnel."''
+|build_cost=[[File:Wood.png]] 10 Wood<br>
+[[File:Stone.png]] 10 Stone<br>
+|research_cost=[[File:Knowledge.png]] 150
+}}

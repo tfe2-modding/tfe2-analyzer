@@ -1,0 +1,10 @@
+{{Building
+|image=TechMuseum.png
+|description=''"A museum for science and technology. It improves art happiness and also educates visitors."''
+|build_cost=[[File:Machineparts.png]] 1500 Machine Parts<br>
+[[File:Refinedmetal.png]] 1000 Refined Metals<br>
+[[File:Computerchips.png]] 150 Computer Chips<br>
+[[File:Graphene.png]] 50 Graphene<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 50000
+}}

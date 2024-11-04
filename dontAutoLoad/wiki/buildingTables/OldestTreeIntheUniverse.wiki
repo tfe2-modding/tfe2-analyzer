@@ -1,0 +1,6 @@
+{{Building
+|image=OldestTreeIntheUniverse.png
+|description=''"Makes citizens who visit it live longer."''
+|build_cost=[[File:Wood.png]] 10 Wood<br>
+|research_cost=[[File:Knowledge.png]] 30000
+}}

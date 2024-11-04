@@ -1,0 +1,16 @@
+{{Building
+|image=ComputerChipFactory.png
+|description=''"Produces computer chips from refined metals. Seven units of refined metals are needed to make one computer chip. Also unlocks new buildings."''
+|build_cost=[[File:Stone.png]] 200 Stone<br>
+[[File:Machineparts.png]] 100 Machine Parts<br>
+[[File:Refinedmetal.png]] 20 Refined Metals<br>
+|jobs=3
+|research_cost=[[File:Knowledge.png]] 300
+|upgrade1='''Die Shrink''': "''The factory will work 50% faster and use two less units of refined metals per computer chip.''"
+* [[File:Machineparts.png]] 50 Machine Parts<br>
+* [[File:Computerchips.png]] 5 Computer Chips<br>
+* [[File:Refinedmetal.png]] 10 Refined Metals<br>
+* [[File:Knowledge.png]] 1000 Knowledge<br>
+|mode1='''Enable Factory''': "''The factory will work normally.''"
+|mode2='''Disable Factory''': "''The factory will fully halt production and not use any refined metals.''"
+}}

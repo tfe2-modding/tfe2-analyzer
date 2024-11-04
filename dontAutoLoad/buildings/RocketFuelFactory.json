@@ -11,21 +11,59 @@
 		"premium"
 	],
 	"jobs": 2,
+	"name": "Rocket Fuel Factory",
+	"description": "Makes rocket fuel from wood or food. One resource is used to make one unit of rocket fuel.",
 	"__name__": "buildings.RocketFuelFactory",
 	"__super__": "buildings_MaterialConvertingFactory",
 	"spriteName": "spr_rocketfuelfactory",
 	"originalEfficiency": 1,
 	"origMaterialsMadePerStepPerWorker": 0.001,
 	"saveDefinition": "currentMaterialUsed$Int",
-	"name": "Rocket Fuel Factory",
-	"description": "Makes rocket fuel from wood or food. One resource is used to make one unit of rocket fuel.",
 	"upgrades": [
-		"buildingUpgrades.RocketFuelFactoryEfficiency"
+		{
+			"className": "RocketFuelFactoryEfficiency",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 25,
+			"computerChips": 5,
+			"knowledge": 5000,
+			"unlockedByDefault": false,
+			"name": "Metabolic Engineering",
+			"description": "Rocket fuel is produced faster and uses half the resources."
+		}
 	],
 	"modes": [
-		"buildingUpgrades.FactoryUsingFood",
-		"buildingUpgrades.FactoryUsingWood",
-		"buildingUpgrades.FactoryDisabled"
+		{
+			"className": "FactoryUsingFood",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Use Food",
+			"description": "The factory will use food to make rocket fuel."
+		},
+		{
+			"className": "FactoryUsingWood",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Use Wood",
+			"description": "The factory will use wood to make rocket fuel."
+		},
+		{
+			"className": "FactoryDisabled",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Disable Factory",
+			"description": "The factory will fully halt production."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

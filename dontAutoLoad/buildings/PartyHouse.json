@@ -12,6 +12,8 @@
 	"residents": 5,
 	"jobs": 1,
 	"quality": 65,
+	"name": "Party House",
+	"description": "This house with its integrated night club never sleeps.",
 	"__name__": "buildings.PartyHouse",
 	"__super__": "buildings_WorkWithHome",
 	"spriteName": "spr_partyhouse",
@@ -20,11 +22,35 @@
 	"laserMinXWithLeft": 1,
 	"laserMinX": 6,
 	"saveDefinition": "",
-	"name": "Party House",
-	"description": "This house with its integrated night club never sleeps.",
 	"upgrades": [
-		"buildingUpgrades.BetterCouches",
-		"buildingUpgrades.EnhancedAudio"
+		{
+			"className": "BetterCouches",
+			"rocketFuel": 0,
+			"wood": 30,
+			"food": 10,
+			"stone": 0,
+			"machineParts": 0,
+			"refinedMetal": 0,
+			"computerChips": 0,
+			"graphene": 0,
+			"knowledge": 100,
+			"unlockedByDefault": true,
+			"name": "Better Couches",
+			"description": "Improves housing quality by 20."
+		},
+		{
+			"className": "EnhancedAudio",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"refinedMetal": 1,
+			"computerChips": 5,
+			"knowledge": 250,
+			"unlockedByDefault": false,
+			"name": "Enhanced Audio",
+			"description": "Improves housing quality by 15, and increases the entertainment capacity."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

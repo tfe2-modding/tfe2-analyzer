@@ -1,0 +1,5 @@
+{{Building
+|image=UnknownBuilding.png
+|description=''"???"''
+|build_cost=
+}}

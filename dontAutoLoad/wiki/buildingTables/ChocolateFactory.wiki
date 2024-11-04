@@ -1,0 +1,12 @@
+{{Building
+|image=ChocolateFactory.png
+|description=''"This factory uses cacao to make chocolate."''
+|build_cost=[[File:Wood.png]] 30 Wood<br>
+[[File:Stone.png]] 20 Stone<br>
+[[File:Machineparts.png]] 150 Machine Parts<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 600
+|requirements=(this building has been scrapped earlier in development)
+|mode1='''Enable Factory''': "''The factory will work normally.''"
+|mode2='''Disable Factory''': "''The factory will fully halt production.''"
+}}

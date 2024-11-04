@@ -1,0 +1,15 @@
+{{Building
+|image=NormalHouse.png
+|description=''"Your citizens will certainly appreciate a roof above their heads."''
+|build_cost=[[File:Wood.png]] 4 Wood<br>
+[[File:Stone.png]] 4 Stone<br>
+|residents=4
+|quality=50
+|upgrade1='''Flowers''': "''Flowers improve the happiness of residents. Improves housing quality by 5.''"
+* [[File:Food.png]] 1 Food<br>
+* [[File:Wood.png]] 2 Wood<br>
+|upgrade2='''Small Christmas Tree''': "''This Christmas tree makes the house feel more welcoming.''"
+* [[File:Wood.png]] 5 Wood<br>
+|upgrade3='''Pumpkin''': "''A carved pumpkin brings residents into the Halloween spirit.''"
+* [[File:Food.png]] 5 Food<br>
+}}

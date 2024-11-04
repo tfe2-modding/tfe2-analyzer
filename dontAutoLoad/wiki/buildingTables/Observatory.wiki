@@ -1,0 +1,13 @@
+{{Building
+|image=Observatory.png
+|description=''"Produces knowledge. Can only be placed on the ground or on a rooftop."''
+|build_cost=[[File:Wood.png]] 30 Wood<br>
+[[File:Stone.png]] 40 Stone<br>
+[[File:Machineparts.png]] 40 Machine Parts<br>
+|jobs=3
+|research_cost=[[File:Knowledge.png]] 100
+|upgrade1='''Star Database''': "''This building produces 50% more knowledge. If the Precise Universe Mapping upgrade from the Supercomputer has been researched, it produces 500% more knowledge instead.''"
+* [[File:Stone.png]] 5 Stone<br>
+* [[File:Computerchips.png]] 5 Computer Chips<br>
+* [[File:Knowledge.png]] 100 Knowledge<br>
+}}

@@ -1,0 +1,18 @@
+{{Building
+|image=CozyHouse.png
+|description=''"A simple stone house with cozy interior."''
+|build_cost=[[File:Wood.png]] 1 Wood<br>
+[[File:Stone.png]] 8 Stone<br>
+|residents=4
+|quality=60
+|research_cost=[[File:Knowledge.png]] 5
+|upgrade1='''Cozy Flowers''': "''Improves housing quality by 10.''"
+* [[File:Food.png]] 2 Food<br>
+* [[File:Wood.png]] 4 Wood<br>
+|upgrade2='''Mood Lighting''': "''Improves housing quality by 20.''"
+* [[File:Wood.png]] 5 Wood<br>
+* [[File:Stone.png]] 2 Stone<br>
+* [[File:Machineparts.png]] 5 Machine Parts<br>
+* [[File:Computerchips.png]] 3 Computer Chips<br>
+* [[File:Knowledge.png]] 1000 Knowledge<br>
+}}

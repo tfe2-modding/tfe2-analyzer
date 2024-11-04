@@ -1,0 +1,8 @@
+{{Building
+|image=StatueGarden.png
+|description=''"A garden filled with art."''
+|build_cost=[[File:Wood.png]] 60 Wood<br>
+[[File:Stone.png]] 40 Stone<br>
+[[File:Refinedmetal.png]] 5 Refined Metals<br>
+|research_cost=[[File:Knowledge.png]] 1000
+}}

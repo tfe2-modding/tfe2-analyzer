@@ -1,0 +1,10 @@
+{{Building
+|image=BlossomHut.png
+|description=''"Residents of this hut will really flourish!"''
+|build_cost=[[File:Food.png]] 100 Food<br>
+[[File:Wood.png]] 200 Wood<br>
+|residents=2
+|quality=100
+|research_cost=[[File:Knowledge.png]] 1500
+|requirements=Build ten blossom restaurants to unlock!
+}}

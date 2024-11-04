@@ -1,0 +1,14 @@
+{{Building
+|image=LivingResearchCenter.png
+|description=''"Upgrades for homes can be researched here. Also houses two people and produces knowledge."''
+|build_cost=[[File:Wood.png]] 100 Wood<br>
+[[File:Stone.png]] 100 Stone<br>
+[[File:Machineparts.png]] 5 Machine Parts<br>
+[[File:Refinedmetal.png]] 25 Refined Metals<br>
+[[File:Computerchips.png]] 1 Computer Chips<br>
+|residents=2
+|jobs=6
+|quality=100
+|research_cost=[[File:Knowledge.png]] 250
+|requirements=Have at least 200 citizens with homes to unlock!
+}}

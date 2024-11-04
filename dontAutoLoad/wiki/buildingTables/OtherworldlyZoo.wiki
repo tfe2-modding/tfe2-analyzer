@@ -1,0 +1,8 @@
+{{Building
+|image=OtherworldlyZoo.png
+|description=''"A zoo with otherworldly plants and animals."''
+|build_cost=[[File:Food.png]] 500 Food<br>
+[[File:Wood.png]] 250 Wood<br>
+[[File:Refinedmetal.png]] 10 Refined Metals<br>
+|research_cost=[[File:Knowledge.png]] 25000
+}}

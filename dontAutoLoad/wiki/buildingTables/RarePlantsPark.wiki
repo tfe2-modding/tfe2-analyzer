@@ -1,0 +1,6 @@
+{{Building
+|image=RarePlantsPark.png
+|description=''"!!! missing text !!!"''
+|build_cost=[[File:Wood.png]] 5000 Wood<br>
+|research_cost=[[File:Knowledge.png]] 2500
+}}

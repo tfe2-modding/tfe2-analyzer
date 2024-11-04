@@ -11,14 +11,34 @@
 	"specialInfo": [],
 	"residents": 6,
 	"quality": 60,
+	"name": "Spacious House",
+	"description": "A modern house with lots of space.",
 	"__name__": "buildings.SpaciousHouse",
 	"__super__": "buildings_House",
 	"spriteName": "spr_spacioushouse",
-	"name": "Spacious House",
-	"description": "A modern house with lots of space.",
 	"upgrades": [
-		"buildingUpgrades.SmartLights",
-		"buildingUpgrades.SofterBeds"
+		{
+			"className": "SmartLights",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"computerChips": 1,
+			"refinedMetal": 5,
+			"knowledge": 200,
+			"name": "Smart Lights",
+			"description": "Improves housing quality by 15."
+		},
+		{
+			"className": "SofterBeds",
+			"food": 12,
+			"wood": 6,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 50,
+			"name": "Extremely Soft Beds",
+			"description": "Improves housing quality by 10."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

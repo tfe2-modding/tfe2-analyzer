@@ -1,0 +1,8 @@
+{{Building
+|image=RocketLaunchPlatform.png
+|description=''"Build rockets to explore space."''
+|build_cost=[[File:Refinedmetal.png]] 5000 Refined Metals<br>
+[[File:Computerchips.png]] 1500 Computer Chips<br>
+[[File:Graphene.png]] 200 Graphene<br>
+|research_cost=[[File:Knowledge.png]] 40000
+}}

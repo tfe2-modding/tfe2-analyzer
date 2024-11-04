@@ -1,0 +1,8 @@
+{{Building
+|image=ShadyHome.png
+|build_cost=[[File:Food.png]] 10 Food<br>
+[[File:Stone.png]] 100 Stone<br>
+|residents=8
+|quality=55
+|research_cost=[[File:Knowledge.png]] 100
+}}

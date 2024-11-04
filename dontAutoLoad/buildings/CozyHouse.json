@@ -8,14 +8,34 @@
 	"specialInfo": [],
 	"residents": 4,
 	"quality": 60,
+	"name": "Cozy House",
+	"description": "A simple stone house with cozy interior.",
 	"__name__": "buildings.CozyHouse",
 	"__super__": "buildings_House",
 	"spriteName": "spr_cozyhouse",
-	"name": "Cozy House",
-	"description": "A simple stone house with cozy interior.",
 	"upgrades": [
-		"buildingUpgrades.CozyFlowers",
-		"buildingUpgrades.MoodLighting"
+		{
+			"className": "CozyFlowers",
+			"food": 2,
+			"wood": 4,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Cozy Flowers",
+			"description": "Improves housing quality by 10."
+		},
+		{
+			"className": "MoodLighting",
+			"food": 0,
+			"wood": 5,
+			"stone": 2,
+			"machineParts": 5,
+			"computerChips": 3,
+			"knowledge": 1000,
+			"unlockedByDefault": false,
+			"name": "Mood Lighting",
+			"description": "Improves housing quality by 20."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

@@ -1,0 +1,10 @@
+{{Building
+|image=EscapeRoom.png
+|description=''"A challenging lab-themed escape room, which generates gaming entertainment happiness. It also has lasers!"''
+|build_cost=[[File:Wood.png]] 1000 Wood<br>
+[[File:Machineparts.png]] 100 Machine Parts<br>
+[[File:Refinedmetal.png]] 500 Refined Metals<br>
+[[File:Computerchips.png]] 30 Computer Chips<br>
+|jobs=1
+|research_cost=[[File:Knowledge.png]] 7500
+}}

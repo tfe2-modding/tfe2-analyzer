@@ -12,6 +12,8 @@
 		"halloween"
 	],
 	"jobs": 2,
+	"name": "Haunted Laboratory",
+	"description": "A strange, eerie laboratory. The more Haunted Laboratories there are, the more knowledge each one produces. However, each one also increases the chance they all malfunction and have a negative effect on your city.",
 	"__name__": "buildings.HauntedLaboratory",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_hauntedlaboratory",
@@ -20,8 +22,6 @@
 	"secondScientistX": 11,
 	"scientistY": 9,
 	"saveDefinition": "totalKnowledgeGenerated$Float",
-	"name": "Haunted Laboratory",
-	"description": "A strange, eerie laboratory. The more Haunted Laboratories there are, the more knowledge each one produces. However, each one also increases the chance they all malfunction and have a negative effect on your city.",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [],

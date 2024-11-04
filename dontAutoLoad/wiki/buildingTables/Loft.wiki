@@ -1,0 +1,13 @@
+{{Building
+|image=Loft.png
+|description=''"A rooftop apartment with a high ceiling and lots of light, perfect for artists. Generates a small amount of art happiness."''
+|build_cost=[[File:Wood.png]] 20 Wood<br>
+[[File:Refinedmetal.png]] 5 Refined Metals<br>
+|residents=2
+|quality=88
+|research_cost=[[File:Knowledge.png]] 1500
+|upgrade1='''Soundproofing''': "''Improves housing quality by 12.''"
+* [[File:Wood.png]] 20 Wood<br>
+* [[File:Stone.png]] 10 Stone<br>
+* [[File:Knowledge.png]] 3000 Knowledge<br>
+}}

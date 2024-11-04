@@ -12,13 +12,13 @@
 		"unique",
 		"notUniqueIfGalacticLibrary"
 	],
+	"name": "Supercomputer",
+	"description": "Produces knowledge based on the amount of lab employees in your city. Also allows you to research some city upgrades.",
 	"__name__": "buildings.Supercomputer",
 	"__super__": "Building",
 	"spriteName": "spr_supercomputer",
 	"knowledgePerDayPerEmployee": 2,
 	"saveDefinition": "knowledgeSoFar$Float",
-	"name": "Supercomputer",
-	"description": "Produces knowledge based on the amount of lab employees in your city. Also allows you to research some city upgrades.",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [

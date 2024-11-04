@@ -1,0 +1,6 @@
+{{Building
+|image=SpaceBallCourt.png
+|description=''"!!! missing text !!!"''
+|build_cost=[[File:Refinedmetal.png]] 10 Refined Metals<br>
+|research_cost=[[File:Knowledge.png]] 10
+}}

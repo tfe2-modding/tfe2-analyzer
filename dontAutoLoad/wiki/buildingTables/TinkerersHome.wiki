@@ -1,0 +1,16 @@
+{{Building
+|image=TinkerersHome.png
+|description=''"This house is designed for makers and inventors. Residents earn extra education."''
+|build_cost=[[File:Wood.png]] 100 Wood<br>
+[[File:Stone.png]] 10 Stone<br>
+[[File:Machineparts.png]] 20 Machine Parts<br>
+[[File:Computerchips.png]] 2 Computer Chips<br>
+|residents=4
+|quality=80
+|research_cost=[[File:Knowledge.png]] 2000
+|upgrade1='''Better Tools''': "''Improves housing quality by 20.''"
+* [[File:Machineparts.png]] 10 Machine Parts<br>
+* [[File:Computerchips.png]] 2 Computer Chips<br>
+* [[File:Refinedmetal.png]] 6 Refined Metals<br>
+* [[File:Knowledge.png]] 3000 Knowledge<br>
+}}

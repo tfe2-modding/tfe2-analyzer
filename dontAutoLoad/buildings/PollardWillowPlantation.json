@@ -4,7 +4,18 @@
 	"spriteName": "spr_treeplantation",
 	"saveDefinition": "",
 	"upgrades": [
-		"buildingUpgrades.AutomaticWaterManagement"
+		{
+			"className": "AutomaticWaterManagement",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 5,
+			"computerChips": 5,
+			"knowledge": 5000,
+			"unlockedByDefault": false,
+			"name": "Automatic Water Management",
+			"description": "The passive growth speed of these trees is tripled."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

@@ -1,0 +1,12 @@
+{{Building
+|image=PioneersHut.png
+|description=''"Houses four citizens, and gives you bonuses that help with the early development of your city."''
+|build_cost=[[File:Wood.png]] 4 Wood<br>
+[[File:Stone.png]] 6 Stone<br>
+|residents=4
+|quality=60
+|upgrade1='''Modern Authenticity''': "''Improves housing quality by 40.''"
+* [[File:Refinedmetal.png]] 1 Refined Metals<br>
+* [[File:Computerchips.png]] 3 Computer Chips<br>
+* [[File:Knowledge.png]] 50 Knowledge<br>
+}}

@@ -1,0 +1,9 @@
+{{Building
+|image=CacaoFarm.png
+|description=''"Cacao is grown here. It can be used directly as food or to make chocolate."''
+|build_cost=[[File:Wood.png]] 20 Wood<br>
+[[File:Stone.png]] 5 Stone<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 500
+|requirements=(this building has been scrapped earlier in development)
+}}

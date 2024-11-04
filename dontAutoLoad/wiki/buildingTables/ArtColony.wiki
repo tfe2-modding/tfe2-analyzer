@@ -1,0 +1,11 @@
+{{Building
+|image=ArtColony.png
+|description=''"A house full of creativity. Generates art entertainment happiness."''
+|build_cost=[[File:Wood.png]] 90 Wood<br>
+[[File:Stone.png]] 10 Stone<br>
+|residents=5
+|jobs=5
+|quality=100
+|research_cost=[[File:Knowledge.png]] 125
+|requirements=Build at least three Modern Art Museums to unlock!
+}}

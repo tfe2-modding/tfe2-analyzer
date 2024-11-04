@@ -1,0 +1,6 @@
+{{Building
+|image=Park.png
+|description=''"A nice place to relax."''
+|build_cost=[[File:Wood.png]] 20 Wood<br>
+|research_cost=[[File:Knowledge.png]] 5
+}}

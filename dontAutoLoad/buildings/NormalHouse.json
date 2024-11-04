@@ -9,16 +9,47 @@
 	"specialInfo": [],
 	"residents": 4,
 	"quality": 50,
+	"name": "House",
+	"description": "Your citizens will certainly appreciate a roof above their heads.",
 	"__name__": "buildings.NormalHouse",
 	"__super__": "buildings_House",
 	"spriteName": "spr_normalhouse",
 	"saveDefinition": "doorMainTexture$Int",
-	"name": "House",
-	"description": "Your citizens will certainly appreciate a roof above their heads.",
 	"upgrades": [
-		"buildingUpgrades.Flowers",
-		"buildingUpgrades.MiniChristmasTree",
-		"buildingUpgrades.Pumpkin"
+		{
+			"className": "Flowers",
+			"food": 1,
+			"wood": 2,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Flowers",
+			"description": "Flowers improve the happiness of residents. Improves housing quality by 5."
+		},
+		{
+			"className": "MiniChristmasTree",
+			"food": 0,
+			"wood": 5,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"unlockedByDefault": false,
+			"notUnlockedWithAll": true,
+			"name": "Small Christmas Tree",
+			"description": "This Christmas tree makes the house feel more welcoming."
+		},
+		{
+			"className": "Pumpkin",
+			"food": 5,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"unlockedByDefault": false,
+			"notUnlockedWithAll": true,
+			"name": "Pumpkin",
+			"description": "A carved pumpkin brings residents into the Halloween spirit."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

@@ -1,0 +1,6 @@
+{{Building
+|image=PondPark.png
+|description=''"A shallow pond with plants."''
+|build_cost=[[File:Wood.png]] 25 Wood<br>
+|research_cost=[[File:Knowledge.png]] 100
+}}

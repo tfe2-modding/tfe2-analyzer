@@ -1,0 +1,6 @@
+{{Building
+|image=RooftopDecoration4.png
+|description=''"A bottom piece for two slanted roofs."''
+|build_cost=[[File:Wood.png]] 3 Wood<br>
+[[File:Stone.png]] 3 Stone<br>
+}}

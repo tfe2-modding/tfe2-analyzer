@@ -1,0 +1,7 @@
+{{Building
+|image=Library.png
+|description=''"Improves the education of visitors of all ages."''
+|build_cost=[[File:Wood.png]] 25 Wood<br>
+[[File:Stone.png]] 10 Stone<br>
+|jobs=1
+}}

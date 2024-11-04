@@ -1,0 +1,10 @@
+{{Building
+|image=GrapheneLab.png
+|description=''"This lab researches the production and applications of graphene. Workers gather knowledge. They also slowly produce graphene for two stone per sheet."''
+|build_cost=[[File:Wood.png]] 1000 Wood<br>
+[[File:Computerchips.png]] 100 Computer Chips<br>
+[[File:Machineparts.png]] 1000 Machine Parts<br>
+[[File:Refinedmetal.png]] 500 Refined Metals<br>
+|jobs=4
+|research_cost=[[File:Knowledge.png]] 25000
+}}

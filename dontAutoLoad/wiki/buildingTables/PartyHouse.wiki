@@ -1,0 +1,19 @@
+{{Building
+|image=PartyHouse.png
+|description=''"This house with its integrated night club never sleeps."''
+|build_cost=[[File:Wood.png]] 20 Wood<br>
+[[File:Machineparts.png]] 20 Machine Parts<br>
+[[File:Refinedmetal.png]] 10 Refined Metals<br>
+|residents=5
+|jobs=1
+|quality=65
+|research_cost=[[File:Knowledge.png]] 200
+|upgrade1='''Better Couches''': "''Improves housing quality by 20.''"
+* [[File:Wood.png]] 30 Wood<br>
+* [[File:Food.png]] 10 Food<br>
+* [[File:Knowledge.png]] 100 Knowledge<br>
+|upgrade2='''Enhanced Audio''': "''Improves housing quality by 15, and increases the entertainment capacity.''"
+* [[File:Refinedmetal.png]] 1 Refined Metals<br>
+* [[File:Computerchips.png]] 5 Computer Chips<br>
+* [[File:Knowledge.png]] 250 Knowledge<br>
+}}

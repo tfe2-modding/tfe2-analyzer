@@ -1,0 +1,4 @@
+{{Building
+|image=BlueCollarWork.png
+|build_cost=
+}}

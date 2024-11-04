@@ -1,0 +1,6 @@
+{{Building
+|image=ColoredBlock.png
+|description=''"A building painted in a single color for decoration purposes, or as a placeholder."''
+|build_cost=[[File:Wood.png]] 4 Wood<br>
+[[File:Stone.png]] 4 Stone<br>
+}}

@@ -8,6 +8,8 @@
 	"unlockedByDefault": false,
 	"specialInfo": [],
 	"jobs": 8,
+	"name": "Volunteers' Center",
+	"description": "Volunteers help with woodcutting, mining, farming or gathering knowledge, depending on what they feel like doing. They are often quite motivated, so may work more quickly.",
 	"__name__": "buildings.VolunteersCenter",
 	"__super__": "buildings_BlueCollarWork",
 	"spriteName": "spr_communehouse",
@@ -21,10 +23,17 @@
 	"workToolsTime": 20,
 	"knowledgePerTime": 0.1875,
 	"saveDefinition": "totalStoneGenerated$Float|totalWoodGenerated$Float|totalFoodGenerated$Float|totalKnowledgeGenerated$Float",
-	"name": "Volunteers' Center",
-	"description": "Volunteers help with woodcutting, mining, farming or gathering knowledge, depending on what they feel like doing. They are often quite motivated, so may work more quickly.",
 	"upgrades": [
-		"buildingUpgrades.BetterVolunteersTools"
+		{
+			"className": "BetterVolunteersTools",
+			"food": 0,
+			"wood": 10,
+			"stone": 5,
+			"machineParts": 2,
+			"knowledge": 25,
+			"name": "High-Quality Tools",
+			"description": "Improve mining and woodcutting speed by 20%."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

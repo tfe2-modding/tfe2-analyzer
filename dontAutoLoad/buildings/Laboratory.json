@@ -10,9 +10,12 @@
 	"jobs": 2,
 	"tooltipBottomIconInfo": [
 		{
-			"texture": "spr_bonusrange_plus"
+			"texture": "spr_bonusrange_plus",
+			"text": "Boost range for upgrades"
 		}
 	],
+	"name": "Lab",
+	"description": "Scientists gather knowledge here. Also has upgrades boosting adjacent farms and tree plantations.",
 	"__name__": "buildings.Laboratory",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_laboratory",
@@ -21,12 +24,28 @@
 	"secondScientistX": 13,
 	"scientistY": 9,
 	"saveDefinition": "totalKnowledgeGenerated$Float",
-	"name": "Lab",
-	"description": "Scientists gather knowledge here. Also has upgrades boosting adjacent farms and tree plantations.",
 	"tooltipBottomIconInfo_0": "Boost range for upgrades",
 	"upgrades": [
-		"buildingUpgrades.FarmingResearch",
-		"buildingUpgrades.TreePlantationResearch"
+		{
+			"className": "FarmingResearch",
+			"food": 0,
+			"wood": 30,
+			"stone": 0,
+			"machineParts": 10,
+			"knowledge": 30,
+			"name": "Genetic Crop Engineering",
+			"description": "Crops of adjacent farms produce 7 more food per harvest."
+		},
+		{
+			"className": "TreePlantationResearch",
+			"food": 0,
+			"wood": 10,
+			"stone": 0,
+			"machineParts": 20,
+			"knowledge": 70,
+			"name": "Tree Growth Gas",
+			"description": "Trees in adjacent tree plantations grow 20% faster."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

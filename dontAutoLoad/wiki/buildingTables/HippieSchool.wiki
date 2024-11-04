@@ -1,0 +1,9 @@
+{{Building
+|image=HippieSchool.png
+|description=''"Educates children and generates some nature entertainment."''
+|build_cost=[[File:Food.png]] 10 Food<br>
+[[File:Wood.png]] 25 Wood<br>
+[[File:Stone.png]] 15 Stone<br>
+|jobs=1
+|research_cost=[[File:Knowledge.png]] 10000
+}}

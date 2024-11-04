@@ -11,13 +11,13 @@
 	"specialInfo": [
 		"premium"
 	],
+	"name": "High-Speed Rail",
+	"description": "Trains can go extra fast here.",
+	"showUnlockHint": "Build ten train stations to unlock!",
 	"__name__": "buildings.TrainRail",
 	"__super__": "Building",
 	"spriteName": "spr_trainrail",
 	"saveDefinition": "",
-	"name": "High-Speed Rail",
-	"description": "Trains can go extra fast here.",
-	"showUnlockHint": "Build ten train stations to unlock!",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [],

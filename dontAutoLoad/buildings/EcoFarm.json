@@ -9,6 +9,9 @@
 	"specialInfo": [],
 	"jobs": 3,
 	"buttonBack": "spr_ecofarm_buttonback",
+	"name": "Eco Farm",
+	"description": "Produces food sustainably. Also generates a small amount of nature entertainment happiness.",
+	"showUnlockHint": "Build an Experimental Farm and ten Botanical Gardens to unlock!",
 	"__name__": "buildings.EcoFarm",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_ecofarm",
@@ -26,13 +29,30 @@
 	"harvestAmountWood": 0.025,
 	"area1GrowSpeedMult": 0.7,
 	"saveDefinition": "openDay$Int|crop2Sprite$Int|crop3Sprite$Int|woodMade$Float",
-	"name": "Eco Farm",
-	"description": "Produces food sustainably. Also generates a small amount of nature entertainment happiness.",
-	"showUnlockHint": "Build an Experimental Farm and ten Botanical Gardens to unlock!",
 	"upgrades": [],
 	"modes": [
-		"buildingUpgrades.EcoFarmNormal",
-		"buildingUpgrades.EcoFarmPruning"
+		{
+			"className": "EcoFarmNormal",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"unlockedByDefault": false,
+			"name": "Focus on Food Production",
+			"description": "Produce the normal amount of food."
+		},
+		{
+			"className": "EcoFarmPruning",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 10,
+			"unlockedByDefault": false,
+			"name": "Produce Food and Some Wood",
+			"description": "Produce slightly less food, but also produce a small amount of wood by pruning the tree."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

@@ -1,0 +1,9 @@
+{{Building
+|image=FossilMuseum.png
+|description=''"Fossils found by the Fossil Detector are displayed here. Improves the education of visitors. Workers produce knowledge based on the number of fossils you found."''
+|build_cost=[[File:Wood.png]] 1000 Wood<br>
+[[File:Stone.png]] 1000 Stone<br>
+[[File:Computerchips.png]] 1 Computer Chips<br>
+|jobs=3
+|research_cost=[[File:Knowledge.png]] 25000
+}}

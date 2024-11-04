@@ -1,0 +1,16 @@
+{{Building
+|image=Laboratory.png
+|description=''"Scientists gather knowledge here. Also has upgrades boosting adjacent farms and tree plantations."''
+|build_cost=[[File:Wood.png]] 10 Wood<br>
+[[File:Stone.png]] 10 Stone<br>
+[[File:Machineparts.png]] 10 Machine Parts<br>
+|jobs=2
+|upgrade1='''Genetic Crop Engineering''': "''Crops of adjacent farms produce 7 more food per harvest.''"
+* [[File:Wood.png]] 30 Wood<br>
+* [[File:Machineparts.png]] 10 Machine Parts<br>
+* [[File:Knowledge.png]] 30 Knowledge<br>
+|upgrade2='''Tree Growth Gas''': "''Trees in adjacent tree plantations grow 20% faster.''"
+* [[File:Wood.png]] 10 Wood<br>
+* [[File:Machineparts.png]] 20 Machine Parts<br>
+* [[File:Knowledge.png]] 70 Knowledge<br>
+}}

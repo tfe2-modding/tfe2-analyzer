@@ -1,0 +1,6 @@
+{{Building
+|image=FarmGrowArea.png
+|build_cost=
+undefined
+undefined
+}}

@@ -1,0 +1,4 @@
+{{Building
+|image=Work.png
+|build_cost=
+}}

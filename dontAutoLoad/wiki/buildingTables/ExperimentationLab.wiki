@@ -1,0 +1,17 @@
+{{Building
+|image=ExperimentationLab.png
+|description=''"Scientists experiment with machine parts here. You earn five knowledge for every machine part used. This knowledge production is faster than with normal labs.\nRefined Metal Factories above and below this building work faster and use 10% less stone per unit of refined metal."''
+|build_cost=[[File:Computerchips.png]] 15 Computer Chips<br>
+[[File:Machineparts.png]] 100 Machine Parts<br>
+[[File:Refinedmetal.png]] 50 Refined Metals<br>
+|jobs=2
+|research_cost=[[File:Knowledge.png]] 5000
+|requirements=Build twelve mechanical houses, ten refined metal factories and three computer chip factories to unlock!
+|upgrade1='''Ultra-High-Tech Screwdriver''': "''You gain two more knowledge for each machine part used.''"
+* [[File:Stone.png]] 1 Stone<br>
+* [[File:Machineparts.png]] 1 Machine Parts<br>
+* [[File:Computerchips.png]] 5 Computer Chips<br>
+* [[File:Knowledge.png]] 10000 Knowledge<br>
+|mode1='''Enable Lab''': "''The lab will work normally.''"
+|mode2='''Disable Lab''': "''The lab will not use any machine parts nor produce knowledge. It can still boost Refined Metal Factories.''"
+}}

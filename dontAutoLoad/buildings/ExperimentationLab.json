@@ -12,23 +12,53 @@
 	"jobs": 2,
 	"tooltipBottomIconInfo": [
 		{
-			"texture": "spr_bonusrange_topbottom"
+			"texture": "spr_bonusrange_topbottom",
+			"text": "Boost Range"
 		}
 	],
+	"name": "Experimentation Lab",
+	"description": "Scientists experiment with machine parts here. You earn five knowledge for every machine part used. This knowledge production is faster than with normal labs.\\nRefined Metal Factories above and below this building work faster and use 10% less stone per unit of refined metal.",
+	"showUnlockHint": "Build twelve mechanical houses, ten refined metal factories and three computer chip factories to unlock!",
 	"__name__": "buildings.ExperimentationLab",
 	"__super__": "buildings_MaterialConvertingFactory",
 	"spriteName": "spr_experimentationlab",
 	"saveDefinition": "",
-	"name": "Experimentation Lab",
-	"description": "Scientists experiment with machine parts here. You earn five knowledge for every machine part used. This knowledge production is faster than with normal labs.\\nRefined Metal Factories above and below this building work faster and use 10% less stone per unit of refined metal.",
-	"showUnlockHint": "Build twelve mechanical houses, ten refined metal factories and three computer chip factories to unlock!",
 	"tooltipBottomIconInfo_0": "Boost Range",
 	"upgrades": [
-		"buildingUpgrades.UltimateScrewdriver"
+		{
+			"className": "UltimateScrewdriver",
+			"food": 0,
+			"wood": 0,
+			"stone": 1,
+			"machineParts": 1,
+			"computerChips": 5,
+			"knowledge": 10000,
+			"unlockedByDefault": true,
+			"name": "Ultra-High-Tech Screwdriver",
+			"description": "You gain two more knowledge for each machine part used."
+		}
 	],
 	"modes": [
-		"buildingUpgrades.LabWorking",
-		"buildingUpgrades.LabDisabled"
+		{
+			"className": "LabWorking",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Enable Lab",
+			"description": "The lab will work normally."
+		},
+		{
+			"className": "LabDisabled",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Disable Lab",
+			"description": "The lab will not use any machine parts nor produce knowledge. It can still boost Refined Metal Factories."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

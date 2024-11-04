@@ -1,0 +1,5 @@
+{{Building
+|image=StatueOfHappiness.png
+|description=''"Your citizens' reward for reaching 100 happiness!"''
+|build_cost=
+}}

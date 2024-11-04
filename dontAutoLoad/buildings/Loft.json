@@ -12,16 +12,27 @@
 	],
 	"residents": 2,
 	"quality": 88,
+	"name": "Loft Apartment",
+	"description": "A rooftop apartment with a high ceiling and lots of light, perfect for artists. Generates a small amount of art happiness.",
 	"__name__": "buildings.Loft",
 	"__super__": "buildings_House",
 	"spriteName": "spr_loft",
 	"openTime": 12,
 	"closeTime": 20.5,
 	"saveDefinition": "mirrored$Bool|interior$Int",
-	"name": "Loft Apartment",
-	"description": "A rooftop apartment with a high ceiling and lots of light, perfect for artists. Generates a small amount of art happiness.",
 	"upgrades": [
-		"buildingUpgrades.SoundProofing"
+		{
+			"className": "SoundProofing",
+			"food": 0,
+			"wood": 20,
+			"stone": 10,
+			"machineParts": 0,
+			"computerChips": 0,
+			"knowledge": 3000,
+			"unlockedByDefault": true,
+			"name": "Soundproofing",
+			"description": "Improves housing quality by 12."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

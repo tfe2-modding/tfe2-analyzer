@@ -1,0 +1,9 @@
+{{Building
+|image=UnderwaterHouse.png
+|description=''"Live among the fishes!"''
+|build_cost=[[File:Food.png]] 25 Food<br>
+[[File:Refinedmetal.png]] 20 Refined Metals<br>
+|residents=3
+|quality=100
+|research_cost=[[File:Knowledge.png]] 10000
+}}

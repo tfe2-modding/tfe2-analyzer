@@ -9,18 +9,47 @@
 	"unlockedByDefault": false,
 	"specialInfo": [],
 	"jobs": 3,
+	"name": "Computer Chip Factory",
+	"description": "Produces computer chips from refined metals. Seven units of refined metals are needed to make one computer chip.!unlocks",
 	"__name__": "buildings.ComputerChipFactory",
 	"__super__": "buildings_MaterialConvertingFactory",
 	"spriteName": "spr_computerchipfactory",
 	"saveDefinition": "",
-	"name": "Computer Chip Factory",
-	"description": "Produces computer chips from refined metals. Seven units of refined metals are needed to make one computer chip.!unlocks",
 	"upgrades": [
-		"buildingUpgrades.DieShrink"
+		{
+			"className": "DieShrink",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 50,
+			"computerChips": 5,
+			"refinedMetal": 10,
+			"knowledge": 1000,
+			"name": "Die Shrink",
+			"description": "The factory will work 50% faster and use two less units of refined metals per computer chip."
+		}
 	],
 	"modes": [
-		"buildingUpgrades.FactoryWorking",
-		"buildingUpgrades.RefinedStoneUsingFactoryDisabled"
+		{
+			"className": "FactoryWorking",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Enable Factory",
+			"description": "The factory will work normally."
+		},
+		{
+			"className": "RefinedStoneUsingFactoryDisabled",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Disable Factory",
+			"description": "The factory will fully halt production and not use any refined metals."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": []

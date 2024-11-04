@@ -9,13 +9,24 @@
 	"specialInfo": [],
 	"residents": 5,
 	"quality": 55,
+	"name": "Alien House",
+	"description": "Five people can live in this strange home full of otherworldly technology.",
 	"__name__": "buildings.AlienHouse",
 	"__super__": "buildings_House",
 	"spriteName": "spr_alienhouse",
-	"name": "Alien House",
-	"description": "Five people can live in this strange home full of otherworldly technology.",
 	"upgrades": [
-		"buildingUpgrades.LivingComputer"
+		{
+			"className": "LivingComputer",
+			"food": 25,
+			"wood": 50,
+			"stone": 0,
+			"machineParts": 0,
+			"computerChips": 1,
+			"knowledge": 2000,
+			"unlockedByDefault": false,
+			"name": "Living Computer",
+			"description": "Improves housing quality by 20."
+		}
 	],
 	"modes": [],
 	"cityUpgrades": [],

@@ -1,0 +1,8 @@
+{{Building
+|image=PollardWillowPlantation.png
+|build_cost=
+|upgrade1='''Automatic Water Management''': "''The passive growth speed of these trees is tripled.''"
+* [[File:Machineparts.png]] 5 Machine Parts<br>
+* [[File:Computerchips.png]] 5 Computer Chips<br>
+* [[File:Knowledge.png]] 5000 Knowledge<br>
+}}

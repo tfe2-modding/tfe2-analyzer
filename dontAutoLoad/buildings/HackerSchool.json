@@ -14,11 +14,11 @@
 		"premium"
 	],
 	"jobs": 2,
+	"name": "Hacker School",
+	"description": "This school provides a great education. Graduates will occasionally create minor inventions.",
 	"__name__": "buildings.HackerSchool",
 	"__super__": "buildings_School",
 	"spriteName": "spr_hackersschool",
-	"name": "Hacker School",
-	"description": "This school provides a great education. Graduates will occasionally create minor inventions.",
 	"upgrades": [],
 	"modes": [],
 	"cityUpgrades": [],

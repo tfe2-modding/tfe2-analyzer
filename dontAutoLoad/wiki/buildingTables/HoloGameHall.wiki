@@ -1,0 +1,9 @@
+{{Building
+|image=HoloGameHall.png
+|description=''"Bring gaming into the future!"''
+|build_cost=[[File:Wood.png]] 100 Wood<br>
+[[File:Stone.png]] 500 Stone<br>
+[[File:Machineparts.png]] 50 Machine Parts<br>
+[[File:Computerchips.png]] 40 Computer Chips<br>
+|research_cost=[[File:Knowledge.png]] 10000
+}}

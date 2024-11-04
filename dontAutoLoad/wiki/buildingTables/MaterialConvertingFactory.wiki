@@ -1,0 +1,4 @@
+{{Building
+|image=MaterialConvertingFactory.png
+|build_cost=
+}}

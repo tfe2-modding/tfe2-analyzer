@@ -12,16 +12,34 @@
 		"unique"
 	],
 	"jobs": 4,
+	"name": "City Hall",
+	"description": "Allows you to implement city policies and to change the name of your city.",
 	"__name__": "buildings.CityHall",
 	"__super__": "buildings_Work",
 	"spriteName": "spr_cityhall",
 	"saveDefinition": "totalKnowledgeGenerated$Float",
-	"name": "City Hall",
-	"description": "Allows you to implement city policies and to change the name of your city.",
 	"upgrades": [],
 	"modes": [
-		"buildingUpgrades.CensusData",
-		"buildingUpgrades.NightMayor"
+		{
+			"className": "CensusData",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Census Data",
+			"description": "Workers produce a small amount of knowledge based on the number of citizens."
+		},
+		{
+			"className": "NightMayor",
+			"food": 0,
+			"wood": 0,
+			"stone": 0,
+			"machineParts": 0,
+			"knowledge": 0,
+			"name": "Night Mayor",
+			"description": "Nightclubs have 2 more capacity per worker here."
+		}
 	],
 	"cityUpgrades": [],
 	"policies": [

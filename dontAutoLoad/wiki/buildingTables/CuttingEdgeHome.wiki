@@ -1,0 +1,25 @@
+{{Building
+|image=CuttingEdgeHome.png
+|description=''"A hypermodern home filled with technology."''
+|build_cost=[[File:Wood.png]] 2 Wood<br>
+[[File:Machineparts.png]] 2 Machine Parts<br>
+[[File:Refinedmetal.png]] 4 Refined Metals<br>
+[[File:Computerchips.png]] 1 Computer Chips<br>
+|residents=4
+|quality=75
+|research_cost=[[File:Knowledge.png]] 500
+|requirements=Build the Living Research Center to unlock!
+|upgrade1='''Bigger TV''': "''Improves housing quality by 5. Adds capacity for one resident.''"
+* [[File:Stone.png]] 2 Stone<br>
+* [[File:Computerchips.png]] 1 Computer Chips<br>
+* [[File:Knowledge.png]] 100 Knowledge<br>
+|upgrade2='''Air-Cleaning Plant''': "''A plant that's been cultivated to be extremely good at cleaning the air. Improves housing quality by 10 and makes residents live longer.''"
+* [[File:Food.png]] 20 Food<br>
+* [[File:Wood.png]] 10 Wood<br>
+* [[File:Knowledge.png]] 500 Knowledge<br>
+|upgrade3='''Smart Chairs''': "''Improves housing quality by 10.''"
+* [[File:Wood.png]] 4 Wood<br>
+* [[File:Machineparts.png]] 4 Machine Parts<br>
+* [[File:Computerchips.png]] 4 Computer Chips<br>
+* [[File:Knowledge.png]] 1000 Knowledge<br>
+}}

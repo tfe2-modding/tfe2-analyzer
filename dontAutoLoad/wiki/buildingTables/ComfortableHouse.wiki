@@ -1,0 +1,17 @@
+{{Building
+|image=ComfortableHouse.png
+|description=''"It's not exactly luxurious, but still quite comfortable."''
+|build_cost=[[File:Wood.png]] 15 Wood<br>
+|residents=4
+|quality=65
+|research_cost=[[File:Knowledge.png]] 20
+|upgrade1='''Comfortable Couch''': "''Improves housing quality by 15.''"
+* [[File:Food.png]] 20 Food<br>
+* [[File:Wood.png]] 5 Wood<br>
+* [[File:Knowledge.png]] 200 Knowledge<br>
+|upgrade2='''Somewhat Smart Speaker''': "''Improves housing quality by 10.''"
+* [[File:Wood.png]] 2 Wood<br>
+* [[File:Machineparts.png]] 2 Machine Parts<br>
+* [[File:Computerchips.png]] 2 Computer Chips<br>
+* [[File:Knowledge.png]] 1000 Knowledge<br>
+}}

@@ -1,0 +1,12 @@
+{{Building
+|image=Mansion.png
+|description=''"A large, luxurious house with a private teleporter. It improves education of residents, and makes them live slightly longer. The housing quality is increased by 25 if connected to another mansion."''
+|build_cost=[[File:Wood.png]] 1000 Wood<br>
+[[File:Stone.png]] 2000 Stone<br>
+[[File:Refinedmetal.png]] 30 Refined Metals<br>
+[[File:Computerchips.png]] 20 Computer Chips<br>
+[[File:Graphene.png]] 3 Graphene<br>
+|residents=4
+|quality=75
+|research_cost=[[File:Knowledge.png]] 150000
+}}

@@ -1,0 +1,7 @@
+{{Building
+|image=ChristmasTree.png
+|description=''"A big Christmas tree for the whole city to enjoy."''
+|build_cost=[[File:Wood.png]] 30 Wood<br>
+[[File:Stone.png]] 5 Stone<br>
+|requirements=Reach at least 60 happiness to unlock.
+}}
