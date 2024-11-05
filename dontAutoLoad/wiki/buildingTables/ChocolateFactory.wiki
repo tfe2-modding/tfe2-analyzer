@@ -8,7 +8,7 @@ ChocolateFactory_doorless.png|Without door
 [[File:Stone.png]] 20 Stone<br>
 [[File:Machineparts.png]] 150 Machine Parts<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 600
+|research_cost=[[File:Knowledge.png]] 600 Knowledge
 |requirements=(this building has been scrapped earlier in development)
 |mode1='''Enable Factory''': "''The factory will work normally.''"
 |mode2='''Disable Factory''': "''The factory will fully halt production.''"

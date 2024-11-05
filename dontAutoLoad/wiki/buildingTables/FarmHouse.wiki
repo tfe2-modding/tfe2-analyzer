@@ -11,7 +11,7 @@ FarmHouse_doorless.png|Without door
 [[File:Refinedmetal.png]] 10 Refined Metals<br>
 |residents=5
 |quality=85
-|research_cost=[[File:Knowledge.png]] 7500
+|research_cost=[[File:Knowledge.png]] 7500 Knowledge
 |upgrade1='''Indoor Pond''': "''Improves housing quality by 15.''"
 * [[File:Food.png]] 20 Food<br>
 * [[File:Stone.png]] 100 Stone<br>

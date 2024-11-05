@@ -9,5 +9,5 @@ SpecializedMedicalClinic_doorless.png|Without door
 [[File:Computerchips.png]] 100 Computer Chips<br>
 [[File:Graphene.png]] 100 Graphene<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 50000
+|research_cost=[[File:Knowledge.png]] 50000 Knowledge
 }}

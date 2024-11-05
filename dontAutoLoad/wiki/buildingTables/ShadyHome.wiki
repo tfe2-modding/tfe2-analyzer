@@ -7,5 +7,5 @@ ShadyHome_doorless.png|Without door
 [[File:Stone.png]] 100 Stone<br>
 |residents=8
 |quality=55
-|research_cost=[[File:Knowledge.png]] 100
+|research_cost=[[File:Knowledge.png]] 100 Knowledge
 }}

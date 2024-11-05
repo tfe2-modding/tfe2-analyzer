@@ -6,5 +6,5 @@ GhostlyPark_doorless.png|Without door
 |description=''"Creepy, but also quite decorative."''
 |build_cost=[[File:Food.png]] 10 Food<br>
 [[File:Wood.png]] 15 Wood<br>
-|research_cost=[[File:Knowledge.png]] 5
+|research_cost=[[File:Knowledge.png]] 5 Knowledge
 }}

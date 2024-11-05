@@ -8,6 +8,6 @@ ComputerResearchCenter_doorless.png|Without door
 [[File:Machineparts.png]] 40 Machine Parts<br>
 [[File:Refinedmetal.png]] 30 Refined Metals<br>
 |jobs=5
-|research_cost=[[File:Knowledge.png]] 300
+|research_cost=[[File:Knowledge.png]] 300 Knowledge
 |requirements=Build at least five Labs and a Refined Metal Factory to unlock!
 }}

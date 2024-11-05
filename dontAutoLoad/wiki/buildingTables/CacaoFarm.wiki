@@ -7,6 +7,6 @@ CacaoFarm_doorless.png|Without door
 |build_cost=[[File:Wood.png]] 20 Wood<br>
 [[File:Stone.png]] 5 Stone<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 500
+|research_cost=[[File:Knowledge.png]] 500 Knowledge
 |requirements=(this building has been scrapped earlier in development)
 }}

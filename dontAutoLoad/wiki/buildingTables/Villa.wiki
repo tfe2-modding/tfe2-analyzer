@@ -11,5 +11,6 @@ Villa_doorless.png|Without door
 [[File:Computerchips.png]] 16 Computer Chips<br>
 |residents=5
 |quality=100
-|research_cost=[[File:Knowledge.png]] 5000
+|research_cost=[[File:Knowledge.png]] 5000 Knowledge
+|operating_cost=[[File:Knowledge.png]] 2 Knowledge per day
 }}

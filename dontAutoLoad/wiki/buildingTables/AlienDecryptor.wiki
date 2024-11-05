@@ -8,5 +8,5 @@ AlienDecryptor_doorless.png|Without door
 [[File:Machineparts.png]] 900 Machine Parts<br>
 [[File:Refinedmetal.png]] 300 Refined Metals<br>
 [[File:Computerchips.png]] 100 Computer Chips<br>
-|research_cost=[[File:Knowledge.png]] 3000
+|research_cost=[[File:Knowledge.png]] 3000 Knowledge
 }}

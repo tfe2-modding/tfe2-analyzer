@@ -8,5 +8,5 @@ Supercomputer_doorless.png|Without door
 [[File:Machineparts.png]] 1000 Machine Parts<br>
 [[File:Refinedmetal.png]] 2000 Refined Metals<br>
 [[File:Computerchips.png]] 1000 Computer Chips<br>
-|research_cost=[[File:Knowledge.png]] 20000
+|research_cost=[[File:Knowledge.png]] 20000 Knowledge
 }}

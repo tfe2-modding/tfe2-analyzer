@@ -8,7 +8,7 @@ NightClub_doorless.png|Without door
 [[File:Stone.png]] 60 Stone<br>
 [[File:Machineparts.png]] 20 Machine Parts<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 50
+|research_cost=[[File:Knowledge.png]] 50 Knowledge
 |upgrade1='''Better Light Show''': "''The entertainment capacity of the building will be doubled.''"
 * [[File:Machineparts.png]] 20 Machine Parts<br>
 * [[File:Computerchips.png]] 2 Computer Chips<br>

@@ -8,7 +8,7 @@ ExperimentationLab_doorless.png|Without door
 [[File:Machineparts.png]] 100 Machine Parts<br>
 [[File:Refinedmetal.png]] 50 Refined Metals<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 5000
+|research_cost=[[File:Knowledge.png]] 5000 Knowledge
 |requirements=Build twelve mechanical houses, ten refined metal factories and three computer chip factories to unlock!
 |upgrade1='''Ultra-High-Tech Screwdriver''': "''You gain two more knowledge for each machine part used.''"
 * [[File:Stone.png]] 1 Stone<br>

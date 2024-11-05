@@ -9,7 +9,7 @@ MechanicalHouse_doorless.png|Without door
 [[File:Machineparts.png]] 2 Machine Parts<br>
 |residents=4
 |quality=30
-|research_cost=[[File:Knowledge.png]] 35
+|research_cost=[[File:Knowledge.png]] 35 Knowledge
 |requirements=Build at least three Machine Parts Factories to unlock!
 |upgrade1='''Heated Bed''': "''Improves housing quality by 20.''"
 * [[File:Wood.png]] 10 Wood<br>

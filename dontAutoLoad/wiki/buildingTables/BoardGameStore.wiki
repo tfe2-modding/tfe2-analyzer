@@ -7,6 +7,6 @@ BoardGameStore_doorless.png|Without door
 |build_cost=[[File:Wood.png]] 15 Wood<br>
 [[File:Stone.png]] 5 Stone<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 50
+|research_cost=[[File:Knowledge.png]] 50 Knowledge
 |requirements=(this building has been scrapped earlier in development)
 }}

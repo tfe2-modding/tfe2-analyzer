@@ -8,7 +8,7 @@ Misdirector_doorless.png|Without door
 [[File:Stone.png]] 10000 Stone<br>
 [[File:Machineparts.png]] 500 Machine Parts<br>
 [[File:Computerchips.png]] 500 Computer Chips<br>
-|research_cost=[[File:Knowledge.png]] 30000
+|research_cost=[[File:Knowledge.png]] 30000 Knowledge
 |mode1='''Enable''': "''The Misdirector is predictably unpredictable.''"
 |mode2='''Overclock''': "''Any attempt at teleportation will bring people here. Perfect to stop excess productivity.
 The knowledge gain per misdirection is reduced by 90% because the device is overloaded.''"

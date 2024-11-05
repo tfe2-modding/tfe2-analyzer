@@ -7,5 +7,5 @@ TrainStation_doorless.png|Without door
 |build_cost=[[File:Refinedmetal.png]] 5 Refined Metals<br>
 [[File:Machineparts.png]] 30 Machine Parts<br>
 [[File:Computerchips.png]] 1 Computer Chips<br>
-|research_cost=[[File:Knowledge.png]] 1000
+|research_cost=[[File:Knowledge.png]] 1000 Knowledge
 }}

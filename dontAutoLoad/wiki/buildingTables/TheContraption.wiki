@@ -9,5 +9,5 @@ TheContraption_doorless.png|Without door
 [[File:Machineparts.png]] 5000 Machine Parts<br>
 [[File:Refinedmetal.png]] 100 Refined Metals<br>
 [[File:Computerchips.png]] 125 Computer Chips<br>
-|research_cost=[[File:Knowledge.png]] 12500
+|research_cost=[[File:Knowledge.png]] 12500 Knowledge
 }}

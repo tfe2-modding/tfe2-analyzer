@@ -8,5 +8,5 @@ TreeHuggerBase_doorless.png|Without door
 [[File:Wood.png]] 100 Wood<br>
 |residents=3
 |quality=100
-|research_cost=[[File:Knowledge.png]] 5000
+|research_cost=[[File:Knowledge.png]] 5000 Knowledge
 }}

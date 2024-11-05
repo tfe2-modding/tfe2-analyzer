@@ -7,6 +7,6 @@ BlossomDome_doorless.png|Without door
 |build_cost=[[File:Food.png]] 500 Food<br>
 [[File:Wood.png]] 500 Wood<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 4000
+|research_cost=[[File:Knowledge.png]] 4000 Knowledge
 |requirements=Build 25 blossom restaurants or blossom huts to unlock!
 }}

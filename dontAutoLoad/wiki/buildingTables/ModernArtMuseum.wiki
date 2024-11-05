@@ -8,6 +8,6 @@ ModernArtMuseum_doorless.png|Without door
 [[File:Stone.png]] 40 Stone<br>
 [[File:Refinedmetal.png]] 10 Refined Metals<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 100
+|research_cost=[[File:Knowledge.png]] 100 Knowledge
 |requirements=Build a Refined Metals Factory to unlock!
 }}

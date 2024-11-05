@@ -7,7 +7,7 @@ VolunteersCenter_doorless.png|Without door
 |build_cost=[[File:Wood.png]] 5 Wood<br>
 [[File:Stone.png]] 5 Stone<br>
 |jobs=8
-|research_cost=[[File:Knowledge.png]] 10
+|research_cost=[[File:Knowledge.png]] 10 Knowledge
 |upgrade1='''High-Quality Tools''': "''Improve mining and woodcutting speed by 20%.''"
 * [[File:Wood.png]] 10 Wood<br>
 * [[File:Stone.png]] 5 Stone<br>

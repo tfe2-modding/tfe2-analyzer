@@ -9,5 +9,5 @@ IntergalacticLibrary_doorless.png|Without door
 [[File:Computerchips.png]] 15000 Computer Chips<br>
 [[File:Graphene.png]] 2000 Graphene<br>
 |jobs=3
-|research_cost=[[File:Knowledge.png]] 200000
+|research_cost=[[File:Knowledge.png]] 200000 Knowledge
 }}

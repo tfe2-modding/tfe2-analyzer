@@ -10,7 +10,7 @@ PartyHouse_doorless.png|Without door
 |residents=5
 |jobs=1
 |quality=65
-|research_cost=[[File:Knowledge.png]] 200
+|research_cost=[[File:Knowledge.png]] 200 Knowledge
 |upgrade1='''Better Couches''': "''Improves housing quality by 20.''"
 * [[File:Wood.png]] 30 Wood<br>
 * [[File:Food.png]] 10 Food<br>

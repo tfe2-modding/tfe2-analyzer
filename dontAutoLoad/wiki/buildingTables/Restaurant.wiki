@@ -8,6 +8,6 @@ Restaurant_doorless.png|Without door
 [[File:Wood.png]] 30 Wood<br>
 [[File:Stone.png]] 10 Stone<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 10
+|research_cost=[[File:Knowledge.png]] 10 Knowledge
 |requirements=Build at least five Pubs to unlock!
 }}

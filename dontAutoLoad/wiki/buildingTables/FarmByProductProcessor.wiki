@@ -8,5 +8,5 @@ FarmByProductProcessor_doorless.png|Without door
 [[File:Machineparts.png]] 100 Machine Parts<br>
 [[File:Computerchips.png]] 10 Computer Chips<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 10000
+|research_cost=[[File:Knowledge.png]] 10000 Knowledge
 }}

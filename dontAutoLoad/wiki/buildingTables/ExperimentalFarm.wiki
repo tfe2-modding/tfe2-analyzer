@@ -8,5 +8,5 @@ ExperimentalFarm_doorless.png|Without door
 [[File:Stone.png]] 30 Stone<br>
 [[File:Machineparts.png]] 5 Machine Parts<br>
 |jobs=3
-|research_cost=[[File:Knowledge.png]] 50
+|research_cost=[[File:Knowledge.png]] 50 Knowledge
 }}

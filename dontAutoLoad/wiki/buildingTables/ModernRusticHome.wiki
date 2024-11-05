@@ -9,7 +9,7 @@ ModernRusticHome_doorless.png|Without door
 [[File:Stone.png]] 4 Stone<br>
 |residents=2
 |quality=70
-|research_cost=[[File:Knowledge.png]] 10
+|research_cost=[[File:Knowledge.png]] 10 Knowledge
 |upgrade1='''Modern Conveniences''': "''Improves housing quality by 15.''"
 * [[File:Wood.png]] 5 Wood<br>
 * [[File:Machineparts.png]] 5 Machine Parts<br>

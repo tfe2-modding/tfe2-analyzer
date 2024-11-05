@@ -8,7 +8,7 @@ RefinedMetalFactory_doorless.png|Without door
 [[File:Stone.png]] 90 Stone<br>
 [[File:Machineparts.png]] 40 Machine Parts<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 150
+|research_cost=[[File:Knowledge.png]] 150 Knowledge
 |upgrade1='''Optimized Temperature Curve''': "''The factory works faster and uses one less stone per unit of refined metal produced.''"
 * [[File:Machineparts.png]] 20 Machine Parts<br>
 * [[File:Computerchips.png]] 3 Computer Chips<br>

@@ -7,5 +7,5 @@ CarrotJuiceBar_doorless.png|Without door
 |build_cost=[[File:Food.png]] 20 Food<br>
 [[File:Wood.png]] 20 Wood<br>
 |jobs=3
-|research_cost=[[File:Knowledge.png]] 20
+|research_cost=[[File:Knowledge.png]] 20 Knowledge
 }}

@@ -11,6 +11,6 @@ HackerHQ_doorless.png|Without door
 |residents=6
 |jobs=6
 |quality=100
-|research_cost=[[File:Knowledge.png]] 2000
+|research_cost=[[File:Knowledge.png]] 2000 Knowledge
 |requirements=Build at least three Arcades to unlock!
 }}

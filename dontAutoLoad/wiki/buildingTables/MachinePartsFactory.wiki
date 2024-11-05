@@ -7,7 +7,7 @@ MachinePartsFactory_doorless.png|Without door
 |build_cost=[[File:Wood.png]] 10 Wood<br>
 [[File:Stone.png]] 35 Stone<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 25
+|research_cost=[[File:Knowledge.png]] 25 Knowledge
 |upgrade1='''Scrap Metal Recycling''': "''Two stone is now used to make a machine part instead of three.''"
 * [[File:Stone.png]] 5 Stone<br>
 * [[File:Machineparts.png]] 10 Machine Parts<br>

@@ -7,5 +7,5 @@ ResearchBot_doorless.png|Without door
 |build_cost=[[File:Stone.png]] 10 Stone<br>
 [[File:Machineparts.png]] 1 Machine Parts<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 20
+|research_cost=[[File:Knowledge.png]] 20 Knowledge
 }}

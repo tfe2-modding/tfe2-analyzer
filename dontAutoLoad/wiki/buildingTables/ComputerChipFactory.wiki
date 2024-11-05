@@ -8,7 +8,7 @@ ComputerChipFactory_doorless.png|Without door
 [[File:Machineparts.png]] 100 Machine Parts<br>
 [[File:Refinedmetal.png]] 20 Refined Metals<br>
 |jobs=3
-|research_cost=[[File:Knowledge.png]] 300
+|research_cost=[[File:Knowledge.png]] 300 Knowledge
 |upgrade1='''Die Shrink''': "''The factory will work 50% faster and use two less units of refined metals per computer chip.''"
 * [[File:Machineparts.png]] 50 Machine Parts<br>
 * [[File:Computerchips.png]] 5 Computer Chips<br>

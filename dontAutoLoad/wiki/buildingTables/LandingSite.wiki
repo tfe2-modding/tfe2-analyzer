@@ -7,5 +7,5 @@ LandingSite_doorless.png|Without door
 |build_cost=[[File:Wood.png]] 5 Wood<br>
 [[File:Stone.png]] 10 Stone<br>
 [[File:Machineparts.png]] 20 Machine Parts<br>
-|research_cost=[[File:Knowledge.png]] 50
+|research_cost=[[File:Knowledge.png]] 50 Knowledge
 }}

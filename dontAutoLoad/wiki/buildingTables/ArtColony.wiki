@@ -9,6 +9,6 @@ ArtColony_doorless.png|Without door
 |residents=5
 |jobs=5
 |quality=100
-|research_cost=[[File:Knowledge.png]] 125
+|research_cost=[[File:Knowledge.png]] 125 Knowledge
 |requirements=Build at least three Modern Art Museums to unlock!
 }}

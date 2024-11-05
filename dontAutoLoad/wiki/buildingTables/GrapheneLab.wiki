@@ -9,5 +9,5 @@ GrapheneLab_doorless.png|Without door
 [[File:Machineparts.png]] 1000 Machine Parts<br>
 [[File:Refinedmetal.png]] 500 Refined Metals<br>
 |jobs=4
-|research_cost=[[File:Knowledge.png]] 25000
+|research_cost=[[File:Knowledge.png]] 25000 Knowledge
 }}

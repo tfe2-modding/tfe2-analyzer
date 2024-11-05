@@ -8,7 +8,7 @@ StoneResearchCenter_doorless.png|Without door
 [[File:Machineparts.png]] 30 Machine Parts<br>
 [[File:Refinedmetal.png]] 10 Refined Metals<br>
 |jobs=4
-|research_cost=[[File:Knowledge.png]] 750
+|research_cost=[[File:Knowledge.png]] 750 Knowledge
 |requirements=Build at least 15 Stone Mines and three Rock Teleporters to unlock!
 |upgrade1='''Peer-Reviewed Pickaxe Part Papers''': "''The boost to stone production is increased and scales faster with knowledge production.''"
 * [[File:Computerchips.png]] 25 Computer Chips<br>

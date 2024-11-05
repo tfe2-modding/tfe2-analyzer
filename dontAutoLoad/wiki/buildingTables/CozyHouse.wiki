@@ -8,7 +8,7 @@ CozyHouse_doorless.png|Without door
 [[File:Stone.png]] 8 Stone<br>
 |residents=4
 |quality=60
-|research_cost=[[File:Knowledge.png]] 5
+|research_cost=[[File:Knowledge.png]] 5 Knowledge
 |upgrade1='''Cozy Flowers''': "''Improves housing quality by 10.''"
 * [[File:Food.png]] 2 Food<br>
 * [[File:Wood.png]] 4 Wood<br>

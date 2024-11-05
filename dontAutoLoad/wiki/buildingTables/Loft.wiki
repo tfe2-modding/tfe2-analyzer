@@ -8,7 +8,7 @@ Loft_doorless.png|Without door
 [[File:Refinedmetal.png]] 5 Refined Metals<br>
 |residents=2
 |quality=88
-|research_cost=[[File:Knowledge.png]] 1500
+|research_cost=[[File:Knowledge.png]] 1500 Knowledge
 |upgrade1='''Soundproofing''': "''Improves housing quality by 12.''"
 * [[File:Wood.png]] 20 Wood<br>
 * [[File:Stone.png]] 10 Stone<br>

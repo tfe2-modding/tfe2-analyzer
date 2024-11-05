@@ -8,5 +8,5 @@ LuxuryRestaurant_doorless.png|Without door
 [[File:Wood.png]] 10 Wood<br>
 [[File:Refinedmetal.png]] 100 Refined Metals<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 2500
+|research_cost=[[File:Knowledge.png]] 2500 Knowledge
 }}

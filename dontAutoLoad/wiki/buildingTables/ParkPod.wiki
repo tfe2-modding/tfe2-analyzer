@@ -7,5 +7,5 @@ ParkPod_doorless.png|Without door
 |build_cost=[[File:Wood.png]] 50 Wood<br>
 |residents=1
 |quality=100
-|research_cost=[[File:Knowledge.png]] 300
+|research_cost=[[File:Knowledge.png]] 300 Knowledge
 }}

@@ -10,5 +10,5 @@ HorrorGameHall_doorless.png|Without door
 [[File:Machineparts.png]] 10 Machine Parts<br>
 [[File:Computerchips.png]] 5 Computer Chips<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 200
+|research_cost=[[File:Knowledge.png]] 200 Knowledge
 }}

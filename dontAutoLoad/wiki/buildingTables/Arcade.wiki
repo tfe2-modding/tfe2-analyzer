@@ -10,6 +10,6 @@ Arcade_doorless.png|Without door
 [[File:Refinedmetal.png]] 20 Refined Metals<br>
 [[File:Computerchips.png]] 5 Computer Chips<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 300
+|research_cost=[[File:Knowledge.png]] 300 Knowledge
 |requirements=Build a Computer Chip Factory to unlock!
 }}

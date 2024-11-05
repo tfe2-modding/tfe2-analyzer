@@ -8,5 +8,5 @@ HippieSchool_doorless.png|Without door
 [[File:Wood.png]] 25 Wood<br>
 [[File:Stone.png]] 15 Stone<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 10000
+|research_cost=[[File:Knowledge.png]] 10000 Knowledge
 }}

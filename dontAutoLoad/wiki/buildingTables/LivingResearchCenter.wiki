@@ -12,6 +12,6 @@ LivingResearchCenter_doorless.png|Without door
 |residents=2
 |jobs=6
 |quality=100
-|research_cost=[[File:Knowledge.png]] 250
+|research_cost=[[File:Knowledge.png]] 250 Knowledge
 |requirements=Have at least 200 citizens with homes to unlock!
 }}

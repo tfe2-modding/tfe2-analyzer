@@ -7,7 +7,7 @@ HerbGarden_doorless.png|Without door
 |build_cost=[[File:Wood.png]] 20 Wood<br>
 [[File:Stone.png]] 15 Stone<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 10
+|research_cost=[[File:Knowledge.png]] 10 Knowledge
 |requirements=Build two restaurants to unlock!
 |mode1='''Culinary Herbs''': "''Increases the capacity of restaurants to the left and right of the garden.''"
 |mode2='''Medicinal Herbs''': "''Improves the medical happiness. Herb gardens can't provide more than 20% of the medical happiness in total.''"

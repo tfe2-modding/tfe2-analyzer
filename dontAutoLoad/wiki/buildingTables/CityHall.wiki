@@ -8,7 +8,7 @@ CityHall_doorless.png|Without door
 [[File:Wood.png]] 200 Wood<br>
 [[File:Stone.png]] 100 Stone<br>
 |jobs=4
-|research_cost=[[File:Knowledge.png]] 150
+|research_cost=[[File:Knowledge.png]] 150 Knowledge
 |mode1='''Census Data''': "''Workers produce a small amount of knowledge based on the number of citizens.''"
 |mode2='''Night Mayor''': "''Nightclubs have 2 more capacity per worker here.''"
 }}

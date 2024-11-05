@@ -9,7 +9,7 @@ GrapheneFactory_doorless.png|Without door
 [[File:Computerchips.png]] 200 Computer Chips<br>
 [[File:Graphene.png]] 10 Graphene<br>
 |jobs=4
-|research_cost=[[File:Knowledge.png]] 30000
+|research_cost=[[File:Knowledge.png]] 30000 Knowledge
 |upgrade1='''Improved Precision''': "''The factory works 50% faster.''"
 * [[File:Refinedmetal.png]] 1 Refined Metals<br>
 * [[File:Computerchips.png]] 5 Computer Chips<br>

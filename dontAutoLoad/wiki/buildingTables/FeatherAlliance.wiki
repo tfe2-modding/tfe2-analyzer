@@ -11,5 +11,5 @@ FeatherAlliance_doorless.png|Without door
 |residents=7
 |jobs=7
 |quality=100
-|research_cost=[[File:Knowledge.png]] 100000
+|research_cost=[[File:Knowledge.png]] 100000 Knowledge
 }}

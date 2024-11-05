@@ -9,5 +9,5 @@ EscapeRoom_doorless.png|Without door
 [[File:Refinedmetal.png]] 500 Refined Metals<br>
 [[File:Computerchips.png]] 30 Computer Chips<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 7500
+|research_cost=[[File:Knowledge.png]] 7500 Knowledge
 }}

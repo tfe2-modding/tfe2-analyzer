@@ -7,5 +7,5 @@ OtherworldlyGardens_doorless.png|Without door
 |build_cost=[[File:Food.png]] 500 Food<br>
 [[File:Wood.png]] 400 Wood<br>
 [[File:Refinedmetal.png]] 10 Refined Metals<br>
-|research_cost=[[File:Knowledge.png]] 100000
+|research_cost=[[File:Knowledge.png]] 100000 Knowledge
 }}

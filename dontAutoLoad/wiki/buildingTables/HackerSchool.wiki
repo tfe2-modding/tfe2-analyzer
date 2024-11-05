@@ -8,5 +8,5 @@ HackerSchool_doorless.png|Without door
 [[File:Machineparts.png]] 1000 Machine Parts<br>
 [[File:Computerchips.png]] 750 Computer Chips<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 50000
+|research_cost=[[File:Knowledge.png]] 50000 Knowledge
 }}

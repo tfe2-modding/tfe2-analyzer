@@ -8,5 +8,6 @@ Teleporter_doorless.png|Without door
 [[File:Stone.png]] 100 Stone<br>
 [[File:Machineparts.png]] 150 Machine Parts<br>
 [[File:Computerchips.png]] 15 Computer Chips<br>
-|research_cost=[[File:Knowledge.png]] 5000
+|research_cost=[[File:Knowledge.png]] 5000 Knowledge
+|operating_cost=[[File:Knowledge.png]] 20 Knowledge per day
 }}

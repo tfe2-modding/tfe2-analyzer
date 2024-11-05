@@ -8,5 +8,5 @@ FossilMuseum_doorless.png|Without door
 [[File:Stone.png]] 1000 Stone<br>
 [[File:Computerchips.png]] 1 Computer Chips<br>
 |jobs=3
-|research_cost=[[File:Knowledge.png]] 25000
+|research_cost=[[File:Knowledge.png]] 25000 Knowledge
 }}

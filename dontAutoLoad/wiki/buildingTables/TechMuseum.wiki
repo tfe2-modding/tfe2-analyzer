@@ -9,5 +9,5 @@ TechMuseum_doorless.png|Without door
 [[File:Computerchips.png]] 150 Computer Chips<br>
 [[File:Graphene.png]] 50 Graphene<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 50000
+|research_cost=[[File:Knowledge.png]] 50000 Knowledge
 }}

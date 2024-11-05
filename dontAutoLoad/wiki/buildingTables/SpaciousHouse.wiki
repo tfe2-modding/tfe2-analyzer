@@ -8,7 +8,7 @@ SpaciousHouse_doorless.png|Without door
 [[File:Refinedmetal.png]] 10 Refined Metals<br>
 |residents=6
 |quality=60
-|research_cost=[[File:Knowledge.png]] 100
+|research_cost=[[File:Knowledge.png]] 100 Knowledge
 |upgrade1='''Smart Lights''': "''Improves housing quality by 15.''"
 * [[File:Computerchips.png]] 1 Computer Chips<br>
 * [[File:Refinedmetal.png]] 5 Refined Metals<br>

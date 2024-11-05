@@ -6,5 +6,5 @@ SportPark_doorless.png|Without door
 |description=''"Your citizens can do some exercises here, which makes them live longer. This effect is increased if there are parks next to it."''
 |build_cost=[[File:Wood.png]] 10 Wood<br>
 [[File:Stone.png]] 10 Stone<br>
-|research_cost=[[File:Knowledge.png]] 20
+|research_cost=[[File:Knowledge.png]] 20 Knowledge
 }}

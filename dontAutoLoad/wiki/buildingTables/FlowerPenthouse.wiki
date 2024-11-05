@@ -11,5 +11,6 @@ FlowerPenthouse_doorless.png|Without door
 [[File:Computerchips.png]] 16 Computer Chips<br>
 |residents=4
 |quality=100
-|research_cost=[[File:Knowledge.png]] 100000
+|research_cost=[[File:Knowledge.png]] 100000 Knowledge
+|operating_cost=[[File:Knowledge.png]] 2 Knowledge per day
 }}

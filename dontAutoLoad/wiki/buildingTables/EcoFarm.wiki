@@ -7,7 +7,7 @@ EcoFarm_doorless.png|Without door
 |build_cost=[[File:Wood.png]] 10 Wood<br>
 [[File:Stone.png]] 2 Stone<br>
 |jobs=3
-|research_cost=[[File:Knowledge.png]] 250
+|research_cost=[[File:Knowledge.png]] 250 Knowledge
 |requirements=Build an Experimental Farm and ten Botanical Gardens to unlock!
 |mode1='''Focus on Food Production''': "''Produce the normal amount of food.''"
 |mode2='''Produce Food and Some Wood''': "''Produce slightly less food, but also produce a small amount of wood by pruning the tree.''"

@@ -6,6 +6,6 @@ HyperElevator_doorless.png|Without door
 |description=''"Allows citizens to quickly go to elevators above and below in the same contiguous building. There may be other buildings in between the elevators."''
 |build_cost=[[File:Refinedmetal.png]] 5 Refined Metals<br>
 [[File:Machineparts.png]] 25 Machine Parts<br>
-|research_cost=[[File:Knowledge.png]] 200
+|research_cost=[[File:Knowledge.png]] 200 Knowledge
 |requirements=Have at least 200 citizens to unlock!
 }}

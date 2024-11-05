@@ -11,5 +11,6 @@ Mansion_doorless.png|Without door
 [[File:Graphene.png]] 3 Graphene<br>
 |residents=4
 |quality=75
-|research_cost=[[File:Knowledge.png]] 150000
+|research_cost=[[File:Knowledge.png]] 150000 Knowledge
+|operating_cost=[[File:Knowledge.png]] 2 Knowledge per day
 }}

@@ -9,7 +9,7 @@ MedicalClinic_doorless.png|Without door
 [[File:Machineparts.png]] 5 Machine Parts<br>
 [[File:Refinedmetal.png]] 20 Refined Metals<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 200
+|research_cost=[[File:Knowledge.png]] 200 Knowledge
 |requirements=Build a Refined Metals Factory to unlock!
 |upgrade1='''Improved Medical Education''': "''The quality of this building will be increased by 25% of the education happiness.''"
 * [[File:Food.png]] 100 Food<br>

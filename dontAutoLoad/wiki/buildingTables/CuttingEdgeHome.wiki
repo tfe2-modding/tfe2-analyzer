@@ -10,7 +10,7 @@ CuttingEdgeHome_doorless.png|Without door
 [[File:Computerchips.png]] 1 Computer Chips<br>
 |residents=4
 |quality=75
-|research_cost=[[File:Knowledge.png]] 500
+|research_cost=[[File:Knowledge.png]] 500 Knowledge
 |requirements=Build the Living Research Center to unlock!
 |upgrade1='''Bigger TV''': "''Improves housing quality by 5. Adds capacity for one resident.''"
 * [[File:Stone.png]] 2 Stone<br>

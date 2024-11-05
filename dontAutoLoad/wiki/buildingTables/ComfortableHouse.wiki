@@ -7,7 +7,7 @@ ComfortableHouse_doorless.png|Without door
 |build_cost=[[File:Wood.png]] 15 Wood<br>
 |residents=4
 |quality=65
-|research_cost=[[File:Knowledge.png]] 20
+|research_cost=[[File:Knowledge.png]] 20 Knowledge
 |upgrade1='''Comfortable Couch''': "''Improves housing quality by 15.''"
 * [[File:Food.png]] 20 Food<br>
 * [[File:Wood.png]] 5 Wood<br>

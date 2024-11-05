@@ -5,5 +5,5 @@ ClimbRock_doorless.png|Without door
 </gallery>
 |description=''"!!! missing text !!!"''
 |build_cost=[[File:Stone.png]] 500 Stone<br>
-|research_cost=[[File:Knowledge.png]] 200
+|research_cost=[[File:Knowledge.png]] 200 Knowledge
 }}

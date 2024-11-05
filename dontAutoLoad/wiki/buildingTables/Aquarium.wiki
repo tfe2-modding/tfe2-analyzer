@@ -7,6 +7,6 @@ Aquarium_doorless.png|Without door
 |build_cost=[[File:Food.png]] 50 Food<br>
 [[File:Wood.png]] 200 Wood<br>
 [[File:Refinedmetal.png]] 10 Refined Metals<br>
-|research_cost=[[File:Knowledge.png]] 300
+|research_cost=[[File:Knowledge.png]] 300 Knowledge
 |requirements=Build at least twelve herb gardens to unlock!
 }}

@@ -10,6 +10,6 @@ BlossomHippieHQ_doorless.png|Without door
 |residents=6
 |jobs=6
 |quality=100
-|research_cost=[[File:Knowledge.png]] 5000
+|research_cost=[[File:Knowledge.png]] 5000 Knowledge
 |requirements=Build a stack of Botanical Gardens at least twenty buildings high to unlock!
 }}

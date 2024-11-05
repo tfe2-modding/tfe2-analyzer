@@ -7,7 +7,7 @@ StoneTeleporter_doorless.png|Without door
 |build_cost=[[File:Wood.png]] 30 Wood<br>
 [[File:Machineparts.png]] 30 Machine Parts<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 75
+|research_cost=[[File:Knowledge.png]] 75 Knowledge
 |upgrade1='''Remote Control''': "''The worker of the rock teleporter can teleport stone even if they're somewhere else. This allows them to help mine stone as well.''"
 * [[File:Machineparts.png]] 2 Machine Parts<br>
 * [[File:Computerchips.png]] 5 Computer Chips<br>

@@ -8,7 +8,7 @@ Observatory_doorless.png|Without door
 [[File:Stone.png]] 40 Stone<br>
 [[File:Machineparts.png]] 40 Machine Parts<br>
 |jobs=3
-|research_cost=[[File:Knowledge.png]] 100
+|research_cost=[[File:Knowledge.png]] 100 Knowledge
 |upgrade1='''Star Database''': "''This building produces 50% more knowledge. If the Precise Universe Mapping upgrade from the Supercomputer has been researched, it produces 500% more knowledge instead.''"
 * [[File:Stone.png]] 5 Stone<br>
 * [[File:Computerchips.png]] 5 Computer Chips<br>

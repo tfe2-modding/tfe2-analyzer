@@ -8,5 +8,5 @@ HoloGameHall_doorless.png|Without door
 [[File:Stone.png]] 500 Stone<br>
 [[File:Machineparts.png]] 50 Machine Parts<br>
 [[File:Computerchips.png]] 40 Computer Chips<br>
-|research_cost=[[File:Knowledge.png]] 10000
+|research_cost=[[File:Knowledge.png]] 10000 Knowledge
 }}
