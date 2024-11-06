@@ -5,5 +5,5 @@ OldestTreeIntheUniverse_doorless.png|Without door
 </gallery>
 |description=''"Makes citizens who visit it live longer."''
 |build_cost=[[File:Wood.png]] 10 Wood<br>
-|research_cost=[[File:Knowledge.png]] 30000 Knowledge
+|research_cost=[[File:Knowledge.png]] 30,000 Knowledge
 }}

@@ -4,9 +4,9 @@ WizardHatCafe.png|With door
 WizardHatCafe_doorless.png|Without door
 </gallery>
 |description=''"A possibly magical rooftop cafe. Seems to occasionally spawn giant frogs."''
-|build_cost=[[File:Food.png]] 1000 Food<br>
+|build_cost=[[File:Food.png]] 1,000 Food<br>
 [[File:Wood.png]] 500 Wood<br>
 [[File:Graphene.png]] 10 Graphene<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 12500 Knowledge
+|research_cost=[[File:Knowledge.png]] 12,500 Knowledge
 }}

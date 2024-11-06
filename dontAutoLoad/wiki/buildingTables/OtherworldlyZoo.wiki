@@ -7,5 +7,5 @@ OtherworldlyZoo_doorless.png|Without door
 |build_cost=[[File:Food.png]] 500 Food<br>
 [[File:Wood.png]] 250 Wood<br>
 [[File:Refinedmetal.png]] 10 Refined Metals<br>
-|research_cost=[[File:Knowledge.png]] 25000 Knowledge
+|research_cost=[[File:Knowledge.png]] 25,000 Knowledge
 }}

@@ -5,15 +5,15 @@ Misdirector_doorless.png|Without door
 </gallery>
 |description=''"Whenever someone uses a teleporter, there is a small chance they will be brought here instead. This will confuse them for a short while. This invention is not completely useless though: you will gain some knowledge each time. Also, the Misdirector halves the operating cost of teleporters."''
 |build_cost=[[File:Wood.png]] 400 Wood<br>
-[[File:Stone.png]] 10000 Stone<br>
+[[File:Stone.png]] 10,000 Stone<br>
 [[File:Machineparts.png]] 500 Machine Parts<br>
 [[File:Computerchips.png]] 500 Computer Chips<br>
-|research_cost=[[File:Knowledge.png]] 30000 Knowledge
+|research_cost=[[File:Knowledge.png]] 30,000 Knowledge
 |mode1='''Enable''': "''The Misdirector is predictably unpredictable.''"
 |mode2='''Overclock''': "''Any attempt at teleportation will bring people here. Perfect to stop excess productivity.
 The knowledge gain per misdirection is reduced by 90% because the device is overloaded.''"
-* [[File:Knowledge.png]] 5000 Knowledge<br>
+* [[File:Knowledge.png]] 5,000 Knowledge<br>
 |mode3='''Mostly Disable''': "''There's an OFF button. It mostly works.''"
 |mode4='''Disable''': "''With some effort, the Misdirector can be tamed.''"
-* [[File:Knowledge.png]] 50000 Knowledge<br>
+* [[File:Knowledge.png]] 50,000 Knowledge<br>
 }}

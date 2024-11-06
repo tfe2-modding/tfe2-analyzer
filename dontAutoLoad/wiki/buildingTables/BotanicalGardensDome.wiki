@@ -6,5 +6,5 @@ BotanicalGardensDome_doorless.png|Without door
 |description=''"A stylish roof for your botanical gardens."''
 |build_cost=[[File:Wood.png]] 25 Wood<br>
 [[File:Refinedmetal.png]] 1 Refined Metals<br>
-|research_cost=[[File:Knowledge.png]] 2500 Knowledge
+|research_cost=[[File:Knowledge.png]] 2,500 Knowledge
 }}

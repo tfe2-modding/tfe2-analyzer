@@ -10,10 +10,10 @@ TinkerersHome_doorless.png|Without door
 [[File:Computerchips.png]] 2 Computer Chips<br>
 |residents=4
 |quality=80
-|research_cost=[[File:Knowledge.png]] 2000 Knowledge
+|research_cost=[[File:Knowledge.png]] 2,000 Knowledge
 |upgrade1='''Better Tools''': "''Improves housing quality by 20.''"
 * [[File:Machineparts.png]] 10 Machine Parts<br>
 * [[File:Computerchips.png]] 2 Computer Chips<br>
 * [[File:Refinedmetal.png]] 6 Refined Metals<br>
-* [[File:Knowledge.png]] 3000 Knowledge<br>
+* [[File:Knowledge.png]] 3,000 Knowledge<br>
 }}

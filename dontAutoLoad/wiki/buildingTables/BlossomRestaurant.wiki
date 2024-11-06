@@ -7,5 +7,5 @@ BlossomRestaurant_doorless.png|Without door
 |build_cost=[[File:Food.png]] 500 Food<br>
 [[File:Wood.png]] 500 Wood<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 2500 Knowledge
+|research_cost=[[File:Knowledge.png]] 2,500 Knowledge
 }}

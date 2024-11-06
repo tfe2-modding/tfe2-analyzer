@@ -170,7 +170,7 @@ if (confirm("Run the analyzer?")) try {
 					knowledge: "Knowledge"
 				}
 				if ((includeknowledge || key != "knowledge") && MaterialsHelper.materialNames.includes(key) && value) {
-					return prefix+"[[File:"+filenames[key]+".png]] "+value+" "+(key == "refinedMetal" ? "Refined Metals" : MaterialsHelper.findMaterialDisplayName(MaterialsHelper.findMaterialIndex(key)))+"<br>"
+					return prefix+"[[File:"+filenames[key]+".png]] "+value.toLocaleString()+" "+(key == "refinedMetal" ? "Refined Metals" : MaterialsHelper.findMaterialDisplayName(MaterialsHelper.findMaterialIndex(key)))+"<br>"
 				}
 			}).filter(e=>e!=null).join("\n")
 		}
@@ -181,11 +181,11 @@ ${className}_doorless.png|Without door
 </gallery>
 ${info.description ? `|description=''"${info.description.replace("!unlocks", " Also unlocks new buildings.")}"''` : ""}
 |build_cost=${getWikiCost(info)}
-${info.residents ? "|residents="+info.residents : ""}
-${info.jobs ? "|jobs="+info.jobs : ""}
-${info.quality ? "|quality="+info.quality : ""}
-${info.knowledge ? "|research_cost=[[File:Knowledge.png]] "+info.knowledge+" Knowledge" : ""}
-${info.teleporterOperatingCost ? "|operating_cost=[[File:Knowledge.png]] "+info.teleporterOperatingCost+" Knowledge per day" : ""}
+${info.residents ? "|residents="+info.residents.toLocaleString() : ""}
+${info.jobs ? "|jobs="+info.jobs.toLocaleString() : ""}
+${info.quality ? "|quality="+info.quality.toLocaleString() : ""}
+${info.knowledge ? "|research_cost=[[File:Knowledge.png]] "+info.knowledge.toLocaleString()+" Knowledge" : ""}
+${info.teleporterOperatingCost ? "|operating_cost=[[File:Knowledge.png]] "+info.teleporterOperatingCost.toLocaleString()+" Knowledge per day" : ""}
 ${info.showUnlockHint ? "|requirements="+info.showUnlockHint : ""}
 ${info.upgrades?.map((e,i)=>{
 return `|upgrade${i+1}='''${e.name}''': "''${e.description}''"

@@ -13,7 +13,7 @@ ComputerChipFactory_doorless.png|Without door
 * [[File:Machineparts.png]] 50 Machine Parts<br>
 * [[File:Computerchips.png]] 5 Computer Chips<br>
 * [[File:Refinedmetal.png]] 10 Refined Metals<br>
-* [[File:Knowledge.png]] 1000 Knowledge<br>
+* [[File:Knowledge.png]] 1,000 Knowledge<br>
 |mode1='''Enable Factory''': "''The factory will work normally.''"
 |mode2='''Disable Factory''': "''The factory will fully halt production and not use any refined metals.''"
 }}

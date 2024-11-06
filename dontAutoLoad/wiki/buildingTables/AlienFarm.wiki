@@ -6,5 +6,5 @@ AlienFarm_doorless.png|Without door
 |description=''"A farm that grows strange purple crops. Produces more food for each adjacent alien house. Not affected by lab technology."''
 |build_cost=[[File:Wood.png]] 100 Wood<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 20000 Knowledge
+|research_cost=[[File:Knowledge.png]] 20,000 Knowledge
 }}

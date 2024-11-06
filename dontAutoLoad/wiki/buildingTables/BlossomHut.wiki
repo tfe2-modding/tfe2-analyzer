@@ -8,6 +8,6 @@ BlossomHut_doorless.png|Without door
 [[File:Wood.png]] 200 Wood<br>
 |residents=2
 |quality=100
-|research_cost=[[File:Knowledge.png]] 1500 Knowledge
+|research_cost=[[File:Knowledge.png]] 1,500 Knowledge
 |requirements=Build ten blossom restaurants to unlock!
 }}

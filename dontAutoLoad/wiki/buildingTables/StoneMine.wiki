@@ -12,5 +12,5 @@ StoneMine_doorless.png|Without door
 * [[File:Knowledge.png]] 3 Knowledge<br>
 |upgrade2='''AI-assisted Mining''': "''Use a computer system to improve mining speed by 30%.''"
 * [[File:Computerchips.png]] 10 Computer Chips<br>
-* [[File:Knowledge.png]] 1500 Knowledge<br>
+* [[File:Knowledge.png]] 1,500 Knowledge<br>
 }}

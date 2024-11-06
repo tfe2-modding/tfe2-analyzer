@@ -8,5 +8,5 @@ UnderwaterHouse_doorless.png|Without door
 [[File:Refinedmetal.png]] 20 Refined Metals<br>
 |residents=3
 |quality=100
-|research_cost=[[File:Knowledge.png]] 10000 Knowledge
+|research_cost=[[File:Knowledge.png]] 10,000 Knowledge
 }}

@@ -9,5 +9,5 @@ ScrapyardNightClub_doorless.png|Without door
 [[File:Computerchips.png]] 10 Computer Chips<br>
 [[File:Refinedmetal.png]] 50 Refined Metals<br>
 |jobs=1
-|research_cost=[[File:Knowledge.png]] 2000 Knowledge
+|research_cost=[[File:Knowledge.png]] 2,000 Knowledge
 }}

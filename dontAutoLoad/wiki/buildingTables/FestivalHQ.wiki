@@ -4,7 +4,7 @@ FestivalHQ.png|With door
 FestivalHQ_doorless.png|Without door
 </gallery>
 |description=''"Organize awesome festivals to entertain your citizens!"''
-|build_cost=[[File:Wood.png]] 100000 Wood<br>
+|build_cost=[[File:Wood.png]] 100,000 Wood<br>
 |jobs=5
-|research_cost=[[File:Knowledge.png]] 25000 Knowledge
+|research_cost=[[File:Knowledge.png]] 25,000 Knowledge
 }}

@@ -4,8 +4,8 @@ RocketLaunchPlatform.png|With door
 RocketLaunchPlatform_doorless.png|Without door
 </gallery>
 |description=''"Build rockets to explore space."''
-|build_cost=[[File:Refinedmetal.png]] 5000 Refined Metals<br>
-[[File:Computerchips.png]] 1500 Computer Chips<br>
+|build_cost=[[File:Refinedmetal.png]] 5,000 Refined Metals<br>
+[[File:Computerchips.png]] 1,500 Computer Chips<br>
 [[File:Graphene.png]] 200 Graphene<br>
-|research_cost=[[File:Knowledge.png]] 40000 Knowledge
+|research_cost=[[File:Knowledge.png]] 40,000 Knowledge
 }}

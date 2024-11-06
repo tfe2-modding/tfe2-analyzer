@@ -9,5 +9,5 @@ RedwoodTreeHouse_doorless.png|Without door
 [[File:Machineparts.png]] 20 Machine Parts<br>
 |residents=2
 |quality=100
-|research_cost=[[File:Knowledge.png]] 7500 Knowledge
+|research_cost=[[File:Knowledge.png]] 7,500 Knowledge
 }}

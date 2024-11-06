@@ -10,5 +10,5 @@ HauntedLaboratory_doorless.png|Without door
 [[File:Machineparts.png]] 50 Machine Parts<br>
 [[File:Computerchips.png]] 2 Computer Chips<br>
 |jobs=2
-|research_cost=[[File:Knowledge.png]] 1000 Knowledge
+|research_cost=[[File:Knowledge.png]] 1,000 Knowledge
 }}

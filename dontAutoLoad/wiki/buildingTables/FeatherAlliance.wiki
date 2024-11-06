@@ -4,12 +4,12 @@ FeatherAlliance.png|With door
 FeatherAlliance_doorless.png|Without door
 </gallery>
 |description=''"The Feather Alliance has one simple goal: discover everything they can about the universe. They'd appreciate your help."''
-|build_cost=[[File:Wood.png]] 100000 Wood<br>
-[[File:Computerchips.png]] 2000 Computer Chips<br>
+|build_cost=[[File:Wood.png]] 100,000 Wood<br>
+[[File:Computerchips.png]] 2,000 Computer Chips<br>
 [[File:Graphene.png]] 500 Graphene<br>
-[[File:Rocketfuel.png]] 2000 Rocket Fuel<br>
+[[File:Rocketfuel.png]] 2,000 Rocket Fuel<br>
 |residents=7
 |jobs=7
 |quality=100
-|research_cost=[[File:Knowledge.png]] 100000 Knowledge
+|research_cost=[[File:Knowledge.png]] 100,000 Knowledge
 }}

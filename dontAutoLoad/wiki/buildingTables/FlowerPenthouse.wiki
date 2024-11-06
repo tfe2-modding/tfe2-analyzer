@@ -4,13 +4,13 @@ FlowerPenthouse.png|With door
 FlowerPenthouse_doorless.png|Without door
 </gallery>
 |description=''"A lavish rooftop house. It makes residents live longer. It also comes with a private teleporter."''
-|build_cost=[[File:Food.png]] 2000 Food<br>
-[[File:Wood.png]] 3000 Wood<br>
+|build_cost=[[File:Food.png]] 2,000 Food<br>
+[[File:Wood.png]] 3,000 Wood<br>
 [[File:Machineparts.png]] 20 Machine Parts<br>
 [[File:Refinedmetal.png]] 50 Refined Metals<br>
 [[File:Computerchips.png]] 16 Computer Chips<br>
 |residents=4
 |quality=100
-|research_cost=[[File:Knowledge.png]] 100000 Knowledge
+|research_cost=[[File:Knowledge.png]] 100,000 Knowledge
 |operating_cost=[[File:Knowledge.png]] 2 Knowledge per day
 }}

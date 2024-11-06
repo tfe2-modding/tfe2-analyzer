@@ -16,5 +16,5 @@ ComfortableHouse_doorless.png|Without door
 * [[File:Wood.png]] 2 Wood<br>
 * [[File:Machineparts.png]] 2 Machine Parts<br>
 * [[File:Computerchips.png]] 2 Computer Chips<br>
-* [[File:Knowledge.png]] 1000 Knowledge<br>
+* [[File:Knowledge.png]] 1,000 Knowledge<br>
 }}

@@ -11,7 +11,7 @@ RocketFuelFactory_doorless.png|Without door
 |upgrade1='''Metabolic Engineering''': "''Rocket fuel is produced faster and uses half the resources.''"
 * [[File:Machineparts.png]] 25 Machine Parts<br>
 * [[File:Computerchips.png]] 5 Computer Chips<br>
-* [[File:Knowledge.png]] 5000 Knowledge<br>
+* [[File:Knowledge.png]] 5,000 Knowledge<br>
 |mode1='''Use Food''': "''The factory will use food to make rocket fuel.''"
 |mode2='''Use Wood''': "''The factory will use wood to make rocket fuel.''"
 |mode3='''Disable Factory''': "''The factory will fully halt production.''"

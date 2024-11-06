@@ -9,5 +9,5 @@ FuturisticHome_doorless.png|Without door
 [[File:Graphene.png]] 5 Graphene<br>
 |residents=6
 |quality=100
-|research_cost=[[File:Knowledge.png]] 20000 Knowledge
+|research_cost=[[File:Knowledge.png]] 20,000 Knowledge
 }}

@@ -4,10 +4,10 @@ IntergalacticLibrary.png|With door
 IntergalacticLibrary_doorless.png|Without door
 </gallery>
 |description=''"This grand library greatly educates visitors. Workers produce knowledge based on the total number of citizens in associated cities. Also allows you to research city upgrades."''
-|build_cost=[[File:Food.png]] 100000 Food<br>
-[[File:Wood.png]] 200000 Wood<br>
-[[File:Computerchips.png]] 15000 Computer Chips<br>
-[[File:Graphene.png]] 2000 Graphene<br>
+|build_cost=[[File:Food.png]] 100,000 Food<br>
+[[File:Wood.png]] 200,000 Wood<br>
+[[File:Computerchips.png]] 15,000 Computer Chips<br>
+[[File:Graphene.png]] 2,000 Graphene<br>
 |jobs=3
-|research_cost=[[File:Knowledge.png]] 200000 Knowledge
+|research_cost=[[File:Knowledge.png]] 200,000 Knowledge
 }}

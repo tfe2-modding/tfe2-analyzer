@@ -4,12 +4,12 @@ BlossomHippieHQ.png|With door
 BlossomHippieHQ_doorless.png|Without door
 </gallery>
 |description=''"These hippies love flowers, peace and music. They have a few tasks for you, if you don't mind."''
-|build_cost=[[File:Food.png]] 5000 Food<br>
-[[File:Wood.png]] 5000 Wood<br>
+|build_cost=[[File:Food.png]] 5,000 Food<br>
+[[File:Wood.png]] 5,000 Wood<br>
 [[File:Refinedmetal.png]] 50 Refined Metals<br>
 |residents=6
 |jobs=6
 |quality=100
-|research_cost=[[File:Knowledge.png]] 5000 Knowledge
+|research_cost=[[File:Knowledge.png]] 5,000 Knowledge
 |requirements=Build a stack of Botanical Gardens at least twenty buildings high to unlock!
 }}

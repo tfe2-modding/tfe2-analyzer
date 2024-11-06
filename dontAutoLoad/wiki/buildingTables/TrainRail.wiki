@@ -5,6 +5,6 @@ TrainRail_doorless.png|Without door
 </gallery>
 |description=''"Trains can go extra fast here."''
 |build_cost=[[File:Refinedmetal.png]] 6 Refined Metals<br>
-|research_cost=[[File:Knowledge.png]] 2000 Knowledge
+|research_cost=[[File:Knowledge.png]] 2,000 Knowledge
 |requirements=Build ten train stations to unlock!
 }}

@@ -17,5 +17,5 @@ CozyHouse_doorless.png|Without door
 * [[File:Stone.png]] 2 Stone<br>
 * [[File:Machineparts.png]] 5 Machine Parts<br>
 * [[File:Computerchips.png]] 3 Computer Chips<br>
-* [[File:Knowledge.png]] 1000 Knowledge<br>
+* [[File:Knowledge.png]] 1,000 Knowledge<br>
 }}

@@ -4,15 +4,15 @@ TheMachine.png|With door
 TheMachine_doorless.png|Without door
 </gallery>
 |description=''"Makes Secret Society of the Key members live forever. Also produces random resources every day."''
-|build_cost=[[File:Food.png]] 20000 Food<br>
-[[File:Wood.png]] 10000 Wood<br>
-[[File:Stone.png]] 5000 Stone<br>
-[[File:Machineparts.png]] 10000 Machine Parts<br>
+|build_cost=[[File:Food.png]] 20,000 Food<br>
+[[File:Wood.png]] 10,000 Wood<br>
+[[File:Stone.png]] 5,000 Stone<br>
+[[File:Machineparts.png]] 10,000 Machine Parts<br>
 [[File:Computerchips.png]] 250 Computer Chips<br>
-|research_cost=[[File:Knowledge.png]] 25000 Knowledge
+|research_cost=[[File:Knowledge.png]] 25,000 Knowledge
 |upgrade1='''Machine Tuning''': "''The Machine produces 50% more materials and it sometimes also produces graphene and rocket fuel. If it's ever destroyed, Secret Society of the Key members stay alive longer. Members of the Feather Alliance live longer.''"
-* [[File:Rocketfuel.png]] 20000 Rocket Fuel<br>
-* [[File:Computerchips.png]] 5000 Computer Chips<br>
-* [[File:Graphene.png]] 1000 Graphene<br>
-* [[File:Knowledge.png]] 50000 Knowledge<br>
+* [[File:Rocketfuel.png]] 20,000 Rocket Fuel<br>
+* [[File:Computerchips.png]] 5,000 Computer Chips<br>
+* [[File:Graphene.png]] 1,000 Graphene<br>
+* [[File:Knowledge.png]] 50,000 Knowledge<br>
 }}

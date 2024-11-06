@@ -4,10 +4,10 @@ TheContraption.png|With door
 TheContraption_doorless.png|Without door
 </gallery>
 |description=''"."''
-|build_cost=[[File:Wood.png]] 20000 Wood<br>
-[[File:Stone.png]] 20000 Stone<br>
-[[File:Machineparts.png]] 5000 Machine Parts<br>
+|build_cost=[[File:Wood.png]] 20,000 Wood<br>
+[[File:Stone.png]] 20,000 Stone<br>
+[[File:Machineparts.png]] 5,000 Machine Parts<br>
 [[File:Refinedmetal.png]] 100 Refined Metals<br>
 [[File:Computerchips.png]] 125 Computer Chips<br>
-|research_cost=[[File:Knowledge.png]] 12500 Knowledge
+|research_cost=[[File:Knowledge.png]] 12,500 Knowledge
 }}

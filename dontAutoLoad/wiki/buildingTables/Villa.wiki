@@ -4,13 +4,13 @@ Villa.png|With door
 Villa_doorless.png|Without door
 </gallery>
 |description=''"A luxurious, modern villa complete with a private teleporter."''
-|build_cost=[[File:Food.png]] 1000 Food<br>
-[[File:Wood.png]] 1000 Wood<br>
+|build_cost=[[File:Food.png]] 1,000 Food<br>
+[[File:Wood.png]] 1,000 Wood<br>
 [[File:Machineparts.png]] 20 Machine Parts<br>
 [[File:Refinedmetal.png]] 40 Refined Metals<br>
 [[File:Computerchips.png]] 16 Computer Chips<br>
 |residents=5
 |quality=100
-|research_cost=[[File:Knowledge.png]] 5000 Knowledge
+|research_cost=[[File:Knowledge.png]] 5,000 Knowledge
 |operating_cost=[[File:Knowledge.png]] 2 Knowledge per day
 }}

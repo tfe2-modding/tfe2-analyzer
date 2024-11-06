@@ -12,5 +12,5 @@ AlienHouse_doorless.png|Without door
 * [[File:Food.png]] 25 Food<br>
 * [[File:Wood.png]] 50 Wood<br>
 * [[File:Computerchips.png]] 1 Computer Chips<br>
-* [[File:Knowledge.png]] 2000 Knowledge<br>
+* [[File:Knowledge.png]] 2,000 Knowledge<br>
 }}

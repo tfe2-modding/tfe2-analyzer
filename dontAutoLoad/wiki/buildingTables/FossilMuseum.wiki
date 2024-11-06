@@ -4,9 +4,9 @@ FossilMuseum.png|With door
 FossilMuseum_doorless.png|Without door
 </gallery>
 |description=''"Fossils found by the Fossil Detector are displayed here. Improves the education of visitors. Workers produce knowledge based on the number of fossils you found."''
-|build_cost=[[File:Wood.png]] 1000 Wood<br>
-[[File:Stone.png]] 1000 Stone<br>
+|build_cost=[[File:Wood.png]] 1,000 Wood<br>
+[[File:Stone.png]] 1,000 Stone<br>
 [[File:Computerchips.png]] 1 Computer Chips<br>
 |jobs=3
-|research_cost=[[File:Knowledge.png]] 25000 Knowledge
+|research_cost=[[File:Knowledge.png]] 25,000 Knowledge
 }}
