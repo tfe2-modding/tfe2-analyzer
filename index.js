@@ -122,7 +122,7 @@ if (confirm("Run the analyzer?")) try {
 			tempCtx.imageSmoothingEnabled = false
 			tempCtx.drawImage(c, 0, 0, c.width * 15, c.height * 15)
 			fs.writeFileSync(path.join("dontAutoLoad/wiki/buildings", className+".png"), toBuffer(tempC))
-			fs.writeFileSync(path.join("dontAutoLoad/wiki/buildingIcons", "icon_"+className+".png"), toBuffer(c))
+			fs.writeFileSync(path.join("dontAutoLoad/wiki/buildingIcons", "icon_"+className+"_door.png"), toBuffer(c))
 			// without door
 			ctx.clearRect(0, 0, c.width, c.height)
 			if (info.buttonBack) {
@@ -139,7 +139,7 @@ if (confirm("Run the analyzer?")) try {
 			tempCtx.imageSmoothingEnabled = false
 			tempCtx.drawImage(c, 0, 0, c.width * 15, c.height * 15)
 			fs.writeFileSync(path.join("dontAutoLoad/wiki/buildings", className+"_doorless.png"), toBuffer(tempC))
-			fs.writeFileSync(path.join("dontAutoLoad/wiki/buildingIcons", "icon_"+className+"_doorless.png"), toBuffer(c))
+			fs.writeFileSync(path.join("dontAutoLoad/wiki/buildingIcons", "icon_"+className+".png"), toBuffer(c))
 			Object.defineProperty(buildings[className], "hasValidWikiSprite", {
 				enumerable: false,
 				writable: true,
