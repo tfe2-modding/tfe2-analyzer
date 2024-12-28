@@ -229,6 +229,42 @@ ${getWikiCost(e, "* ", true)}`
 		}
 	}
 
+	// try to arrange game_js in a structured manner
+
+	fs.mkdirSync("dontAutoLoad/js")
+	let game_js_split = game_js.split(/^var \w+ = \$hx(?:C|E)/gm)
+	let game_js_entries = {}
+	for (let i = 0; i < game_js_split.length; i++) {
+		let e = game_js_split[i]
+		if (i == 0) {
+			// first entry, make it index.js
+			game_js_entries.index = e
+			continue
+		}
+		let isClass = e.startsWith("lasses[")
+		let key = JSON.parse(e.match(/\[[^\]]+?\]/)[0])[0]
+		let value = "var " + key.replaceAll(".", "_") + " = $hx" + (isClass ? "C" : "E") + e
+		if (i == game_js_split.length - 1) {
+			// last entry, append the end bit to index.js
+			let parts = e.split(/^function/gm)
+			value = parts.shift()
+			game_js_entries.index += "\nfunction" + parts.join("function")
+		}
+		game_js_entries[key] = value
+	}
+	for (const [k, v] of Object.entries(game_js_entries)) {
+		let path_split = k.split(".")
+		let filename = path_split.pop() + ".js"
+		if (path_split.length > 0) {
+			fs.mkdirSync("dontAutoLoad/js/"+path_split.join("/"), {
+				recursive: true
+			})
+		}
+		path_split.push(filename)
+		let p = path_split.join("/")
+		fs.writeFileSync("dontAutoLoad/js/"+p, v)
+	}
+
 	fs.writeFileSync("dontAutoLoad/log.txt", log.join("\n"))
 
 	nw.Shell.openExternal(path.resolve("dontAutoLoad"))
@@ -236,4 +272,5 @@ ${getWikiCost(e, "* ", true)}`
 } catch(e) {
 	require("process").chdir(olddirname)
 	alert(e)
+	console.error(e)
 }
